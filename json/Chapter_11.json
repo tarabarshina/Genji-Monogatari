@@ -1,0 +1,842 @@
+﻿[
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　花散里訪問を決意",
+    "Line":  "1",
+    "LineId":  "11010101",
+    "Text_Original":  "　人知れぬ、御心づからのもの思はしさは、いつとなきことなめれど、かくおほかたの世につけてさへ、わづらはしう思し乱るることのみまされば、もの心細く、世の中なべて厭はしう思しならるるに、さすがなること多かり。",
+    "Text_Original_Romanized":  "  Hito sire nu, mikokorodukara no mono-omohasisa ha, itu to naki koto na\u0027 mere do, kaku ohokata no yo ni tuke te sahe, wadurahasiu obosi midaruru koto nomi masare ba, mono-kokorobosoku, yononaka nabete itohasiu obosi nara ruru ni, sasuga naru koto ohokari.",
+    "Text_Shibuya":  "　誰知らぬ、ご自分から求めての物思いは、いつといって絶えることはないようであるが、このように世間一般のことにつけてまでも、めんどうにお悩みになることばかりが増えてゆくので、何となく心細く、世の中をおしなべて嫌にお思いになるが、そうも行かないことが多かった。",
+    "Text_Yosano":  "　みずから求めてしている恋愛の苦は昔もこのごろも変わらない源氏であるが、ほかから受ける忍びがたい圧迫が近ごろになってますます加わるばかりであったから、心細くて、人間の生活というものからのがれたい欲求も起こるが、さてそうもならない\u003cRUBY\u003e\u003cRB\u003e絆\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eほだし\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eは幾つもあった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "1",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "人知れぬ御心づからのもの思はしさは",
+                            "Annotation_Body":  "『集成』は「人知れず、ご自分から求めて物思いに悩むことは。藤壷や朧月夜などへの恋の悩み」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "2",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いつとなきことなめれど",
+                            "Annotation_Body":  "尊経閣文庫本「め」補入。「めれ」（推量の助動詞）は語り手の推量。"
+                        },
+                        {
+                            "Annotation_Num":  "3",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かくおほかたの世につけてさへ",
+                            "Annotation_Body":  "「さへ」（副助詞）、添加の意。---まで。---までも。『完訳』は「桐壷院崩御後の社会的状況。恋ゆえの人生を主に、それに社会的な存在の奥行を与え語る趣」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "4",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ことのみ",
+                            "Annotation_Body":  "しかのみ横"
+                        },
+                        {
+                            "Annotation_Num":  "5",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "世の中なべて厭はしう",
+                            "Annotation_Body":  "『完訳』は「葵の上の死を契機とする厭世観が持続している」と指摘。源氏、二十二歳秋八月に妻の死去、翌二十三歳の冬十一月に父桐壷院の崩御、と二年連続して、近親の死に遭遇し、世の中は右大臣家方の時代と変化。"
+                        },
+                        {
+                            "Annotation_Num":  "6",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "思しならるるに",
+                            "Annotation_Body":  "「に」（接続助詞）は逆接の意。"
+                        },
+                        {
+                            "Annotation_Num":  "7",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さすがなること多かり",
+                            "Annotation_Body":  "『集成』は「そうはいかないこと」の意に解す。『完訳』は「いざ出家となると踏み切れぬ気持。これまでも繰り返された」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　花散里訪問を決意",
+    "Line":  "2",
+    "LineId":  "11010102",
+    "Text_Original":  "　麗景殿と聞こえしは、宮たちもおはせず、院隠れさせたまひて後、いよいよあはれなる御ありさまを、ただこの大将殿の御心にもて隠されて、過ぐしたまふなるべし。",
+    "Text_Original_Romanized":  "  Reikeiden to kikoye si ha, Miya-tati mo ohase zu, Win kakure sase tamahi te noti, iyoiyo ahare naru ohom-arisama wo, tada kono Daisyaudono no mikokoro ni motekakusa re te, sugusi tamahu naru besi.",
+    "Text_Shibuya":  "　麗景殿と申し上げた方は、宮たちもいらっしゃらず、院が御崩御あそばした後、ますますお寂しいご様子を、わずかにこの大将殿のお心づかいに庇護されて、お過ごしになっているのであろう。",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e麗景殿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eれいげいでん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e女御\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eにょご\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eといわれた方は皇子女もなくて、院がお\u003cRUBY\u003e\u003cRB\u003e崩\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかく\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eれになって以後はまったくたよりない身の上になっているのであるが、源氏の君の好意で生活はしていた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "8",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "麗景殿と聞こえしは",
+                            "Annotation_Body":  "れいけんてん明三　桐壷院の麗景殿女御。「賢木」巻の右大臣家の藤大納言の娘で頭弁の姉（朱雀院の麗景殿女御）とは別人。"
+                        },
+                        {
+                            "Annotation_Num":  "9",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あはれなる御ありさまを",
+                            "Annotation_Body":  "『集成』は「おさびしいお暮らしなのを」と解し、『完訳』は「経済的不如意をさす」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "10",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "御心に",
+                            "Annotation_Body":  "おほん心に横　「御」の読み方が「おほん」とある例。"
+                        },
+                        {
+                            "Annotation_Num":  "11",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "過ぐしたまふなるべし",
+                            "Annotation_Body":  "「なる」（断定の助動詞）「べし」（推量の助動詞）は語り手の判断推量。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　花散里訪問を決意",
+    "Line":  "3",
+    "LineId":  "11010103",
+    "Text_Original":  "　御おとうとの三の君、内裏わたりにてはかなうほのめきたまひしなごりの、例の御心なれば、さすがに忘れも果てたまはず、わざとももてなしたまはぬに、人の御心をのみ尽くし果てたまふべかめるをも、このごろ残ることなく思し乱るる世のあはれのくさはひには、思ひ出でたまふには、忍びがたくて、五月雨の空めづらしく晴れたる雲間に渡りたまふ。",
+    "Text_Original_Romanized":  "  Ohom-otouto no Sam-no-Kimi, Uti watari nite hakanau honomeki tamahi si nagori no, rei no mikokoro nare ba, sasuga ni wasure mo hate tamaha zu, wazato mo motenasi tamaha nu ni, hito no mikokoro wo nomi tukusi hate tamahu beka\u0027 meru wo mo, konogoro nokoru koto naku obosi midaruru yo no ahare no kusahahi ni ha, omohi ide tamahu ni ha, sinobigataku te, samidare no sora medurasiku hare taru kumoma ni watari tamahu.",
+    "Text_Shibuya":  "　御令妹の三の君、宮中辺りでちょっとお逢いになった縁で、例のご性格なので、そうはいってもすっかりお忘れにならず、熱心にお通い続けるというのでもないので、女君がすっかりお悩みきっていらっしゃるらしいのも、このころのすっかり何もかもお悩みになっている世の中の無常をそそる種の一つとしては、お思い出しになると、抑えきれなくて、五月雨の空が珍しく晴れた雲の切れ間にお出向きになる。",
+    "Text_Yosano":  "　この人の妹の三の君と源氏は若い時代に恋愛をした。例の性格から関係を絶つこともなく、また夫人として待遇することもなしにまれまれ通っているのである。女としては\u003cRUBY\u003e\u003cRB\u003e煩悶\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eはんもん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eをすることの多い境遇である。物哀れな心持ちになっているこのごろの源氏は、急にその人を\u003cRUBY\u003e\u003cRB\u003e訪\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eと\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eうてやりたくなった心はおさえきれないほどのものだったから、\u003cRUBY\u003e\u003cRB\u003e五月雨\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eさみだれ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの珍しい晴れ間に行った。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "12",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "御おとうとの三の君",
+                            "Annotation_Body":  "後に「花散里」と呼称される女性。しかしこの巻では姉に付随して語られる存在。なお、「おとうと」は「おとひと」（乙人）の転で、男女にかかわらず同性の兄弟姉妹のうちの年下の人をいった。"
+                        },
+                        {
+                            "Annotation_Num":  "13",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "はかなう",
+                            "Annotation_Body":  "は（は/＄は）かなう大　大島本は字母「八」を朱筆でミセケチにして字母「者」と訂正。すなわち、前文「わたりにて」「は」と係助詞に誤読されることを危惧して他の字母「者」に訂正したもの。"
+                        },
+                        {
+                            "Annotation_Num":  "14",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "なごりの",
+                            "Annotation_Body":  "なこり明三証"
+                        },
+                        {
+                            "Annotation_Num":  "15",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "例の御心なれば",
+                            "Annotation_Body":  "『集成』は「いつものお心癖なので。一度逢った女は忘れないという源氏の性質」と解し、また『完訳』は「源氏の性分。一度逢った女を捨て去ることもないが、特別熱心に通い続けることもない、という」と解す。すなわち、前者は「さすがに忘れもはて給はず」の句にだけ掛かると解し、後者は「わざとももてなし給はぬに」の句まで掛かると解す。"
+                        },
+                        {
+                            "Annotation_Num":  "16",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "もてなしたまはぬに",
+                            "Annotation_Body":  "「に」接続助詞、原因理由を表す。"
+                        },
+                        {
+                            "Annotation_Num":  "17",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "人の御心をのみ尽くし果てたまふべかめるをも",
+                            "Annotation_Body":  "「人」は花散里をさす。「べか」（推量の助動詞）「める」（推量の助動詞）は語り手の推量。"
+                        },
+                        {
+                            "Annotation_Num":  "18",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "このごろ",
+                            "Annotation_Body":  "『集成』は「このころ」と清音、『完訳』は「このごろ」と濁音に読む。『図書寮本名義抄』に「比日　コノゴロ」とある。"
+                        },
+                        {
+                            "Annotation_Num":  "19",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "残ることなく思し乱るる",
+                            "Annotation_Body":  "源氏の物思いをいう。"
+                        },
+                        {
+                            "Annotation_Num":  "20",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "世のあはれのくさはひには",
+                            "Annotation_Body":  "『集成』は「人生の哀しみをそそるものの一つとしては」の意に解し、『完訳』は「世の中の何事につけても心を痛めていらっしゃる、そうした一つとしては」の意に解す。"
+                        },
+                        {
+                            "Annotation_Num":  "21",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "たまふには",
+                            "Annotation_Body":  "たまふには定大横－給には（は/＄）三－たまふに明書　河内本も定家本等と同文。別本の御物本と陽明文庫本は為明本等と同文。「くさはひには思ひ出でたまふには」というやや不自然さを感じさせる文脈ではあるが、定家本本来の文章表現である。"
+                        },
+                        {
+                            "Annotation_Num":  "22",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "五月雨の空めづらしく晴れたる雲間に渡りたまふ",
+                            "Annotation_Body":  "季節は夏、五月雨の時期。この物語（花散里物語）は夏を季節的背景として語られる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "1",
+    "LineId":  "11010201",
+    "Text_Original":  "　何ばかりの御よそひなく、うちやつして、御前などもなく、忍びて、中川のほどおはし過ぐるに、ささやかなる家の、木立などよしばめるに、よく鳴る琴を、あづまに調べて、掻き合はせ、にぎははしく弾きなすなり。",
+    "Text_Original_Romanized":  "  Nani bakari no ohom-yosohi naku, uti-yatusi te, gozen nado mo naku, sinobi te, Nakagaha no hodo ohasi suguru ni, sasayaka naru ihe no, kodati nado yosibame ru ni, yoku naru koto wo, Aduma ni sirabe te, kakiahase, nigihahasiku hiki nasu nari.",
+    "Text_Shibuya":  "　特にこれといったお支度もなさらず、目立たぬようにして、御前駆などもなく、お忍びで、中川の辺りをお通り過ぎになると、小さな家で、木立など風情があって、良い音色の琴を東の調べに合わせて、賑やかに弾いているのが聞こえる。",
+    "Text_Yosano":  "　目だたない人数を従えて、ことさら簡素なふうをして出かけたのである。中川辺を通って行くと、小さいながら庭木の\u003cRUBY\u003e\u003cRB\u003e繁\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eしげ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eりようなどのおもしろく見える家で、よい音のする琴を\u003cRUBY\u003e\u003cRB\u003e和琴\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eわごん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに合わせて\u003cRUBY\u003e\u003cRB\u003e派手\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eはで\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに\u003cRUBY\u003e\u003cRB\u003e弾\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eく音がした。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "23",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "何ばかりの御よそひなく",
+                            "Annotation_Body":  "御前駆などもなく恋の忍び歩きのさま。"
+                        },
+                        {
+                            "Annotation_Num":  "24",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "御前",
+                            "Annotation_Body":  "御せん定大三　「ごぜん」と読む例。"
+                        },
+                        {
+                            "Annotation_Num":  "25",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "中川のほど",
+                            "Annotation_Body":  "京極川の二条以北をいう。「帚木」巻にも中川が出てきた。貴族の別荘が多い辺り。"
+                        },
+                        {
+                            "Annotation_Num":  "26",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あづまに調べて",
+                            "Annotation_Body":  "「東の調べ」については不詳。河内本「さうの琴にあつまをしらへあはせて」（箏の琴に和琴を合奏させて）とある。"
+                        },
+                        {
+                            "Annotation_Num":  "27",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "掻き合はせ",
+                            "Annotation_Body":  "『集成』は「調絃してから、調子を整えるために弾く短い曲。各調子に１つずつある」と注し、また『完訳』は「短小の曲の合奏で調子を整えること、または合奏すること」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "28",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "弾きなすなり",
+                            "Annotation_Body":  "「なり」伝聞推量の助動詞。伝聞の意。牛車の中にいる源氏の耳に聞こえてくる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "2",
+    "LineId":  "11010202",
+    "Text_Original":  "　御耳とまりて、門近なる所なれば、すこしさし出でて見入れたまへば、大きなる桂の木の追ひ風に、祭のころ思し出でられて、そこはかとなくけはひをかしきを、「ただ一目見たまひし宿りなり」と見たまふ。ただならず、「ほど経にける、おぼめかしくや」と、つつましけれど、過ぎがてにやすらひたまふ、折しも、ほととぎす鳴きて渡る。もよほしきこえ顔なれば、御車おし返させて、例の、惟光入れたまふ。",
+    "Text_Original_Romanized":  "  Ohom-mimi tomari te, kado dika naru tokoro nare ba, sukosi sasiide te miire tamahe ba, ohoki naru katura no ki no ohikaze ni, maturi no koro obosi ide rare te, sokohakatonaku kehahi wokasiki wo, \"Tada hitome mi tamahi si yadori nari.\" to mi tamahu. Tada nara zu, \"Hodo he ni keru, obomekasiku ya?\" to, tutumasikere do, sugi gate ni yasurahi tamahu, worisimo, hototogisu naki te wataru. Moyohosi kikoye gaho nare ba, mi-kuruma osi-kahe sase te, rei no, Koremitu ire tamahu.",
+    "Text_Shibuya":  "　お耳にとまって、門に近い所なので、少し乗り出してお覗き込みなさると、大きな桂の木を吹き過ぎる風に乗って匂ってくる香りに、葵祭のころが思い出されなさって、どことなく趣があるので、「一度お契りになった家だ」と御覧になる。お気持ちが騒いで、「ずいぶんと過ぎてしまったなあ、はっきりと覚えているかどうか」と、気が引けたが、通り過ぎることもできず、ためらっていらっしゃる、ちょうどその時、ほととぎすが鳴いて飛んで行く。訪問せよと促しているかのようなので、お車を押し戻させて、例によって、惟光をお入れになる。",
+    "Text_Yosano":  "　源氏はちょっと心が\u003cRUBY\u003e\u003cRB\u003e惹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eかれて、往来にも近い建物のことであるから、なおよく聞こうと、少しからだを車から出してながめて見ると、その家の大木の\u003cRUBY\u003e\u003cRB\u003e桂\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかつら\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの葉のにおいが風に送られて来て、加茂の祭りのころが思われた。なんとなく好奇心の\u003cRUBY\u003e\u003cRB\u003e惹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eかれる家であると思って、考えてみると、それはただ一度だけ来たことのある女の家であった。長く省みなかった自分が\u003cRUBY\u003e\u003cRB\u003e訪\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eたず\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eねて行っても、もう忘れているかもしれないがなどと思いながらも、通り過ぎる気にはなれないで、じっとその家を見ている時に\u003cRUBY\u003e\u003cRB\u003e杜鵑\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eほととぎす\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eが\u003cRUBY\u003e\u003cRB\u003e啼\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eな\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eいて通った。源氏に何事かを促すようであったから、車を引き返させて、こんな役に\u003cRUBY\u003e\u003cRB\u003e馴\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eな\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eれた\u003cRUBY\u003e\u003cRB\u003e惟光\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこれみつ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを使いにやった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "29",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さし出でて見入れたまへば",
+                            "Annotation_Body":  "源氏が牛車の御簾の間から体を出して覗き見ること。"
+                        },
+                        {
+                            "Annotation_Num":  "30",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "思し出でられて",
+                            "Annotation_Body":  "「られ」自発の助動詞。"
+                        },
+                        {
+                            "Annotation_Num":  "31",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ただ一目見たまひし宿りなり",
+                            "Annotation_Body":  "敬語「たまふ」があるので、地の文から源氏の心中を叙述したかたち。"
+                        },
+                        {
+                            "Annotation_Num":  "32",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ほど経にけるおぼめかしくや",
+                            "Annotation_Body":  "源氏の心中。"
+                        },
+                        {
+                            "Annotation_Num":  "33",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "過ぎがてにやすらひたまふ折しもほととぎす",
+                            "Annotation_Body":  "『異本紫明抄』は「夜や暗き道やまどへる郭公わが宿をしも過ぎがてに鳴く」（古今集夏、一五四、紀友則）を指摘する。歌中より第三句「郭公」第五句「過ぎがてに」の語句を用いる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "3",
+    "LineId":  "11010203",
+    "Text_Original":  "　「をちかへりえぞ忍ばれぬほととぎす\u003cBR\u003e　　ほの語らひし宿の垣根に」",
+    "Text_Original_Romanized":  "    \"Wotikaheri e zo sinoba re nu hototogisu\u003cBR\u003e    hono-katarahi si yado no kakine ni",
+    "Text_Shibuya":  "　「昔にたちかえって懐かしく思わずにはいられない、ほととぎすの声だ\u003cBR\u003e　　かつてわずかに契りを交わしたこの家なので」",
+    "Text_Yosano":  "　をちかへりえぞ忍ばれぬ杜鵑\u003cBR\u003e　ほの語らひし宿の\u003cRUBY\u003e\u003cRB\u003e垣根\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかきね\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "34",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "をちかへりえぞ忍ばれぬほととぎす--ほの語らひし宿の垣根に",
+                            "Annotation_Body":  "源氏の贈歌。惟光が朗誦する。昔のころが堪えられなく思い出されて、お逢いしたいの意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "4",
+    "LineId":  "11010204",
+    "Text_Original":  "　寝殿とおぼしき屋の西の妻に人びとゐたり。先々も聞きし声なれば、声づくりけしきとりて、御消息聞こゆ。若やかなるけしきどもして、おぼめくなるべし。",
+    "Text_Original_Romanized":  "  Sinden to obosiki ya no nisi no tuma ni hitobito wi tari. Sakizaki mo kiki si kowe nare ba, kowadukuri kesiki tori te, ohom-seusoko kikoyu. Wakayaka naru kesiki-domo si te, obomeku naru besi.",
+    "Text_Shibuya":  "　寝殿と思われる家屋の西の角に女房たちがいた。以前にも聞いた声なので、咳払いをして相手の様子を窺ってから、ご言伝を申し上げる。若々しい女房たちの気配がして、不審に思っているようである。",
+    "Text_Yosano":  "　この歌を言わせたのである。惟光がはいって行くと、この家の寝殿ともいうような所の西の端の座敷に女房たちが集まって、何か話をしていた。以前にもこうした使いに来て、聞き覚えのある声であったから、惟光は声をかけてから源氏の歌を伝えた。座敷の中で若い女房たちらしい声で何かささやいている。だれの訪れであるかがわからないらしい。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "35",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "声づくりけしきとりて御消息聞こゆ",
+                            "Annotation_Body":  "主語は惟光。"
+                        },
+                        {
+                            "Annotation_Num":  "36",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "おぼめくなるべし",
+                            "Annotation_Body":  "「なる」（断定の助動詞）「べし」（推量の助動詞）は、惟光と語り手の判断や推量。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "5",
+    "LineId":  "11010205",
+    "Text_Original":  "　「ほととぎす言問ふ声はそれなれど\u003cBR\u003e　　あなおぼつかな五月雨の空」",
+    "Text_Original_Romanized":  "    \"Hototogisu kototohu kowe ha sore nare do\u003cBR\u003e    ana obotuka na samidare no sora",
+    "Text_Shibuya":  "　「ほととぎすの声ははっきり分かりますが\u003cBR\u003e　　どのようなご用か分かりません、五月雨の空のように」",
+    "Text_Yosano":  "　ほととぎす語らふ声はそれながら\u003cBR\u003e　あなおぼつかな\u003cRUBY\u003e\u003cRB\u003e五月雨\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eさみだれ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの空\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "37",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "ほととぎす言問ふ声はそれなれど--あなおぼつかな五月雨の空",
+                            "Annotation_Body":  "女の返歌。源氏の君とは分かるが、今ごろ何のご用ですか、ととぼけた意。\u003cBR\u003e【言問ふ】－ことゝふ定大横－かたろふ明－かたらふ三書"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "6",
+    "LineId":  "11010206",
+    "Text_Original":  "　ことさらたどると見れば、",
+    "Text_Original_Romanized":  "  Kotosara tadoru to mire ba,",
+    "Text_Shibuya":  "　わざと分からないというふりをしていると見てとったので、",
+    "Text_Yosano":  "　こんな返歌をするのは、わからないふうをわざと作っているらしいので、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "38",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ことさらたどる",
+                            "Annotation_Body":  "わざと不審がって見せる、の意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "7",
+    "LineId":  "11010207",
+    "Text_Original":  "　「よしよし、植ゑし垣根も」",
+    "Text_Original_Romanized":  "  \"Yosi yosi, uwe si kakine mo.\"",
+    "Text_Shibuya":  "　「よろしい。植えた垣根も」",
+    "Text_Yosano":  "　「では門違いなのでしょうよ」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "39",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "よしよし植ゑし垣根も",
+                            "Annotation_Body":  "惟光の詞。『異本紫明抄』は「花散りし庭の木の葉も茂りあひて植ゑし垣根も見こそわかれね」（出典未詳）を指摘する。第四句の「植ゑし垣根も」による。垣根が見分けられない、家を間違えたのか、と引き下がる意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "8",
+    "LineId":  "11010208",
+    "Text_Original":  "　とて出づるを、人知れぬ心には、ねたうもあはれにも思ひけり。",
+    "Text_Original_Romanized":  "  tote iduru wo, hito sire nu kokoro ni ha, netau mo ahare ni mo omohi keri.",
+    "Text_Shibuya":  "　と言って出て行くのを、心の内では、恨めしくも悲しくも思うのであった。",
+    "Text_Yosano":  "　と惟光が言って、出て行くのを、\u003cRUBY\u003e\u003cRB\u003e主人\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eあるじ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの女だけは心の中でくやしく思い、寂しくも思った。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "40",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "人知れぬ心にはねたうもあはれにも思ひけり",
+                            "Annotation_Body":  "『完訳』は「女は内心では悔まれ感慨も深い。源氏への執着も捨てていない」と注す。このような人物描写がこの物語の奥行きを深くしているところ。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "9",
+    "LineId":  "11010209",
+    "Text_Original":  "　「さも、つつむべきことぞかし。ことわりにもあれば、さすがなり。かやうの際に、筑紫の五節が、らうたげなりしはや」",
+    "Text_Original_Romanized":  "  \"Samo, tutumu beki koto zo kasi. Kotowari ni mo are ba, sasuga nari. Kayau no kiha ni, Tukusi-no-Goseti ga, rautage nari si haya!\"",
+    "Text_Shibuya":  "　「そのように、遠慮しなければならない事情があるのであろう。道理でもあるので、そうもいかまい。このような身分では、筑紫の五節がかわいらしげであったなあ」",
+    "Text_Yosano":  "　知らぬふりをしなければならないのであろう、もっともであると源氏は思いながらも物足らぬ気がした。この女と同じほどの階級の女としては九州に行っている\u003cRUBY\u003e\u003cRB\u003e五節\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eごせち\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eが\u003cRUBY\u003e\u003cRB\u003e可憐\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかれん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eであった\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "41",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さもつつむべきことぞかし",
+                            "Annotation_Body":  "以下「らうたげなりしはや」まで、源氏の心中。『完訳』は「遠慮すべき事情。新しい男が通っているのでは、と直観される」と指摘。"
+                        },
+                        {
+                            "Annotation_Num":  "42",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かやうの際に",
+                            "Annotation_Body":  "『完訳』は以下「らうたげなりしはや」までを、源氏の心中とする。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "10",
+    "LineId":  "11010210",
+    "Text_Original":  "　と、まづ思し出づ。",
+    "Text_Original_Romanized":  "  to, madu obosi idu.",
+    "Text_Shibuya":  "　と、まっ先にお思い出しになる。",
+    "Text_Yosano":  "　と源氏は思った。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　中川の女と和歌を贈答",
+    "Line":  "11",
+    "LineId":  "11010211",
+    "Text_Original":  "　いかなるにつけても、御心の暇なく苦しげなり。年月を経ても、なほかやうに、見しあたり、情け過ぐしたまはぬにしも、なかなか、あまたの人のもの思ひぐさなり。",
+    "Text_Original_Romanized":  "  Ikanaru ni tuke te mo, mikokoro no itoma naku kurusige nari. Tosituki wo he te mo, naho kayau ni, mi si atari, nasake sugusi tamaha nu ni simo, nakanaka, amata no hito no monoomohigusa nari.",
+    "Text_Shibuya":  "　どのような女性に対しても、お心の休まる間がなく苦しそうである。長い年月を経ても、やはりこのように、かつて契ったことのある女性には、情愛をお忘れにならないので、かえって、おおぜいの女性たちの物思いの種なのである。",
+    "Text_Yosano":  "　どんな所にも源氏の心を\u003cRUBY\u003e\u003cRB\u003e惹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eくものがあって、それがそれ相応に源氏を悩ましているのである。長い時間を中に置いていても、同じように愛し、同じように愛されようと望んでいて、多数の女の物思いの原因は源氏から与えられているとも言えるのである。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "43",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "年月を経てもなほかやうに見しあたり情け過ぐしたまはぬにしもなかなかあまたの人のもの思ひぐさなり",
+                            "Annotation_Body":  "源氏の性癖とそれゆえに女の物思いの種であるという関係。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "1",
+    "LineId":  "11010301",
+    "Text_Original":  "　かの本意の所は、思しやりつるもしるく、人目なく、静かにておはするありさまを見たまふも、いとあはれなり。まづ、女御の御方にて、昔の御物語など聞こえたまふに、夜更けにけり。",
+    "Text_Original_Romanized":  "  Kano ho\u0027i no tokoro ha, obosi yari turu mo siruku, hitome naku, siduka nite ohasuru arisama wo mi tamahu mo, ito ahare nari. Madu, Nyougo no ohom-kata nite, mukasi no ohom-monogatari nado kikoye tamahu ni, yo huke ni keri.",
+    "Text_Shibuya":  "　あの目的の所は、ご想像なさっていた以上に、人影もなく、ひっそりとお暮らしになっている様子を御覧になるにつけても、まことにおいたわしい。最初に、女御のお部屋で、昔のお話などを申し上げなさっているうちに、夜も更けてしまった。",
+    "Text_Yosano":  "　目的にして行った家は、何事も想像していたとおりで、人少なで、寂しくて、身にしむ思いのする家だった。最初に女御の居間のほうへ訪ねて行って、話しているうちに夜がふけた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "44",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かの本意の所は",
+                            "Annotation_Body":  "訪問目的の花散里邸。"
+                        },
+                        {
+                            "Annotation_Num":  "45",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いとあはれなり",
+                            "Annotation_Body":  "『完訳』は「世の移り変りを見る気持」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "2",
+    "LineId":  "11010302",
+    "Text_Original":  "　二十日の月さし出づるほどに、いとど木高き蔭ども木暗く見えわたりて、近き橘の薫りなつかしく匂ひて、女御の御けはひ、ねびにたれど、あくまで用意あり、あてにらうたげなり。",
+    "Text_Original_Romanized":  "  Hatuka no tuki sasiiduru hodo ni, itodo kodakaki kage-domo koguraku miye watari te, tikaki tatibana no kawori natukasiku nihohi te, Nyougo no ohom-kehahi, nebi ni tare do, akumade youi ari, ate ni rautage nari. ",
+    "Text_Shibuya":  "　二十日の月が差し昇るころに、ますます木高い木蔭で一面に暗く見えて、近くの橘の薫りがやさしく匂って、女御のご様子、お年を召しているが、どこまでも深い心づかいがあり、気品があって愛らしげでいらっしゃる。",
+    "Text_Yosano":  "　二十日月が上って、大きい木の多い庭がいっそう暗い\u003cRUBY\u003e\u003cRB\u003e蔭\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかげ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがちになって、軒に近い\u003cRUBY\u003e\u003cRB\u003e橘\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eたちばな\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの木がなつかしい香を送る。女御はもうよい年配になっているのであるが、柔らかい気分の受け取れる上品な人であった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "46",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "二十日の月さし出づるほどに",
+                            "Annotation_Body":  "五月二十日の月。午後十時ころ出る。"
+                        },
+                        {
+                            "Annotation_Num":  "47",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いとど木高き蔭ども木暗く見えわたりて、近き橘の薫りなつかしく匂ひて",
+                            "Annotation_Body":  "五月の季節描写。"
+                        },
+                        {
+                            "Annotation_Num":  "48",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "らうたげなり",
+                            "Annotation_Body":  "『完訳』は「かばってやりたい弱々しさ」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "3",
+    "LineId":  "11010303",
+    "Text_Original":  "　「すぐれてはなやかなる御おぼえこそなかりしかど、むつましうなつかしき方には思したりしものを」",
+    "Text_Original_Romanized":  "  \"Sugurete hanayaka naru ohom-oboye koso nakari sika do, mutumasiu natukasiki kata ni ha obosi tari si mono wo!\"",
+    "Text_Shibuya":  "　「格別目立つような御寵愛こそなかったが、仲睦まじく親しみの持てる方とお思いでいらしたなあ」",
+    "Text_Yosano":  "　すぐれて時めくようなことはなかったが、愛すべき人として院が見ておいでになったと、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "49",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "すぐれてはなやかなる",
+                            "Annotation_Body":  "以下「思したりしものを」まで、源氏の心中。麗景殿女御に対する感想。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "4",
+    "LineId":  "11010304",
+    "Text_Original":  "　など、思ひ出できこえたまふにつけても、昔のことかきつらね思されて、うち泣きたまふ。",
+    "Text_Original_Romanized":  "  nado, omohi ide kikoye tamahu ni tuke te mo, mukasi no koto kaki-turane obosa re te, uti-naki tamahu.",
+    "Text_Shibuya":  "　などと、お思い出し申し上げなさるにつけても、昔のことが次から次へと思い出されて、ふとお泣きになる。",
+    "Text_Yosano":  "　源氏はまた昔の宮廷を思い出して、それから次々に昔恋しいいろいろなことを思って泣いた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "5",
+    "LineId":  "11010305",
+    "Text_Original":  "　ほととぎす、ありつる垣根のにや、同じ声にうち鳴く。「慕ひ来にけるよ」と、思さるるほども、艶なりかし。「いかに知りてか」など、忍びやかにうち誦んじたまふ。",
+    "Text_Original_Romanized":  "  Hototogisu, arituru kakine no ni ya, onazi kowe ni uti-naku. \"Sitahi ki ni keru yo.\" to, obosa ruru hodo mo, en nari kasi. \"Ikani siri te ka?\" nado, sinobiyaka ni uti-zunzi tamahu.",
+    "Text_Shibuya":  "　ほととぎす、先程の垣根のであろうか、同じ声で鳴く。「自分の後を追って来たのだな」と思われなさるのも、優美である。「どのように知ってか」などと、小声で口ずさみなさる。",
+    "Text_Yosano":  "　杜鵑がさっき町で聞いた声で\u003cRUBY\u003e\u003cRB\u003e啼\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eな\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eいた。同じ鳥が追って来たように思われて源氏はおもしろく思った。「いにしへのこと語らへば杜鵑いかに知りてか」という古歌を小声で歌ってみたりもした。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "50",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ありつる垣根のにや",
+                            "Annotation_Body":  "語り手の挿入句。"
+                        },
+                        {
+                            "Annotation_Num":  "51",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "慕ひ来にけるよ",
+                            "Annotation_Body":  "源氏の心。『集成』は「郭公を擬人化して考えるのは『万葉集』以来の文学的伝統である」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "52",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いかに知りてか",
+                            "Annotation_Body":  "『源氏釈』は「いにしへのこと語らへば郭公いかに知りてか古声のする」（古今六帖五、物語）を指摘する。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "6",
+    "LineId":  "11010306",
+    "Text_Original":  "　「橘の香をなつかしみほととぎす\u003cBR\u003e　　花散る里をたづねてぞとふ",
+    "Text_Original_Romanized":  "    \"Tatibana no ka wo natukasimi hototogisu\u003cBR\u003e    hanatirusato wo tadune te zo tohu",
+    "Text_Shibuya":  "　「昔を思い出させる橘の香を懐かしく思って\u003cBR\u003e　　ほととぎすが花の散ったこのお邸にやって来ました",
+    "Text_Yosano":  "　「橘の香をなつかしみほととぎす\u003cBR\u003e　　花散る里を訪ねてぞとふ\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "53",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "橘の香をなつかしみほととぎす--花散る里をたづねてぞとふ",
+                            "Annotation_Body":  "源氏の麗景殿女御への贈歌。「五月待つ花橘の香をかげば昔の人の袖の香ぞする」（古今集夏、一三九、読人知らず）「橘の花散里の郭公片恋しつつ鳴く日しぞ多き（万葉集八、一四七七、大伴旅人）を踏まえる。以下「思さるらむ」まで、源氏の詞。「花散里」はここでは邸の名前、後に妹三の君の呼称となる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "7",
+    "LineId":  "11010307",
+    "Text_Original":  "　いにしへの忘れがたき慰めには、なほ参りはべりぬべかりけり。こよなうこそ、紛るることも、数添ふこともはべりけれ。おほかたの世に従ふものなれば、昔語もかきくづすべき人少なうなりゆくを、まして、つれづれも紛れなく思さるらむ」",
+    "Text_Original_Romanized":  "  Inisihe no wasure gataki nagusame ni ha, naho mawiri haberi nu bekari keri. Koyonau koso, magiruru koto mo, kazu sohu koto mo haberi kere. Ohokata no yo ni sitagahu mono nare ba, mukasigatari mo kakikudusu beki hito sukunau nari yuku wo, masite, turedure mo magire naku obosa ru ram.\"",
+    "Text_Shibuya":  "　昔の忘れられない心の慰めには、やはり参上いたすべきでした。この上なく、物思いの紛れることも、数増すこともございました。人は時流に従うものですから、昔話も語り合える人が少なくなって行くのを、わたし以上に、所在なさも紛らすすべもなくお思いでしょう」",
+    "Text_Yosano":  "　昔の\u003cRUBY\u003e\u003cRB\u003e御代\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eみよ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eが恋しくてならないような時にはどこよりもこちらへ来るのがよいと今わかりました。非常に慰められることも、また悲しくなることもあります。時代に順応しようとする人ばかりですから、昔のことを言うのに話し相手がだんだん少なくなってまいります。しかしあなたは私以上にお寂しいでしょう」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "54",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "おほかたの世に従ふものなれば",
+                            "Annotation_Body":  "格助詞「の」は主格を表す。"
+                        },
+                        {
+                            "Annotation_Num":  "55",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "まして",
+                            "Annotation_Body":  "ましていかに横明三　なお河内本、別本にも「いかに」とある。『集成』『新大系』は底本のままとする。『古典セレクション』は諸本に従って「ましていかに」と校訂する。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "8",
+    "LineId":  "11010308",
+    "Text_Original":  "　と聞こえたまふに、いとさらなる世なれど、ものをいとあはれに思し続けたる御けしきの浅からぬも、人の御さまからにや、多くあはれぞ添ひにける。",
+    "Text_Original_Romanized":  "  to kikoye tamahu ni, ito saranaru yo nare do, mono wo ito ahare ni obosi tuduke taru mikesiki no asakara nu mo, hito no ohom-sama kara ni ya, ohoku ahare zo sohi ni keru.",
+    "Text_Shibuya":  "　とお申し上げなさると、まことに言うまでもない世情であるが、物をしみじみとお思い続けていらっしゃるご様子が一通りでないのも、お人柄からであろうか、ひとしお哀れが感じられるのであった。",
+    "Text_Yosano":  "　と源氏に言われて、もとから孤独の悲しみの中に浸っている女御も、今さらのようにまた心がしんみりと寂しくなって行く様子が見える。人柄も同情をひく優しみの多い女御なのであった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "56",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "思し続けたる御けしきの",
+                            "Annotation_Body":  "主語は麗景殿女御。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "9",
+    "LineId":  "11010309",
+    "Text_Original":  "　「人目なく荒れたる宿は橘の\u003cBR\u003e　　花こそ軒のつまとなりけれ」",
+    "Text_Original_Romanized":  "    \"Hitome naku are taru yado ha tatibana no\u003cBR\u003e    hana koso noki no tuma to nari kere",
+    "Text_Shibuya":  "　「訪れる人もなく荒れてしまった住まいには\u003cBR\u003e　　軒端の橘だけがお誘いするよすがになったのでした」",
+    "Text_Yosano":  "　人目なく荒れたる宿は橘の\u003cBR\u003e　花こそ軒のつまとなりけれ\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "57",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "人目なく荒れたる宿は橘の--花こそ軒のつまとなりけれ",
+                            "Annotation_Body":  "麗景殿女御の返歌。「橘」の語句を受けて返す。「つま」は「端」の意と「手がかり」の意を掛ける。『完訳』は「橘の花が軒端に咲いて、懐旧の念を抱くあなたを誘い出すよすがになった、の意。ここにも源氏をほととぎすに見立て、故院時代の記憶に生きる人とする」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　姉麗景殿女御と昔を語る",
+    "Line":  "10",
+    "LineId":  "11010310",
+    "Text_Original":  "　とばかりのたまへる、「さはいへど、人にはいとことなりけり」と、思し比べらる。",
+    "Text_Original_Romanized":  "  to bakari notamahe ru, \"Saha ihe do, hito ni ha ito koto nari keri.\" to, obosi kurabe raru.",
+    "Text_Shibuya":  "　とだけおっしゃっるが、「そうはいっても、他の女性とは違ってすぐれているな」と、ついお思い比べられる。",
+    "Text_Yosano":  "　とだけ言うのであるが、さすがにこれは\u003cRUBY\u003e\u003cRB\u003e貴女\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eきじょ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eであると源氏は思った。さっきの家の女以来幾人もの女性を思い出していたのであるが、それとこれとが比べ合わせられたのである。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "58",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さはいへど人にはいとことなりけり",
+                            "Annotation_Body":  "源氏の感想。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　花散里を訪問",
+    "Line":  "1",
+    "LineId":  "11010401",
+    "Text_Original":  "　西面には、わざとなく、忍びやかにうち振る舞ひたまひて、覗きたまへるも、めづらしきに添へて、世に目なれぬ御さまなれば、つらさも忘れぬべし。何やかやと、例の、なつかしく語らひたまふも、思さぬことにあらざるべし。",
+    "Text_Original_Romanized":  "  Nisiomote ni ha, waza to naku, sinobiyaka ni uti-hurumahi tamahi te, nozoki tamahe ru mo, medurasiki ni sohe te, yo ni me nare nu ohom-sama nare ba, turasa mo wasure nu besi. Naniyakaya to, rei no, natukasiku katarahi tamahu mo, obosa nu koto ni ara zaru besi.",
+    "Text_Shibuya":  "　西面には、わざわざの訪問ではないように、人目に立たないようにお振る舞いになって、訪れなさったのも、珍しいのに加えて、世にも稀なお美しさなので、恨めしさもすっかり忘れてしまいそうである。あれやこれやと、例によって、やさしくお語らいになるのも、お心にないことではないのであろう。",
+    "Text_Yosano":  "　西座敷のほうへは、静かに親しいふうではいって行った。忍びやかに目の前へ現われて来た美しい恋人を見て、どれほどの恨みが女にあっても忘却してしまったに違いない。恋しかったことをいろいろな言葉にして源氏は告げていた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "59",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "西面にはわざとなく忍びやかにうち振る舞ひたまひて",
+                            "Annotation_Body":  "主語は源氏。寝殿の西面に花散里（三の君）を訪う。"
+                        },
+                        {
+                            "Annotation_Num":  "60",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "つらさも忘れぬべし",
+                            "Annotation_Body":  "「べし」推量の助動詞、語り手の推量。"
+                        },
+                        {
+                            "Annotation_Num":  "61",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あらざるべし",
+                            "Annotation_Body":  "「べし」推量の助動詞、語り手の推量。『完訳』は「源氏の誠実さを語り手が推測」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "11",
+    "Chapter_Title":  "第十一帖 花散里",
+    "Chapter_Subtitle":  "光る源氏の二十五歳夏、近衛大将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "花散里の物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　花散里を訪問",
+    "Line":  "2",
+    "LineId":  "11010402",
+    "Text_Original":  "　かりにも見たまふかぎりは、おしなべての際にはあらず、さまざまにつけて、いふかひなしと思さるるはなければにや、憎げなく、我も人も情けを交はしつつ、過ぐしたまふなりけり。それをあいなしと思ふ人は、とにかくに変はるも、「ことわりの、世のさが」と、思ひなしたまふ。ありつる垣根も、さやうにて、ありさま変はりにたるあたりなりけり。",
+    "Text_Original_Romanized":  "  Karinimo mi tamahu kagiri ha, osinabete no kiha ni ha ara zu, samazama ni tuke te, ihukahinasi to obosa ruru ha nakere ba ni ya, nikuge naku, ware mo hito mo nasake wo kahasi tutu, sugusi tamahu nari keri. Sore wo ainasi to omohu hito ha, tonikakuni kaharu mo, \"Kotowari no, yo no saga.\" to, omohinasi tamahu. Arituru kakine mo, sayau nite, arisama kahari ni taru atari nari keri.",
+    "Text_Shibuya":  "　かりそめにもお契りになる相手は、皆並々の身分の方ではなく、それぞれにつけて、何の取柄もないとお思いになるような方はいないからであろうか、嫌と思わず、自分も相手も情愛を交わし合いながら、お過ごしになるのであった。それを、つまらないと思う人は、何やかやと心変わりしていくのも、「無理もない、人の世の習いだ」と、しいてお思いになる。先程の垣根も、そのようなわけで、心変わりしてしまった類の人なのであった。",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e嘘\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eうそ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eではないのである。源氏の恋人である人は初めから平凡な階級でないせいであるか、何らかの特色を備えてない人は\u003cRUBY\u003e\u003cRB\u003e稀\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eまれ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eであった。好意を持ち合って長く捨てない、こんな間柄でいることを肯定のできない人は去って行く。それもしかたがないと源氏は思っているのである。さっきの町の家の女もその一人で、現在はほかに愛人を持つ女であった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "62",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かりにも見たまふかぎりは",
+                            "Annotation_Body":  "以下、語り手の文章。『岷江入楚』所引三光院実枝説は「草子地」と指摘。"
+                        },
+                        {
+                            "Annotation_Num":  "63",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "それをあいなしと思ふ人は",
+                            "Annotation_Body":  "『集成』は「そうした仲を気に入らない、つまらないと思う人は」の意に解し、『完訳』は「途絶えがちな源氏の態度を、ふさわしからぬものと思う女は」の意に解す。"
+                        },
+                        {
+                            "Annotation_Num":  "64",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ことわりの世のさが",
+                            "Annotation_Body":  "源氏の心。『完訳』は「中川の女を典型に、人の心変りを嘆く」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "65",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ありつる垣根も",
+                            "Annotation_Body":  "『岷江入楚』は「草子地とみえたり」と指摘。"
+                        },
+                        {
+                            "Annotation_Num":  "66",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さやうにて",
+                            "Annotation_Body":  "『集成』は「そんなわけで。大勢の恋人の一人として、嫉妬もせずに過すのは、つまらぬことだと思って、の意」と解す。"
+                        }
+                    ]
+}
+]

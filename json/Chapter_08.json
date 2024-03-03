@@ -1,0 +1,1950 @@
+﻿[
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "1",
+    "LineId":  "08010101",
+    "Text_Original":  "　如月の二十日あまり、南殿の桜の宴せさせたまふ。后、春宮の御局、左右にして、参う上りたまふ。弘徽殿の女御、中宮のかくておはするを、をりふしごとにやすからず思せど、物見にはえ過ぐしたまはで、参りたまふ。",
+    "Text_Original_Romanized":  "  Kisaragi no hatuka amari, Na\u0027den no sakura no en se sase tamahu. Kisaki, Touguu no ohom-tubone, saiu ni si te, maunobori tamahu. Koukidennonyougo, Tyuuguu no kaku te ohasuru wo, worihusi goto ni yasukara zu obose do, mono-mi ni ha e sugusi tamaha de, mawiri tamahu.",
+    "Text_Shibuya":  "　如月の二十日過ぎ、南殿の桜の宴をお催しあそばす。皇后、春宮の御座所、左右に設定して、参上なさる。弘徽殿の女御、中宮がこのようにお座りになるのを、機会あるごとに不愉快にお思いになるが、見物だけはお見過ごしできないで、参上なさる。",
+    "Text_Yosano":  "二月の二十幾日に\u003cRUBY\u003e\u003cRB\u003e紫宸殿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eししんでん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの桜の宴があった。玉座の左右に\u003cRUBY\u003e\u003cRB\u003e中宮\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eちゅうぐう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eと皇太子の御見物の室が設けられた。\u003cRUBY\u003e\u003cRB\u003e弘徽殿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこきでん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e女御\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eにょご\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eは\u003cRUBY\u003e\u003cRB\u003e藤壺\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eふじつぼ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの宮が中宮になっておいでになることで、何かのおりごとに不快を感じるのであるが、催し事の見物は好きで、東宮席で陪観していた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "1",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "如月の二十日あまり南殿の桜の宴せさせたまふ",
+                            "Annotation_Body":  "新年立によれば源氏二十歳の春の物語。前巻「紅葉賀」の紅葉の賀と当巻桜の宴の対偶仕立て。「南殿」は紫宸殿、なお陽明文庫本と肖柏本は「なんてん」と仮名表記する。したがって、読み方は「なんでん」である。"
+                        },
+                        {
+                            "Annotation_Num":  "2",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "后春宮の御局左右にして",
+                            "Annotation_Body":  "后は藤壺、春宮は後の朱雀帝をさす。玉座（桐壺帝）の左側（東）に東宮、右側（西）に藤壺中宮の御座所を設けた。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "2",
+    "LineId":  "08010102",
+    "Text_Original":  "　日いとよく晴れて、空のけしき、鳥の声も、心地よげなるに、親王たち、上達部よりはじめて、その道のは皆、探韻賜はりて文つくりたまふ。宰相中将、「春といふ文字賜はれり」と、のたまふ声さへ、例の、人に異なり。次に頭中将、人の目移しも、ただならずおぼゆべかめれど、いとめやすくもてしづめて、声づかひなど、ものものしくすぐれたり。さての人びとは、皆臆しがちに鼻白める多かり。地下の人は、まして、帝、春宮の御才かしこくすぐれておはします、かかる方にやむごとなき人多くものしたまふころなるに、恥づかしく、はるばると曇りなき庭に立ち出づるほど、はしたなくて、やすきことなれど、苦しげなり。年老いたる博士どもの、なりあやしくやつれて、例馴れたるも、あはれに、さまざま御覧ずるなむ、をかしかりける。",
+    "Text_Original_Romanized":  "  Hi ito yoku hare te, sora no kesiki, tori no kowe mo, kokotiyoge naru ni, Mikotati, Kamdatime yori hazime te, sono miti no ha mina, tanwin tamahari te humi tukuri tamahu. Saisyaunotyuuzyau, \"Haru to ihu mozi tamahare ri.\" to, notamahu kowe sahe, rei no, hito ni koto nari. Tugi ni Tounotyuuzyau, hito no meutusi mo, tada nara zu oboyu beka\u0027 mere do, ito meyasuku mote-sidume te, kowadukahi nado, monomonosiku sugure tari. Sate no hitobito ha, mina okusigati ni hanazirome ru ohokari. Dige no hito ha, masite, Mikado, Touguu no ohom-zae kasikoku sugure te ohasimasu, kakaru kata ni yamgotonaki hito ohoku monosi tamahu koro naru ni, hadukasiku, harubaru to kumori naki niha ni tati-iduru hodo, hasitanaku te, yasuki koto nare do, kurusige nari. Tosi oyi taru hakase-domo no, nari ayasiku yature te, rei nare taru mo, ahare ni, samazama goranzuru nam, wokasikari keru.",
+    "Text_Shibuya":  "　その日はとてもよく晴れて、空の様子、鳥の声も、気持ちよさそうな折に、親王たち、上達部をはじめとして、その道の人々は皆、韻字を戴いて詩をお作りになる。宰相中将、「春という文字を戴きました」と、おっしゃる声までが、例によって、他の人とは格別である。次に頭中将、その目で次に見られるのも、どう思われるかと不安のようだが、とても好ましく落ち着いて、声の上げ方など、堂々として立派である。その他の人々は、皆気後れしておどおどした様子の者が多かった。地下の人は、それ以上に、帝、春宮の御学問が素晴らしく優れていらっしゃる上に、このような作文の道に優れた人々が多くいられるころなので、気後れがして、広々と晴の庭に立つ時は、恰好が悪くて、簡単なことであるが、大儀そうである。高齢の博士どもの、姿恰好が見すぼらしく貧相だが、場馴れているのも、しみじみと、あれこれ御覧になるのは、興趣あることであった。",
+    "Text_Yosano":  "　日がよく晴れて青空の色、鳥の声も朗らかな気のする南庭を見て親王方、高級官人をはじめとして詩を作る人々は皆\u003cRUBY\u003e\u003cRB\u003e探韵\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eたんいん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eをいただいて詩を作った。源氏は、「春という字を賜わる」と、自身の得る\u003cRUBY\u003e\u003cRB\u003e韵字\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eいんじ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを\u003cRUBY\u003e\u003cRB\u003e披露\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひろう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eしたが、その声がすでに人よりすぐれていた。次は\u003cRUBY\u003e\u003cRB\u003e頭中将\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eとうのちゅうじょう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eで、この順番を晴れがましく思うことであろうと見えたが、きわめて無難に得た韵字を告げた。\u003cRUBY\u003e\u003cRB\u003e声\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこわ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eづかいに貫目があると思われた。その他の人は\u003cRUBY\u003e\u003cRB\u003e臆\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eおく\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eしてしまったようで、態度も声もものにならぬのが多かった。\u003cRUBY\u003e\u003cRB\u003e地下\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eじげ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの詩人はまして、帝も東宮も詩のよい作家で、またよい批評家でおありになったし、そのほかにもすぐれた詩才のある官人の多い時代であったから、恥ずかしくて、清い広庭に出て行くことが、ちょっとしたことなのであるが難事に思われた。\u003cRUBY\u003e\u003cRB\u003e博士\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eはかせ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eなどがみすぼらしい\u003cRUBY\u003e\u003cRB\u003e風采\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eふうさい\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eをしながらも\u003cRUBY\u003e\u003cRB\u003e場馴\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eばな\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eれて進退するのにも御同情が寄ったりして、この御覧になる方々はおもしろく\u003cRUBY\u003e\u003cRB\u003e思召\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eおぼしめ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eされた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "3",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "探韻賜はりて文つくりたまふ",
+                            "Annotation_Body":  "『集成』は「韻字（漢詩を作る時、韻を踏むために句の末に置く字）を書いた紙を入れた鉢を庭中に立てた文台の上に置き、一人ずつ手を入れて韻字を探り取り、詩を作ること」と注す。「文」は漢詩のこと。"
+                        },
+                        {
+                            "Annotation_Num":  "4",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "宰相中将",
+                            "Annotation_Body":  "源氏をさす。公式の場での呼称。"
+                        },
+                        {
+                            "Annotation_Num":  "5",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "春といふ文字賜はれり",
+                            "Annotation_Body":  "源氏の詞。"
+                        },
+                        {
+                            "Annotation_Num":  "6",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "例の、人に異なり",
+                            "Annotation_Body":  "「例の」で読点。例によって、他の人とは異なっている、の意。"
+                        },
+                        {
+                            "Annotation_Num":  "7",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "人の目移し",
+                            "Annotation_Body":  "「人」は源氏をさす。源氏を直前に見た目には。"
+                        },
+                        {
+                            "Annotation_Num":  "8",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "臆しがちに鼻白める多かり",
+                            "Annotation_Body":  "『集成』は「おじ気づいて冴えない顔色の者が多い」と解す。『完訳』は「気おくれして戸惑っている人」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "9",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "地下の人",
+                            "Annotation_Body":  "清涼殿の殿上間に昇殿を許されない人。「ぢげ」と読む。"
+                        },
+                        {
+                            "Annotation_Num":  "10",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "まして",
+                            "Annotation_Body":  "「恥づかしく」に続く。「帝春宮の御才」以下「ころなるに」まで挿入句となる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "3",
+    "LineId":  "08010103",
+    "Text_Original":  "　楽どもなどは、さらにもいはずととのへさせたまへり。やうやう入り日になるほど、春の鴬囀るといふ舞、いとおもしろく見ゆるに、源氏の御紅葉の賀の折、思し出でられて、春宮、かざし賜はせて、せちに責めのたまはするに、逃がれがたくて、立ちてのどかに袖返すところを一折れ、けしきばかり舞ひたまへるに、似るべきものなく見ゆ。左大臣、恨めしさも忘れて、涙落したまふ。",
+    "Text_Original_Romanized":  "  Gaku-domo nado ha, sarani mo iha zu totonohe sase tamahe ri. Yauyau irihi ni naru hodo, Haru no uguhisu saheduru to ihu mahi, ito omosiroku miyuru ni, Genzi no ohom-momidinoga no wori, obosi ide rare te, Touguu, kazasi tamaha se te, seti ni seme notamaha suru ni, nogare gataku te, tati te nodoka ni sode kahesu tokoro wo hito wore, kesiki bakari mahi tamahe ru ni, niru beki mono naku miyu. Hidarinootodo, uramesisa mo wasure te, namida otosi tamahu.",
+    "Text_Shibuya":  "　舞楽類などは、改めて言うまでもなく万端御準備あそばしていた。だんだん入日になるころ、春鴬囀という舞、とても興趣深く見えるので、源氏の御紅葉の賀の折、自然とお思い出されて、春宮が、挿頭を御下賜になって、しきりに御所望なさるので、お断りし難くて、立ってゆっくり袖を返すところを一さしお真似事のようにお舞いになると、当然似るものがなく素晴らしく見える。左大臣は、恨めしさも忘れて、涙を落としなさる。",
+    "Text_Yosano":  "　奏せられる音楽も特にすぐれた人たちが選ばれていた。春の\u003cRUBY\u003e\u003cRB\u003e永日\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eながび\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがようやく入り日の刻になるころ、\u003cRUBY\u003e\u003cRB\u003e春鶯囀\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eしゅんおうてん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの舞がおもしろく舞われた。源氏の\u003cRUBY\u003e\u003cRB\u003e紅葉賀\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eもみじのが\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e青海波\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eせいがいは\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの巧妙であったことを忘れがたく\u003cRUBY\u003e\u003cRB\u003e思召\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eおぼしめ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eして、東宮が源氏へ\u003cRUBY\u003e\u003cRB\u003e挿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかざし\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの花を下賜あそばして、ぜひこの舞に加わるようにと切望あそばされた。辞しがたくて、一振りゆるゆる\u003cRUBY\u003e\u003cRB\u003e袖\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eそで\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを\u003cRUBY\u003e\u003cRB\u003e反\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかえ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eす春鶯囀の一節を源氏も舞ったが、だれも追随しがたい巧妙さはそれだけにも見えた。左大臣は恨めしいことも忘れて落涙していた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "11",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さらにもいはずととのへさせたまへり",
+                            "Annotation_Body":  "「させ」（尊敬の助動詞）「給へ」（尊敬の補助動詞）、その主催者である帝に対する二重敬語、すなわち最高敬語である。"
+                        },
+                        {
+                            "Annotation_Num":  "12",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "春の鴬囀るといふ舞",
+                            "Annotation_Body":  "春鴬囀の舞をいう。右方の高麗楽に対して左方の唐楽の壱越調の曲。襲装束に鳥兜を着け四人、六人または十人で舞うという。女楽である。源氏が一人で舞う。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "4",
+    "LineId":  "08010104",
+    "Text_Original":  "　「頭中将、いづら。遅し」",
+    "Text_Original_Romanized":  "  \"Tounotyuuzyau, idura? Ososi.\"",
+    "Text_Shibuya":  "　「頭中将は、どこか。早く」",
+    "Text_Yosano":  "　「頭中将はどうしたか、早く出て舞わぬか」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "13",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "頭中将いづら遅し",
+                            "Annotation_Body":  "帝の詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "5",
+    "LineId":  "08010105",
+    "Text_Original":  "　とあれば、柳花苑といふ舞を、これは今すこし過ぐして、かかることもやと、心づかひやしけむ、いとおもしろければ、御衣賜はりて、いとめづらしきことに人思へり。上達部皆乱れて舞ひたまへど、夜に入りては、ことにけぢめも見えず。文など講ずるにも、源氏の君の御をば、講師もえ読みやらず、句ごとに誦じののしる。博士どもの心にも、いみじう思へり。",
+    "Text_Original_Romanized":  "  to are ba, Riukwaen to ihu mahi wo, kore ha ima sukosi sugusi te, kakaru koto mo ya to, kokorodukahi ya si kem, ito omosirokere ba, ohom-zo tamahari te, ito medurasiki koto ni hito omohe ri. Kamdatime mina midare te mahi tamahe do, yoru ni iri te ha, koto ni kedime mo miye zu. Humi nado kauzuru ni mo, Genzinokimi no ohom wo ba, Kauzi mo e yomi yara zu, ku goto ni zuzi nonosiru. Hakase-domo no kokoro ni mo, imiziu omohe ri.",
+    "Text_Shibuya":  "　との仰せなので、柳花苑という舞を、この人はもう少し念入りに、このようなこともあろうかと、心づもりをしていたのであろうか、まことに興趣深いので、御衣を御下賜になって、実に稀なことだと人は思った。上達部は皆順序もなくお舞いになるが、夜に入ってからは、特に巧拙の区別もつかない。詩を読み上げる時にも、源氏の君の御作を、講師も読み切れず、句毎に読み上げては褒めそやす。博士どもの心中にも、非常に優れた詩であると認めていた。",
+    "Text_Yosano":  "　次いでその仰せがあって、\u003cRUBY\u003e\u003cRB\u003e柳花苑\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eりゅうかえん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eという曲を、これは源氏のよりも長く、こんなことを予期して稽古がしてあったか\u003cRUBY\u003e\u003cRB\u003e上手\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eじょうず\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに舞った。それによって中将は\u003cRUBY\u003e\u003cRB\u003e御衣\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eぎょい\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを賜わった。花の宴にこのことのあるのを珍しい光栄だと人々は見ていた。高級の官人もしまいには皆舞ったが、暗くなってからは芸の\u003cRUBY\u003e\u003cRB\u003e巧拙\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこうせつ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがよくわからなくなった。詩の講ぜられる時にも源氏の作は簡単には済まなかった。句ごとに讃美の声が起こるからである。博士たちもこれを非常によい作だと思った。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "14",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "柳花苑といふ舞",
+                            "Annotation_Body":  "これも左方の唐楽で双調の曲。四人の女舞。頭中将が一人で舞う。"
+                        },
+                        {
+                            "Annotation_Num":  "15",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かかることもや",
+                            "Annotation_Body":  "帝から頭中将に源氏の舞に番えて何か舞を舞うようにとのご下命があること。以下「と心づかひやしけむ」まで、語り手の推測の挿入句。"
+                        },
+                        {
+                            "Annotation_Num":  "16",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "乱れて舞ひたまへど",
+                            "Annotation_Body":  "『集成』は「順序もなく」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "17",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "けぢめも見えず",
+                            "Annotation_Body":  "『集成』は「巧拙の区別も」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "6",
+    "LineId":  "08010106",
+    "Text_Original":  "　かうやうの折にも、まづこの君を光にしたまへれば、帝もいかでかおろかに思されむ。中宮、御目のとまるにつけて、「春宮の女御のあながちに憎みたまふらむもあやしう、わがかう思ふも心憂し」とぞ、みづから思し返されける。",
+    "Text_Original_Romanized":  "  Kauyau no wori ni mo, madu kono Kimi wo hikari ni si tamahe re ba, Mikado mo ikade ka oroka ni obosare mu. Tyuuguu, ohom-me no tomaru ni tuke te, \"Touguunonyougo no anagati ni nikumi tamahu ram mo ayasiu, waga kau omohu mo kokorousi.\" to zo, midukara obosi kahesa re keru.",
+    "Text_Shibuya":  "　このような時でも、まずこの君を一座の光にしていらっしゃるので、帝もどうしておろそかにお思いでいられようか。中宮は、お目が止まるにつけ、「春宮の女御が無性にお憎みになっているらしいのも不思議だ、自分がこのように心配するのも情けない」と、自身お思い直さずにはいらっしゃれないのであった。",
+    "Text_Yosano":  "　こんな時にもただただその人が光になっている源氏を、父君陛下がおろそかに思召すわけはない。中宮はすぐれた源氏の美貌がお目にとまるにつけても、東宮の母君の女御がどんな心でこの人を憎みうるのであろうと不思議にお思いになり、そのあとではまたこんなふうに源氏に関心を持つのもよろしくない心であると思召した。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "18",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "春宮の女御の",
+                            "Annotation_Body":  "以下「かう思ふも心憂し」まで、藤壺の心。語り手の間接的表現であろう。「春宮の女御」は春宮の母女御の意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "7",
+    "LineId":  "08010107",
+    "Text_Original":  "　「おほかたに花の姿を見ましかば\u003cBR\u003e　　つゆも心のおかれましやは」",
+    "Text_Original_Romanized":  "    \"Ohokata ni hana no sugata wo mi masika ba\u003cBR\u003e    tuyu mo kokoro no oka re masi yaha",
+    "Text_Shibuya":  "　「何の関係もなく花のように美しいお姿を拝するのであったなら\u003cBR\u003e　　少しも気兼ねなどいらなかろうものを」",
+    "Text_Yosano":  "　　大かたに花の姿を見ましかば\u003cBR\u003e　　つゆも心のおかれましやは\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "19",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "おほかたに花の姿を見ましかば--つゆも心のおかれましやは",
+                            "Annotation_Body":  "藤壺の独詠歌。「花」は源氏を譬喩。「露」は「つゆ」（副詞）と「露」（名詞）の掛詞。「花」と「露」、「露」と「置く」はそれぞれ縁語。『完訳』は「前の「おほけなき心のなからましかば」（紅葉賀）とも同じ発想で、「--ましかば--まし」の反実仮想の構文に源氏賞賛の心を封じこめる」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "1",
+    "Paragraph_Title":  "第一段　二月二十余日、紫宸殿の桜花の宴",
+    "Line":  "8",
+    "LineId":  "08010108",
+    "Text_Original":  "　御心のうちなりけむこと、いかで漏りにけむ。",
+    "Text_Original_Romanized":  "  Mikokoro no uti nari kem koto, ikade mori ni kem.",
+    "Text_Shibuya":  "　御心中でお詠みになった歌が、どうして世間に洩れ出てしまったのだろうか。",
+    "Text_Yosano":  "　こんな歌はだれにもお見せになるはずのものではないが、どうして伝わっているのであろうか。　",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "20",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "御心のうちなりけむこと、いかで漏りにけむ",
+                            "Annotation_Body":  "『一葉集』は「草子の詞也」と指摘。『評釈』は「藤壺がひそかに心の中でよんだ歌を、ここにしるす矛盾についての弁解である。人の話の聞書という形でこの物語は書かれている」と解説し、『完訳』は「語り手の言葉。漏れるはずがないとして藤壺の内心に立ち入る」と注す。先の和歌に藤壺の心の真実が語られていることを読者に喚起させる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "1",
+    "LineId":  "08010201",
+    "Text_Original":  "　夜いたう更けてなむ、事果てける。",
+    "Text_Original_Romanized":  "  Yo itau huke te nam, koto hate keru.",
+    "Text_Shibuya":  "　夜もたいそう更けて御宴は終わったのであった。",
+    "Text_Yosano":  "夜がふけてから南殿の宴は終わった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "21",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "夜いたう更けてなむ事果てける",
+                            "Annotation_Body":  "『集成』はこの一文は前の文章に続け、「上達部」以下を改行し、段落を改める。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "2",
+    "LineId":  "08010202",
+    "Text_Original":  "　上達部おのおのあかれ、后、春宮帰らせたまひぬれば、のどやかになりぬるに、月いと明うさし出でてをかしきを、源氏の君、酔ひ心地に、見過ぐしがたくおぼえたまひければ、「上の人びともうち休みて、かやうに思ひかけぬほどに、もしさりぬべき隙もやある」と、藤壺わたりを、わりなう忍びてうかがひありけど、語らふべき戸口も鎖してければ、うち嘆きて、なほあらじに、弘徽殿の細殿に立ち寄りたまへれば、三の口開きたり。",
+    "Text_Original_Romanized":  "  Kamdatime onoono akare, Kisaki, Touguu kahera se tamahi nure ba, nodoyaka ni nari nuru ni, tuki ito akau sasi-ide te wokasiki wo, Genzinokimi, wehi gokoti ni, misugusi gataku oboye tamahi kere ba, \"Uhe no hitobito mo uti-yasumi te, kayau ni omohi kake nu hodo ni, mosi sari nu beki hima mo ya aru?\" to, Huditubo watari wo, warinau sinobi te ukagahi arike do, katarahu beki toguti mo sasi te kere ba, uti-nageki te, nahoarazi ni, Koukiden no hosodono ni tatiyori tamahe re ba, sam no kuti aki tari.",
+    "Text_Shibuya":  "　上達部はそれぞれ退出し、中宮、春宮も還御あそばしたので、静かになったころに、月がとても明るくさし出て美しいので、源氏の君、酔心地に見過ごし難くお思いになったので、「殿上の宿直の人々も寝んで、このように思いもかけない時に、もしや都合のよい機会もあろうか」と、藤壷周辺を、無性に人目を忍んであちこち窺ったが、手引を頼むはずの戸口も閉まっているので、溜息をついて、なおもこのままでは気がすまず、弘徽殿の細殿にお立ち寄りになると、三の口が開いている。",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e公卿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこうけい\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eが皆退出するし、中宮と東宮はお\u003cRUBY\u003e\u003cRB\u003e住居\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eすまい\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの御殿へお帰りになって静かになった。明るい月が上ってきて、春の夜の御所の中が美しいものになっていった。酔いを帯びた源氏はこのままで\u003cRUBY\u003e\u003cRB\u003e宿直所\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eとのいどころ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eへはいるのが惜しくなった。\u003cRUBY\u003e\u003cRB\u003e殿上\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eてんじょう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの役人たちももう\u003cRUBY\u003e\u003cRB\u003e寝\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eやす\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eんでしまっているこんな夜ふけにもし中宮へ接近する機会を拾うことができたらと思って、源氏は藤壺の御殿をそっとうかがってみたが、女房を呼び出すような戸口も皆閉じてしまってあったので、\u003cRUBY\u003e\u003cRB\u003e歎息\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eたんそく\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eしながら、なお物足りない心を満たしたいように弘徽殿の細殿の所へ歩み寄ってみた。三の口があいている。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "22",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "月いと明うさし出でて",
+                            "Annotation_Body":  "冒頭に「如月の二十日あまり」とあったから、二十日過ぎの月、夜半過ぎに出る。"
+                        },
+                        {
+                            "Annotation_Num":  "23",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "上の人びともうち休みてかやうに思ひかけぬほどにもしさりぬべき隙もやある",
+                            "Annotation_Body":  "源氏の心にそった語り手の間接的心内描写。地の文が心中文に移る。「もしさりぬべき隙もやある」は完全な心中文。「上の人びとも」を『集成』は「清涼殿の宿直の人々」と解し、『完訳』は「帝にお付きの女官たち」と解す。"
+                        },
+                        {
+                            "Annotation_Num":  "24",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "なほあらじに",
+                            "Annotation_Body":  "語り手の源氏の心内に立ち入った挿入句。このままでは済まされないとの気持ちからの意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "3",
+    "LineId":  "08010203",
+    "Text_Original":  "　女御は、上の御局にやがて参う上りたまひにければ、人少ななるけはひなり。奥の枢戸も開きて、人音もせず。",
+    "Text_Original_Romanized":  "  Nyougo ha, Uhe no mitubone ni yagate maunobori tamahi ni kere ba, hito zukuna naru kehahi nari. Oku no kururudo mo aki te, hitooto mo se zu.",
+    "Text_Shibuya":  "　女御は、上の御局にそのまま参上なさったので、人気の少ない感じである。奥の枢戸も開いていて、人のいる音もしない。",
+    "Text_Yosano":  "　女御は宴会のあとそのまま宿直に上がっていたから、女房たちなどもここには少しよりいないふうがうかがわれた。この戸口の奥にあるくるる戸もあいていて、そして人音がない。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "4",
+    "LineId":  "08010204",
+    "Text_Original":  "　「かやうにて、世の中のあやまちはするぞかし」と思ひて、やをら上りて覗きたまふ。人は皆寝たるべし。いと若うをかしげなる声の、なべての人とは聞こえぬ、",
+    "Text_Original_Romanized":  "  \"Kayau nite, yononaka no ayamati ha suru zo kasi.\" to omohi te, yawora nobori te nozoki tamahu. Hito ha mina ne taru besi. Ito wakau wokasige naru kowe no, nabete no hito to ha kikoye nu,",
+    "Text_Shibuya":  "　「このような無用心から、男女の過ちは起こるものだ」と思って、そっと上ってお覗きになる。女房たちは皆眠っているのだろう。とても若々しく美しい声で、並の身分とは思えず、",
+    "Text_Yosano":  "　こうした不用心な時に男も女もあやまった運命へ踏み込むものだと思って源氏は静かに縁側へ上がって中をのぞいた。だれももう寝てしまったらしい。若々しく貴女らしい声で、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "25",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かやうにて世の中のあやまちはするぞかし",
+                            "Annotation_Body":  "源氏の心。「かやうにて」は女方の無用心をさす。女方を非難しながら源氏自身事件を引き起こして行く。"
+                        },
+                        {
+                            "Annotation_Num":  "26",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "やをら上りて",
+                            "Annotation_Body":  "『集成』と『新大系』は「細殿に」と解し、『完訳』は「細殿から下長押に上って」と解す。"
+                        },
+                        {
+                            "Annotation_Num":  "27",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "なべての人とは聞こえぬ",
+                            "Annotation_Body":  "挿入句のようだが、「聞こえぬ」が連体形のため、その下に「女が」などの主語が省略されている構文なので、いったん文が切れそうで再び次の文を呼び起こして続いていくという緩急と緊密性をもたせた表現。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "5",
+    "LineId":  "08010205",
+    "Text_Original":  "　「朧月夜に似るものぞなき」",
+    "Text_Original_Romanized":  "  \"Oborodukiyo ni niru mono zo naki.\"",
+    "Text_Shibuya":  "　「朧月夜に似るものはない」",
+    "Text_Yosano":  "　「\u003cRUBY\u003e\u003cRB\u003e朧月夜\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eおぼろづきよ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに似るものぞなき」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "28",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "朧月夜に似るものぞなき",
+                            "Annotation_Body":  "右大臣の六の君、朧月夜の君の詞。「照りもせず曇りもはてぬ春の夜の朧月夜にしくものぞなき」（大江千里集、後に新古今集・春上に入集）の第五句を改変して口ずさんだ。『集成』は「第五句「しくものぞなき」（まさるものはない）が、漢詩文風な表現なので、「似るものぞなき」と、やわらげて言ったものか」と注す。なお、世尊寺伊行『源氏釈』は「しくものぞなき」の句で引用するが、藤原定家『奥入』では「似るものぞなき」の句で引用する。『千里集』の成立から、次の『新古今集』入集までの間に「似るものぞなき」という異本の発生も考えられなくはないが、現存の本には「似るものぞなき」の句はない。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "6",
+    "LineId":  "08010206",
+    "Text_Original":  "　とうち誦じて、こなたざまには来るものか。いとうれしくて、ふと袖をとらへたまふ。女、恐ろしと思へるけしきにて、",
+    "Text_Original_Romanized":  "  to uti-zuzi te, konatazama ni ha kuru monoka. Ito uresiku te, huto sode wo torahe tamahu. Womna, osorosi to omohe ru kesiki nite,",
+    "Text_Shibuya":  "　と口ずさんで、こちらの方に来るではないか。とても嬉しくなって、とっさに袖をお捉えになる。女、怖がっている様子で、",
+    "Text_Yosano":  "　と歌いながらこの戸口へ出て来る人があった。源氏はうれしくて突然\u003cRUBY\u003e\u003cRB\u003e袖\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eそで\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eをとらえた。女はこわいと思うふうで、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "29",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "こなたざまには来るものか",
+                            "Annotation_Body":  "語り手の源氏と共に驚きの気持ちを表した感情移入の表現。こちらに来るではないかの意。なお明融本は「こなたさまには」とあり朱筆で「は」をミセケチにしまたその右に「不用」とある。大島本と陽明文庫本は「は」を補入した形。その他の青表紙本諸本は「こなたさまには」とある。底本は明融本の「は」不用説に従った本文ということになる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "7",
+    "LineId":  "08010207",
+    "Text_Original":  "「あな、むくつけ。こは、誰そ」とのたまへど、",
+    "Text_Original_Romanized":  "  \"Ana, mukutuke! Koha, taso?\" to notamahe do,",
+    "Text_Shibuya":  "　「あら、嫌ですわ。これは、どなたですか」とおっしゃるが、",
+    "Text_Yosano":  "　「気味が悪い、だれ」と言ったが、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "30",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あなむくつけこは誰そ",
+                            "Annotation_Body":  "女の詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "8",
+    "LineId":  "08010208",
+    "Text_Original":  "「何か、疎ましき」とて、",
+    "Text_Original_Romanized":  "  \"Nanika, utomasiki?\" tote, ",
+    "Text_Shibuya":  "　「どうして、嫌ですか」と言って、",
+    "Text_Yosano":  "　「何もそんなこわいものではありませんよ」と源氏は言って、さらに、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "31",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "何か疎ましき",
+                            "Annotation_Body":  "源氏の詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "9",
+    "LineId":  "08010209",
+    "Text_Original":  "　「深き夜のあはれを知るも入る月の\u003cBR\u003e　　おぼろけならぬ契りとぞ思ふ」",
+    "Text_Original_Romanized":  "    \"Hukaki yo no ahare wo siru mo iru tuki no\u003cBR\u003e    oboroke nara nu tigiri to zo omohu",
+    "Text_Shibuya":  "　「趣深い春の夜更けの情趣をご存知でいられるのも\u003cBR\u003e　　前世からの浅からぬ御縁があったものと存じます」",
+    "Text_Yosano":  "　　深き夜の哀れを知るも入る月の\u003cBR\u003e　　おぼろげならぬ契りとぞ思ふ\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "32",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "深き夜のあはれを知るも入る月の--おぼろけならぬ契りとぞ思ふ",
+                            "Annotation_Body":  "源氏の贈歌。出会ったことの宿世の深さをいう。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "10",
+    "LineId":  "08010210",
+    "Text_Original":  "　とて、やをら抱き下ろして、戸は押し立てつ。あさましきにあきれたるさま、いとなつかしうをかしげなり。わななくわななく、",
+    "Text_Original_Romanized":  "  tote, yawora idaki orosi te, to ha osi-tate tu. Asamasiki ni akire taru sama, ito natukasiu wokasige nari. Wananaku wananaku,",
+    "Text_Shibuya":  "　と詠んで、そっと抱き下ろして、戸は閉めてしまった。あまりの意外さに驚きあきれている様子、とても親しみやすくかわいらしい感じである。怖さに震えながら、",
+    "Text_Yosano":  "　とささやいた。抱いて行った人を静かに一室へおろしてから三の口をしめた。この不謹慎な\u003cRUBY\u003e\u003cRB\u003e闖入者\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eちんにゅうしゃ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eにあきれている女の様子が柔らかに美しく感ぜられた。\u003cRUBY\u003e\u003cRB\u003e慄\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eふる\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eえ声で、\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "11",
+    "LineId":  "08010211",
+    "Text_Original":  "　「ここに、人」",
+    "Text_Original_Romanized":  "  \"Koko ni, hito.\"",
+    "Text_Shibuya":  "　「ここに、人が」",
+    "Text_Yosano":  "　「ここに知らぬ人が」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "33",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ここに人",
+                            "Annotation_Body":  "女の詞。書陵部本「の」補入。その他の青表紙諸本ナシ。河内本もナシ。別本の御物本だけが「こゝに人の」とある。書陵部本は御物本系統の本によって補ったものか。それらによれば「ある」などの語句が省略された言いさした形。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "12",
+    "LineId":  "08010212",
+    "Text_Original":  "　と、のたまへど、",
+    "Text_Original_Romanized":  "  to, notamahe do, ",
+    "Text_Shibuya":  "　と、おっしゃるが、",
+    "Text_Yosano":  "　と言っていたが、\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "13",
+    "LineId":  "08010213",
+    "Text_Original":  "　「まろは、皆人に許されたれば、召し寄せたりとも、なんでふことかあらむ。ただ、忍びてこそ」",
+    "Text_Original_Romanized":  "  \"Maro ha, minahito ni yurusa re tare ba, mesiyose tari tomo, nandehu koto ka ara m. Tada, sinobi te koso.\"",
+    "Text_Shibuya":  "　「わたしは、誰からも許されているので、人を呼んでも、何ということありませんよ。ただ、じっとしていなさい」",
+    "Text_Yosano":  "　「私はもう皆に同意させてあるのだから、お呼びになってもなんにもなりませんよ。静かに話しましょうよ」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "34",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "まろは皆人に許されたれば",
+                            "Annotation_Body":  "以下「ただ忍びてこそ」まで、源氏の詞。源氏の自負が語られる。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "14",
+    "LineId":  "08010214",
+    "Text_Original":  "　とのたまふ声に、この君なりけりと聞き定めて、いささか慰めけり。わびしと思へるものから、情けなくこはごはしうは見えじ、と思へり。酔ひ心地や例ならざりけむ、許さむことは口惜しきに、女も若うたをやぎて、強き心も知らぬなるべし。",
+    "Text_Original_Romanized":  "  to notamahu kowe ni, kono Kimi nari keri to kiki sadame te, isasaka nagusame keri. Wabisi to omohe ru monokara, nasakenaku kohagohasiu ha miye zi, to omohe ri. Wehigokoti ya rei nara zari kem, yurusa m koto ha kutiwosiki ni, Womna mo wakau tawoyagi te, tuyoki kokoro mo sira nu naru besi.",
+    "Text_Shibuya":  "　とおっしゃる声で、この君であったのだと理解して、少しほっとするのであった。やりきれないと思う一方で、物のあわれを知らない強情な女とは見られまい、と思っている。酔心地がいつもと違っていたからであろうか、手放すのは残念に思われるし、女も若くなよやかで、強情な性質も持ち合わせてないのであろう。",
+    "Text_Yosano":  "　この声に源氏であると知って女は少し不気味でなくなった。困りながらも冷淡にしたくはないと女は思っている。源氏は酔い過ぎていたせいでこのままこの女と別れることを残念に思ったか、女も若々しい一方で抵抗をする力がなかったか、二人は陥るべきところへ落ちた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "35",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "この君なりけり",
+                            "Annotation_Body":  "女の心中を間接的に表現。「この君」は源氏をさす。"
+                        },
+                        {
+                            "Annotation_Num":  "36",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "情けなくこはごはしうは見えじ",
+                            "Annotation_Body":  "女の心中叙述。"
+                        },
+                        {
+                            "Annotation_Num":  "37",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "酔ひ心地や例ならざりけむ",
+                            "Annotation_Body":  "語り手の推測を交えた挿入句。以下「知らぬなるべし」まで、語り手の推測を交えた文が続く。『完訳』は「以下「（源氏も）--けん」「女も--べし」と、語り手の推量に委ねながら、二人の情交を暗示」と指摘。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "15",
+    "LineId":  "08010215",
+    "Text_Original":  "　らうたしと見たまふに、ほどなく明けゆけば、心あわたたし。女は、まして、さまざまに思ひ乱れたるけしきなり。",
+    "Text_Original_Romanized":  "  Rautasi to mi tamahu ni, hodo naku akeyuke ba, kokoro awatatasi. Womna ha, masite, samazama ni omohi midare taru kesiki nari.",
+    "Text_Shibuya":  "　かわいらしいと御覧になっていらっしゃるうちに、間もなく明るくなって行ったので、気が急かれる。女は、男以上にいろいろと思い悩んでいる様子である。",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e可憐\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかれん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eな相手に心の\u003cRUBY\u003e\u003cRB\u003e惹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eかれる源氏は、それからほどなく明けてゆく夜に別れを促されるのを苦しく思った。女はまして心を乱していた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "38",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ほどなく明けゆけば",
+                            "Annotation_Body":  "『完訳』は「官能の時間が一瞬に過ぎる」と注す。"
+                        },
+                        {
+                            "Annotation_Num":  "39",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "女はましてさまざまに思ひ乱れたるけしきなり",
+                            "Annotation_Body":  "「まして」とあるので、源氏も惑乱しているが、女の方はそれ以上であると語る。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "16",
+    "LineId":  "08010216",
+    "Text_Original":  "　「なほ、名のりしたまへ。いかでか、聞こゆべき。かうてやみなむとは、さりとも思されじ」",
+    "Text_Original_Romanized":  "  \"Naho, nanori si tamahe. Ikadeka, kikoyu beki. Kau te yami na m to ha, saritomo obosa re zi.\"",
+    "Text_Shibuya":  "　「やはり、お名前をおっしゃってください。どのようして、お便りを差し上げられましょうか。こうして終わろうとは、いくら何でもお思いではあるまい」",
+    "Text_Yosano":  "　「ぜひ言ってください、だれであるかをね。どんなふうにして手紙を上げたらいいのか、これきりとはあなただって思わないでしょう」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "40",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "なほ、名のりしたまへ",
+                            "Annotation_Body":  "以下「思されじ」まで、源氏の詞。「なほ」は、それまでに何度も名を尋ねていたことを表す。語られてない部分のあることを示す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "17",
+    "LineId":  "08010217",
+    "Text_Original":  "　とのたまへば、",
+    "Text_Original_Romanized":  "  to notamahe ba,",
+    "Text_Shibuya":  "　とおっしゃると、",
+    "Text_Yosano":  "　などと源氏が言うと、\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "18",
+    "LineId":  "08010218",
+    "Text_Original":  "　「憂き身世にやがて消えなば尋ねても\u003cBR\u003e　　草の原をば問はじとや思ふ」",
+    "Text_Original_Romanized":  "    \"Uki mi yo ni yagate kiye na ba tadune te mo\u003cBR\u003e    kusa no hara wo ba toha zi to ya omohu",
+    "Text_Shibuya":  "　「不幸せな身のまま名前を明かさないでこの世から死んでしまったなら\u003cBR\u003e　　野末の草の原まで尋ねて来ては下さらないのかと思います」",
+    "Text_Yosano":  "　　うき身世にやがて消えなば尋ねても\u003cBR\u003e　　草の原をば訪はじとや思ふ\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "41",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "憂き身世にやがて消えなば尋ねても--草の原をば問はじとや思ふ",
+                            "Annotation_Body":  "前の源氏の歌に対する返歌というよりも新たに詠んだ女の贈歌。この歌には相手の歌句を引用して返すということをしてない。この間に、時間の経過があったことをも思わせる。『完訳』は「名を知らぬからとて、「草の原」（死後の魂のありか）を尋ねないつもりか、の問いかけは、男に心を傾けてしまった女の、相手に情愛を確かめる気持。源氏が執拗に名を尋ねるのに応じた内容だが、和歌としては贈歌の趣である」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "19",
+    "LineId":  "08010219",
+    "Text_Original":  "　と言ふさま、艶になまめきたり。",
+    "Text_Original_Romanized":  "  to ihu sama, en ni namameki tari.",
+    "Text_Shibuya":  "　と詠む態度、優艶で魅力的である。",
+    "Text_Yosano":  "　という様子にきわめて\u003cRUBY\u003e\u003cRB\u003e艶\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eえん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eな所があった。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "20",
+    "LineId":  "08010220",
+    "Text_Original":  "　「ことわりや。聞こえ違へたる文字かな」とて、",
+    "Text_Original_Romanized":  "  \"Kotowari ya! Kikoye tagahe taru mozi kana!\" tote,",
+    "Text_Shibuya":  "　「ごもっともだ。先程の言葉は申し損ねました」と言って、",
+    "Text_Yosano":  "　「そう、私の言ったことはあなたのだれであるかを捜す努力を惜しんでいるように聞こえましたね」と言って、また、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "42",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ことわりや聞こえ違へたる文字かな",
+                            "Annotation_Body":  "源氏の詞。「文字」は言葉の意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "21",
+    "LineId":  "08010221",
+    "Text_Original":  "　「いづれぞと露のやどりを分かむまに\u003cBR\u003e　　小笹が原に風もこそ吹け",
+    "Text_Original_Romanized":  "    \"Idure zo to tuyu no yadori wo waka m ma ni\u003cBR\u003e    kozasa ga hara ni kaze mo koso huke",
+    "Text_Shibuya":  "　「どなたであろうかと家を探しているうちに\u003cBR\u003e　　世間に噂が立ってだめになってしまうといけないと思いまして",
+    "Text_Yosano":  "　　「\u003cRUBY\u003e\u003cRB\u003e何\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eいづ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eれぞと露のやどりをわかむ間に\u003cBR\u003e　　\u003cRUBY\u003e\u003cRB\u003e小笹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこざさ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eが原に風もこそ吹け\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "43",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "いづれぞと露のやどりを分かむまに--小笹が原に風もこそ吹け",
+                            "Annotation_Body":  "源氏の返歌。「草の原」を受けて「小笹が原」と詠む。「露のやどり」に女の住む家を譬喩する。「露」「笹」「風」は縁語。「風もこそ吹け」は噂が立ったら大変だの意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "22",
+    "LineId":  "08010222",
+    "Text_Original":  "　わづらはしく思すことならずは、何かつつまむ。もし、すかいたまふか」",
+    "Text_Original_Romanized":  "  Wadurahasiku obosu koto nara zu ha, nanika tutuma m? Mosi, sukai tamahu ka?\"",
+    "Text_Shibuya":  "　迷惑にお思いでなかったら、何の遠慮がいりましょう。ひょっとして、おだましになるのですか」",
+    "Text_Yosano":  "　私との関係を迷惑にお思いにならないのだったら、お隠しになる必要はないじゃありませんか。わざとわからなくするのですか」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "44",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "わづらはしく",
+                            "Annotation_Body":  "以下「すかいたまふか」まで、歌に続けた源氏の詞。『完訳』は「迷惑にお思いでないなら、何で私が遠慮などいたしましょう」と注す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "23",
+    "LineId":  "08010223",
+    "Text_Original":  "　とも言ひあへず、人々起き騒ぎ、上の御局に参りちがふけしきども、しげくまよへば、いとわりなくて、扇ばかりをしるしに取り換へて、出でたまひぬ。",
+    "Text_Original_Romanized":  "  to mo ihi ahe zu, hitobito oki sawagi, Uhe no mitubone ni mawiri tigahu kesiki-domo, sigeku mayohe ba, ito warinaku te, ahugi bakari wo sirusi ni torikahe te, ide tamahi nu.",
+    "Text_Shibuya":  "　とも言い終わらないうちに、女房たちが起き出して、上の御局に参上したり下がって来たりする様子が、騒がしくなってきたので、まことに仕方なくて、扇だけを証拠として交換し合って、お出になった。",
+    "Text_Yosano":  "　と言い切らぬうちに、もう女房たちが起き出して女御を迎えに行く者、あちらから下がって来る者などが廊下を通るので、落ち着いていられずに扇だけをあとのしるしに取り替えて源氏はその室を出てしまった。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "24",
+    "LineId":  "08010224",
+    "Text_Original":  "　桐壺には、人びと多くさぶらひて、おどろきたるもあれば、かかるを、",
+    "Text_Original_Romanized":  "  Kiritubo ni ha, hitobito ohoku saburahi te, odoroki taru mo are ba, kakaru wo,",
+    "Text_Shibuya":  "　桐壷には、女房が大勢仕えていて、目を覚ましている者もいるので、このようなのを、",
+    "Text_Yosano":  "　源氏の\u003cRUBY\u003e\u003cRB\u003e桐壺\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eきりつぼ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eには女房がおおぜいいたから、主人が暁に帰った音に目をさました女もあるが、忍び歩きに好意を持たないで、\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "25",
+    "LineId":  "08010225",
+    "Text_Original":  "　「さも、たゆみなき御忍びありきかな」",
+    "Text_Original_Romanized":  "  \"Samo, tayumi naki ohom-sinobi ariki kana!\"",
+    "Text_Shibuya":  "　「何とも、ご熱心なお忍び歩きですこと」",
+    "Text_Yosano":  "　「いつもいつも、まあよくも続くものですね」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "45",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さもたゆみなき御忍びありきかな",
+                            "Annotation_Body":  "女房の詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "26",
+    "LineId":  "08010226",
+    "Text_Original":  "　とつきしろひつつ、そら寝をぞしあへる。入りたまひて臥したまへれど、寝入られず。",
+    "Text_Original_Romanized":  "  to tukisirohi tutu, sorane wo zo si ahe ru. Iri tamahi te husi tamahe re do, neira re zu.",
+    "Text_Shibuya":  "　と突つき合いながら、空寝をしていた。お入りになって横になられたが、眠ることができない。",
+    "Text_Yosano":  "　という意味を仲間で\u003cRUBY\u003e\u003cRB\u003e肱\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひじ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eや手を突き合うことで言って、寝入ったふうを装うていた。寝室にはいったが眠れない源氏であった。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "27",
+    "LineId":  "08010227",
+    "Text_Original":  "　「をかしかりつる人のさまかな。女御の御おとうとたちにこそはあらめ。まだ世に馴れぬは、五、六の君ならむかし。帥宮の北の方、頭中将のすさめぬ四の君などこそ、よしと聞きしか。なかなかそれならましかば、今すこしをかしからまし。六は春宮にたてまつらむとこころざしたまへるを、いとほしうもあるべいかな。わづらはしう、尋ねむほどもまぎらはし、さて絶えなむとは思はぬけしきなりつるを、いかなれば、言通はすべきさまを教へずなりぬらむ」",
+    "Text_Original_Romanized":  "  \"Wokasikari turu hito no sama kana! Nyougo no ohom-otoutotati ni koso ha ara me. Mada yo ni nare nu ha, Go, Rokunokimi nara m kasi. Sotinomiya no Kitanokata, Tounotyuuzyau no susame nu Sinokimi nado koso, yosi to kiki sika. Nakanaka sore nara masika ba, ima sukosi wokasikara masi. Roku ha Touguu ni tatematura m to kokorozasi tamahe ru wo, itohosiu mo aru bei kana! Wadurahasiu, tadune m hodo mo magirahasi, sate taye na m to ha omoha nu kesiki nari turu wo, ika nare ba, koto kayohasu beki sama wo wosihe zu nari nu ram.\"",
+    "Text_Shibuya":  "　「美しい人であったなあ。女御の御妹君であろう。まだうぶなところから、五の君か六の君であろう。帥宮の北の方や、頭中将が気にいっていない四の君などは、美人だと聞いていたが。かえってその人たちであったら、もう少し味わいがあったろうに。六の君は春宮に入内させようと心づもりをしておられるから、気の毒なことであるなあ。厄介なことだ、尋ねることもなかなか難しい、あのまま終わりにしようとは思っていない様子であったが、どうしたことで、便りを通わす方法を教えずじまいにしたのだろう」",
+    "Text_Yosano":  "　美しい感じの人だった。女御の妹たちであろうが、処女であったから五の君か六の君に違いない。\u003cRUBY\u003e\u003cRB\u003e太宰帥\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eだざいのそつ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003e親王の夫人や頭中将が愛しない四の君などは美人だと聞いたが、かえってそれであったらおもしろい恋を経験することになるのだろうが、六の君は東宮の\u003cRUBY\u003e\u003cRB\u003e後宮\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこうきゅう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eへ入れるはずだとか聞いていた、その人であったら気の毒なことになったというべきである。幾人もある右大臣の娘のどの人であるかを知ることは困難なことであろう。もう逢うまいとは思わぬ様子であった人が、なぜ手紙を往復させる方法について何ごとも教えなかったのであろう\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "46",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "をかしかりつる人のさまかな",
+                            "Annotation_Body":  "以下「教へずなりぬらむ」まで、源氏の心中。"
+                        },
+                        {
+                            "Annotation_Num":  "47",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "帥宮",
+                            "Annotation_Body":  "源氏の弟、後の螢兵部卿宮。"
+                        },
+                        {
+                            "Annotation_Num":  "48",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "なかなかそれならましかば今すこしをかしからまし",
+                            "Annotation_Body":  "「ましかば--まし」は反実仮想の構文。かえってそういった人妻であったらもっと味わいがあったろうに、そうでなくて残念だの意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "2",
+    "Paragraph_Title":  "第二段　宴の後、朧月夜の君と出逢う",
+    "Line":  "28",
+    "LineId":  "08010228",
+    "Text_Original":  "　など、よろづに思ふも、心のとまるなるべし。かうやうなるにつけても、まづ、「かのわたりのありさまの、こよなう奥まりたるはや」と、ありがたう思ひ比べられたまふ。",
+    "Text_Original_Romanized":  "  nado, yorodu ni omohu mo, kokoro no tomaru naru besi. Kauyau naru ni tuke te mo, madu, \"Kano watari no arisama no, koyonau okumari taru haya!\" to, arigatau omohi kurabe rare tamahu.",
+    "Text_Shibuya":  "　などと、いろいろと気にかかるのも、心惹かれるところがあるのだろう。このようなことにつけても、まずは、「あの周辺の有様が、どこよりも奥まっているな」と、世にも珍しくご比較せずにはいらっしゃれない。",
+    "Text_Yosano":  "　などとしきりに考えられるのも心が\u003cRUBY\u003e\u003cRB\u003e惹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eかれているといわねばならない。思いがけぬことの行なわれたについても、\u003cRUBY\u003e\u003cRB\u003e藤壺\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eふじつぼ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eにはいつもああした\u003cRUBY\u003e\u003cRB\u003e隙\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eすき\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがないと、昨夜の\u003cRUBY\u003e\u003cRB\u003e弘徽殿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこきでん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eのつけこみやすかったことと比較して\u003cRUBY\u003e\u003cRB\u003e主人\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eあるじ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの女御にいくぶんの\u003cRUBY\u003e\u003cRB\u003e軽蔑\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eけいべつ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの念が起こらないでもなかった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "49",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "心のとまるなるべし",
+                            "Annotation_Body":  "語り手の源氏の心を推測した文。『岷江入楚』は「草子地なり」と指摘。"
+                        },
+                        {
+                            "Annotation_Num":  "50",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かのわたりのありさまのこよなう奥まりたるはや",
+                            "Annotation_Body":  "源氏の心。「かのわたり」は藤壺をさす。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "1",
+    "LineId":  "08010301",
+    "Text_Original":  "　その日は後宴のことありて、まぎれ暮らしたまひつ。箏の琴仕うまつりたまふ。昨日のことよりも、なまめかしうおもしろし。藤壺は、暁に参う上りたまひにけり。「かの有明、出でやしぬらむ」と、心もそらにて、思ひ至らぬ隈なき良清、惟光をつけて、うかがはせたまひければ、御前よりまかでたまひけるほどに、",
+    "Text_Original_Romanized":  "  Sono hi ha goen no koto ari te, magire kurasi tamahi tu. Saunokoto tukaumaturi tamahu. Kinohu no koto yori mo, namamekasiu omosirosi. Huditubo ha, akatuki ni maunobori tamahi ni keri. \"Kano Ariake, ide ya si nu ram?\" to, kokoro mo sora nite, omohi itara nu kumanaki Yosikiyo, Koremitu wo tuke te, ukagaha se tamahi kere ba, omahe yori makade tamahi keru hodo ni,",
+    "Text_Shibuya":  "　その日は後宴の催しがあって、忙しく一日中お過ごしになった。箏の琴をお務めになる。昨日の御宴よりも、優美に興趣が感じられる。藤壷は、暁にお上りになったのであった。「あの有明は、退出してしまったろうか」と、心も上の空で、何事につけても手抜かりのない良清、惟光に命じて、見張りをさせておかれたところ、御前から退出なさった時に、",
+    "Text_Yosano":  "この日は\u003cRUBY\u003e\u003cRB\u003e後宴\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eごえん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eであった。終日そのことに携わっていて源氏はからだの\u003cRUBY\u003e\u003cRB\u003e閑暇\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eひま\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがなかった。十三\u003cRUBY\u003e\u003cRB\u003e絃\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eげん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e箏\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eそう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの琴の役をこの日は勤めたのである。昨日の宴よりも\u003cRUBY\u003e\u003cRB\u003e長閑\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eのどか\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eな気分に満ちていた。中宮は夜明けの時刻に南殿へおいでになったのである。弘徽殿の\u003cRUBY\u003e\u003cRB\u003e有明\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eありあけ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの月に別れた人はもう御所を出て行ったであろうかなどと、源氏の心はそのほうへ飛んで行っていた。気のきいた\u003cRUBY\u003e\u003cRB\u003e良清\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eよしきよ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eや\u003cRUBY\u003e\u003cRB\u003e惟光\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこれみつ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに命じて見張らせておいたが、源氏が\u003cRUBY\u003e\u003cRB\u003e宿直所\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eとのいどころ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eのほうへ帰ると、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "51",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "藤壺は、暁に参う上りたまひにけり",
+                            "Annotation_Body":  "清涼殿の上の御局に。"
+                        },
+                        {
+                            "Annotation_Num":  "52",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かの有明出でやしぬらむ",
+                            "Annotation_Body":  "源氏の心。「有明」は昨夜の弘徽殿の細殿で邂逅した女をさす。「有明」と「出づ」は縁語、さらにその下の「心も空にて」の「空」も。意識的にしゃれた文章表現をしたもの。"
+                        },
+                        {
+                            "Annotation_Num":  "53",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "良清惟光",
+                            "Annotation_Body":  "「良清」は「若紫」巻初出、「惟光」は「夕顔」巻初出の源氏の乳母子。"
+                        },
+                        {
+                            "Annotation_Num":  "54",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "御前よりまかでたまひけるほどに",
+                            "Annotation_Body":  "主語は源氏。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "2",
+    "LineId":  "08010302",
+    "Text_Original":  "　「ただ今、北の陣より、かねてより隠れ立ちてはべりつる車どもまかり出づる。御方々の里人はべりつるなかに、四位の少将、右中弁など急ぎ出でて、送りしはべりつるや、弘徽殿の御あかれならむと見たまへつる。けしうはあらぬけはひどもしるくて、車三つばかりはべりつ」",
+    "Text_Original_Romanized":  "  \"Tada ima, kitanodin yori, kanete yori kakure tati te haberi turu kuruma-domo makari iduru. Ohom-katagata no satobito haberi turu naka ni, Siwinoseusyau, Utyuuben nado isogi ide te, okuri si haberi turu ya, Koukiden no ohom-akare nara m to mi tamahe turu. Kesiu ha ara nu kehahi-domo siruku te, kuruma mitu bakari haberi tu.\"",
+    "Text_Shibuya":  "　「たった今、北の陣から、あらかじめ物蔭に隠れて立っていた車どもが退出しました。御方々の実家の人がございました中で、四位少将、右中弁などが急いで出てきて、送って行きましたのは、弘徽殿方のご退出であろうと拝見しました。ご立派な方が乗っている様子がはっきり窺えて、車が三台ほどでございました」",
+    "Text_Yosano":  "　「ただ今北の御門のほうに早くから来ていました車が皆人を乗せて出てまいるところでございますが、女御さん方の実家の人たちがそれぞれ行きます中に、四位少将、右中弁などが御前から下がって来てついて行きますのが弘徽殿の実家の方々だと見受けました。ただ女房たちだけの乗ったのでないことはよく知れていまして、そんな車が三台ございました」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "55",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ただ今",
+                            "Annotation_Body":  "以下「車三つばかりはべりつ」まで、良清、惟光らの詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "3",
+    "LineId":  "08010303",
+    "Text_Original":  "　と聞こゆるにも、胸うちつぶれたまふ。",
+    "Text_Original_Romanized":  "  to kikoyuru ni mo, mune uti-tubure tamahu.",
+    "Text_Shibuya":  "　とご報告申し上げるにつけても、胸がどきっとなさる。",
+    "Text_Yosano":  "　と報告をした。源氏は胸のとどろくのを覚えた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "4",
+    "LineId":  "08010304",
+    "Text_Original":  "　「いかにして、いづれと知らむ。父大臣など聞きて、ことごとしうもてなさむも、いかにぞや。まだ、人のありさまよく見さだめぬほどは、わづらはしかるべし。さりとて、知らであらむ、はた、いと口惜しかるべければ、いかにせまし」と、思しわづらひて、つくづくとながめ臥したまへり。",
+    "Text_Original_Romanized":  "  \"Ikani si te, idure to sira m? Titiotodo nado kiki te, kotogotosiu motenasa m mo, ikani zo ya? Mada, hito no arisama yoku mi sadame nu hodo ha, wadurahasikaru besi. Saritote, sira de ara m, hata, ito kutiwosikaru bekere ba, ikani se masi?\" to, obosi wadurahi te, tukuduku to nagame husi tamahe ri.",
+    "Text_Shibuya":  "　「どのようにして、どの君と確かめ得ようか。父大臣などが聞き知って、大げさに婿扱いされるのも、どんなものか。まだ、相手の様子をよく見定めないうちは、厄介なことだろう。そうかと言って、確かめないでいるのも、それまた、誠に残念なことだろうから、どうしたらよいものか」と、ご思案に余って、ぼんやりと物思いに耽り横になっていらっしゃった。",
+    "Text_Yosano":  "　どんな方法によって\u003cRUBY\u003e\u003cRB\u003e何女\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eなにじょ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eであるかを知ればよいか、父の右大臣にその関係を知られて婿としてたいそうに待遇されるようなことになって、それでいいことかどうか。その人の性格も何もまだよく知らないのであるから、結婚をしてしまうのは危険である、そうかといってこのまま関係が進展しないことにも堪えられない、どうすればいいのかとつくづく物思いをしながら源氏は寝ていた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "56",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いかにして",
+                            "Annotation_Body":  "以下「いかにせまし」まで、源氏の心中。"
+                        },
+                        {
+                            "Annotation_Num":  "57",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ことごとしうもてなさむも",
+                            "Annotation_Body":  "『古典セレクション』は諸本に従って「ことごとしうもてなされんも」と「れ」を補入する。『集成』『新大系』（大島本も同文）は底本のまま。"
+                        },
+                        {
+                            "Annotation_Num":  "58",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "まだ、人のありさまよく見さだめぬほどは、わづらはしかるべし",
+                            "Annotation_Body":  "「見さだめぬほどは」と「わづらはしかるべし」の間には間合があろう。『集成』は「それに、まだ相手の姫君の事情をよく見届けぬうちは、（六の君ならば、東宮妃に予定されていたりするから）事めんどうであろう」と注す。『完訳』は「まだ相手の人柄をよく見きわめぬうちは、それも煩わしいことだろう」と解す。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "5",
+    "LineId":  "08010305",
+    "Text_Original":  "　「姫君、いかにつれづれならむ。日ごろになれば、屈してやあらむ」と、らうたく思しやる。かのしるしの扇は、桜襲ねにて、濃きかたにかすめる月を描きて、水にうつしたる心ばへ、目馴れたれど、ゆゑなつかしうもてならしたり。「草の原をば」と言ひしさまのみ、心にかかりたまへば、",
+    "Text_Original_Romanized":  "  \"Himegimi, ikani turedure nara m? Higoro ni nare ba, ku\u0027 si te ya ara m?\" to, rautaku obosi yaru. Kano sirusi no ahugi ha, sakuragasane nite, koki kata ni kasume ru tuki wo kaki te, midu ni utusi taru kokorobahe, me nare tare do, yuwe natukasiu motenarasi tari. \"Kusa no hara wo ba\" to ihi si sama nomi, kokoro ni kakari tamahe ba, ",
+    "Text_Shibuya":  "　「姫君は、どんなに寂しがっているだろう。何日も会っていないから、ふさぎこんでいるだろうか」と、いじらしくお思いやりなさる。あの証拠の扇は、桜襲の色で、色の濃い片面に霞んでいる月を描いて、水に映している図柄は、よくあるものだが、人柄も奥ゆかしく使い馴らしている。「草の原をば」と詠んだ姿ばかりが、お心にかかりになさるので、",
+    "Text_Yosano":  "　姫君がどんなに寂しいことだろう、幾日も帰らないのであるからとかわいく二条の院の人を思いやってもいた。取り替えてきた扇は、桜色の薄様を三重に張ったもので、地の濃い所に\u003cRUBY\u003e\u003cRB\u003e霞\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかす\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eんだ月が\u003cRUBY\u003e\u003cRB\u003e描\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eか\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eいてあって、下の流れにもその影が映してある。珍しくはないが\u003cRUBY\u003e\u003cRB\u003e貴女\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eきじょ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの手に使い\u003cRUBY\u003e\u003cRB\u003e馴\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eな\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eらされた跡がなんとなく残っていた。「草の原をば」と言った時の美しい様子が目から去らない源氏は、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "59",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "姫君いかに",
+                            "Annotation_Body":  "以下「屈してやあらむ」まで、源氏の心。「姫君」は紫の君をさす。"
+                        },
+                        {
+                            "Annotation_Num":  "60",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "桜襲ね",
+                            "Annotation_Body":  "明融臨模本、大島本、陽明文庫本は「さくらかさね」とある。池田本は「のみへ」を補入。横山本、伝花山院長親筆本、肖柏本、三条西家本、書陵部本は「さくらのみへかさね」とある。河内本、別本の御物本も横山本等本と同文である。『集成』『古典セレクション』は「桜の三重がさね」と校訂する。『新大系』は底本のまま。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "6",
+    "LineId":  "08010306",
+    "Text_Original":  "　「世に知らぬ心地こそすれ有明の\u003cBR\u003e　　月のゆくへを空にまがへて」",
+    "Text_Original_Romanized":  "    \"Yo ni sira nu kokoti koso sure ariake no\u003cBR\u003e    tuki no yukuhe wo sora ni magahe te",
+    "Text_Shibuya":  "　「今までに味わったことのない気がする\u003cBR\u003e　　有明の月の行方を途中で見失ってしまって」",
+    "Text_Yosano":  "　　世に知らぬここちこそすれ有明の\u003cBR\u003e　　月の\u003cRUBY\u003e\u003cRB\u003e行方\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eゆくへ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを空にまがへて\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "61",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "世に知らぬ心地こそすれ有明の--月のゆくへを空にまがへて",
+                            "Annotation_Body":  "源氏の独詠歌。「有明」と「空」は縁語。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "3",
+    "Paragraph_Title":  "第三段　桜宴の翌日、昨夜の女性の素性を知りたがる",
+    "Line":  "7",
+    "LineId":  "08010307",
+    "Text_Original":  "　と書きつけたまひて、置きたまへり。",
+    "Text_Original_Romanized":  "  to kaki tuke tamahi te, oki tamahe ri.",
+    "Text_Shibuya":  "　とお書きつけになって、取って置きなさった。",
+    "Text_Yosano":  "　と扇に書いておいた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "1",
+    "LineId":  "08010401",
+    "Text_Original":  "　「大殿にも久しうなりにける」と思せど、若君も心苦しければ、こしらへむと思して、二条院へおはしぬ。見るままに、いとうつくしげに生ひなりて、愛敬づきらうらうじき心ばへ、いとことなり。飽かぬところなう、わが御心のままに教へなさむ、と思すにかなひぬべし。男の御教へなれば、すこし人馴れたることや混じらむと思ふこそ、うしろめたけれ。",
+    "Text_Original_Romanized":  "  \"Ohoidono ni mo hisasiu nari ni keru.\" to obose do, Wakagimi mo kokorogurusikere ba, kosirahe m to obosi te, Nideunowin he ohasi nu. Miru mama ni, ito utukusige ni ohi nari te, aigyauduki raurauziki kokorobahe, ito koto nari. Aka nu tokoro nau, waga mikokoro no mama ni wosihe nasa m, to obosu ni kanahi nu besi. Wotoko no ohom-wosihe nare ba, sukosi hitonare taru koto ya mazira m to omohu koso, usirometakere.",
+    "Text_Shibuya":  "　「大殿にも久しく御無沙汰してしまったなあ」とお思いになるが、若君も気がかりなので、慰めようとお思いになって、二条院へお出かけになった。見れば見るほどとてもかわいらしく成長して、魅力的で利発な気立て、まことに格別である。不足なところのなく、ご自分の思いのままに教えよう、とお思いになっていたのに、叶う感じにちがいない。男手のお教えなので、多少男馴れしたところがあるかも知れない、と思う点が不安である。",
+    "Text_Yosano":  "　翌朝源氏は、左大臣家へ久しく行かないことも思われながら、二条の院の少女が気がかりで、寄ってなだめておいてから行こうとして自邸のほうへ帰った。二、三日ぶりに見た最初の瞬間にも若紫の美しくなったことが感ぜられた。\u003cRUBY\u003e\u003cRB\u003e愛嬌\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eあいきょう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがあって、そしてまた凡人から見いだしがたい貴女らしさを多く備えていた。理想どおりに育て上げようとする源氏の好みにあっていくようである。教育にあたるのが男であるから、いくぶんおとなしさが少なくなりはせぬかと思われて、その点だけを源氏は\u003cRUBY\u003e\u003cRB\u003e危\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eあやぶ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eんだ。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "62",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "大殿にも久しうなりにけると思せど若君も心苦しければ",
+                            "Annotation_Body":  "場面変わって二条院。紫の君の物語。朧月夜の物語と葵の上の物語の間に挿話的に語られる。"
+                        },
+                        {
+                            "Annotation_Num":  "63",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "男の御教へなればすこし人馴れたることや混じらむと思ふこそうしろめたけれ",
+                            "Annotation_Body":  "語り手の感想を交えた表現。『一葉集』は「双紙詞也」と指摘。『集成』も「男の源氏が教育なさるのだから、少々男なれしたところがあるかもしれないと思われる点が、気がかりである。草子地」とある。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "2",
+    "LineId":  "08010402",
+    "Text_Original":  "　日ごろの御物語、御琴など教へ暮らして出でたまふを、例のと、口惜しう思せど、今はいとようならはされて、わりなくは慕ひまつはさず。",
+    "Text_Original_Romanized":  "  Higoro no ohom-monogatari, ohom-koto nado wosihe kurasi te ide tamahu wo, rei no to, kutiwosiu obose do, ima ha ito you naraha sare te, warinaku ha sitahi matuhasa zu.",
+    "Text_Shibuya":  "　この数日来のお話、お琴など教えて一日過ごしてお出かけになるのを、いつものと、残念にお思いになるが、今ではとてもよく躾けられて、むやみに後を追ったりしない。",
+    "Text_Yosano":  "　この二、三日間に宮中であったことを語って聞かせたり、琴を教えたりなどしていて、日が暮れると源氏が出かけるのを、紫の女王は少女心に物足らず思っても、このごろは習慣づけられていて、無理に留めようなどとはしない。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "3",
+    "LineId":  "08010403",
+    "Text_Original":  "　大殿には、例の、ふとも対面したまはず。つれづれとよろづ思しめぐらされて、箏の御琴まさぐりて、",
+    "Text_Original_Romanized":  "  Ohoidono ni ha, rei no, huto mo taimen si tamaha zu. Turedure to yorodu obosi megurasa re te, Sau no ohom-koto masaguri te,",
+    "Text_Shibuya":  "　大殿では、例によって、直ぐにはお会いなさらない。所在なくいろいろとお考え廻らされて、箏のお琴を手すさびに弾いて、",
+    "Text_Yosano":  "　左大臣家の源氏の夫人は例によってすぐには出て来なかった。いつまでも座に一人でいてつれづれな源氏は、夫人との間柄に\u003cRUBY\u003e\u003cRB\u003e一抹\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eいちまつ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの寂しさを感じて、琴をかき鳴らしながら、\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "4",
+    "LineId":  "08010404",
+    "Text_Original":  "　「やはらかに寝る夜はなくて」",
+    "Text_Original_Romanized":  "  \"Yaharaka ni nuru yo ha naku te\"",
+    "Text_Shibuya":  "　「やはらかに寝る夜はなくて」",
+    "Text_Yosano":  "　「やはらかに\u003cRUBY\u003e\u003cRB\u003e寝\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eぬ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eる夜はなくて」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "64",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "やはらかに寝る夜はなくて",
+                            "Annotation_Body":  "『催馬楽』「貫河」の「貫河（ぬきかは）の瀬々の　やはら手枕　やはらかに　寝（ぬ）る夜はなくて　親離（さ）くる夫（つま）　親離くる夫は　ましてるはし　しかさらば　矢矧（やはぎ）の市に　沓買ひにかむ　沓買はば　線がいの　細底（ほそしき）を買へ　さし履きて　表裳（うはも）とり着て　宮路かよはむ」の句。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "5",
+    "LineId":  "08010405",
+    "Text_Original":  "　とうたひたまふ。大臣渡りたまひて、一日の興ありしこと、聞こえたまふ。",
+    "Text_Original_Romanized":  "  to utahi tamahu. Otodo watari tamahi te, hitohi no kyou ari si koto, kikoye tamahu.",
+    "Text_Shibuya":  "　とお謡いになる。大臣が渡っていらして、先日の御宴の趣深かったこと、お話し申し上げなさる。",
+    "Text_Yosano":  "　と歌っていた。左大臣が来て、花の宴のおもしろかったことなどを源氏に話していた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "6",
+    "LineId":  "08010406",
+    "Text_Original":  "　「ここらの齢にて、明王の御代、四代をなむ見はべりぬれど、このたびのやうに、文ども警策に、舞、楽、物の音どもととのほりて、齢延ぶることなむはべらざりつる。道々のものの上手ども多かるころほひ、詳しうしろしめし、ととのへさせたまへるけなり。翁もほとほと舞ひ出でぬべき心地なむしはべりし」",
+    "Text_Original_Romanized":  "  \"Kokora no yohahi nite, meiwau no miyo, sidai wo nam mi haberi nure do, kono tabi no yau ni, humi-domo kyauzaku ni, mahi, gaku, mono no ne-domo totonohori te, yohahi noburu koto nam habera zari turu. Mitimiti no mono no zyauzu-domo ohokaru korohohi, kuhasiu sirosimesi, totonohe sase tamahe ru ke nari. Okina mo hotohoto mahi ide nu beki kokoti nam si haberi si.\"",
+    "Text_Shibuya":  "　「この高齢で、明王の御世を、四代にわたって見て参りましたが、今度のように作文類が優れていて、舞、楽、楽器の音色が整っていて、寿命の延びる思いをしたことはありませんでした。それぞれ専門の道の名人が多いこのころに、お詳しく精通していらして、お揃えあそばしたからです。わたくしごとき老人も、ついつい舞い出してしまいそうな心地が致しました」",
+    "Text_Yosano":  "　「私がこの年になるまで、四代の天子の宮廷を見てまいりましたが、今度ほどよい詩がたくさんできたり、音楽のほうの才人がそろっていたりしまして、寿命の延びる気がするようなおもしろさを味わわせていただいたことはありませんでした。ただ今は専門家に名人が多うございますからね、あなたなどは師匠の人選がよろしくてあのおできぶりだったのでしょう。老人までも舞って出たい気がいたしましたよ」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "65",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ここらの齢にて",
+                            "Annotation_Body":  "以下「心地なむしはべりし」まで、左大臣の詞。"
+                        },
+                        {
+                            "Annotation_Num":  "66",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "翁もほとほと舞ひ出でぬべき心地なむしはべりし",
+                            "Annotation_Body":  "百十三歳の尾張連浜主が仁明天皇の御前で長寿楽を舞ったという故事（『続日本後紀』承和十二年正月条）。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "7",
+    "LineId":  "08010407",
+    "Text_Original":  "　と聞こえたまへば、",
+    "Text_Original_Romanized":  "  to kikoye tamahe ba,",
+    "Text_Shibuya":  "　と申し上げなさると、",
+    "Text_Yosano":  "　\u003c!-----\u003e\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "8",
+    "LineId":  "08010408",
+    "Text_Original":  "　「ことにととのへ行ふこともはべらず。ただ公事に、そしうなる物の師どもを、ここかしこに尋ねはべりしなり。よろづのことよりは、「柳花苑」、まことに後代の例ともなりぬべく見たまへしに、まして「さかゆく春」に立ち出でさせたまへらましかば、世の面目にやはべらまし」",
+    "Text_Original_Romanized":  "  \"Koto ni totonohe okonahu koto mo habera zu. Tada ohoyakegoto ni, sosiu naru mono no si-domo wo, kokokasiko ni tadune haberi si nari. Yorodu no koto yori ha, \u0027Riukwawen\u0027, makoto ni koudai no rei to mo nari nu beku mi tamahe si ni, masite \u0027Saka yuku haru\u0027 ni tati ide sase tamahe ra masika ba, yo no menboku ni ya habera masi.\"",
+    "Text_Shibuya":  "　「特別に整えたわけではございません。ただお役目として、優れた音楽の師たちをあちこちから捜したまでのことです。何はさておき、「柳花苑」は、本当に後代の例ともなるにちがいなく拝見しましたが、まして、「栄える春」に倣って舞い出されたら、どんなにか一世の名誉だったでしょうに」",
+    "Text_Yosano":  "「特に今度のために\u003cRUBY\u003e\u003cRB\u003e稽古\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eけいこ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eなどはしませんでした。ただ宮廷付きの中でのよい楽人に参考になることを教えてもらいなどしただけです。何よりも頭中将の\u003cRUBY\u003e\u003cRB\u003e柳花苑\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eりゅうかえん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがみごとでした。話になって後世へ伝わる至芸だと思ったのですが、その上あなたがもし当代の\u003cRUBY\u003e\u003cRB\u003e礼讃\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eらいさん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに一手でも舞を見せてくださいましたら歴史上に残ってこの\u003cRUBY\u003e\u003cRB\u003e御代\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eみよ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの誇りになったでしょうが」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "67",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ことにととのへ行ふこともはべらず",
+                            "Annotation_Body":  "以下「世の面目にやはべらまし」まで、源氏の詞。"
+                        },
+                        {
+                            "Annotation_Num":  "68",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "そしうなる物の師",
+                            "Annotation_Body":  "「そしう」は『小学館古語大辞典』「不詳。世に従わない、へつらうことを知らないの意か」とあり、さらに「語誌」に「「疎習」「疎秀」などを当てる説があり、字音語であることは確かだが、未詳。源氏物語の一例のみで、河内本では「おほやけごとにかたむ物の師」とある。「奸（かた）む」と類義とみるべきであり、「おほやけごとに」から続けば、官途になじまず、硬骨でへつらわない、意地っ張りなさまであるらしい。「初心」の転化か。宇津保物語の菊の宴の巻に「そしにの雅楽頭（うたのかみ）」があり、類似点がある。「おほやけごとに」を「尋ねて」に係るとみ、「そしう」は功者に上手なる意とする萩原広道の説もあるが、「おほやけごとに」を副詞的に取ることも従いがたい。図書寮本名義抄に「阻脩　ヘダタリナガシ」とあり「公事に長らく遠ざかっている」と解される」とある。"
+                        },
+                        {
+                            "Annotation_Num":  "69",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さかゆく春に",
+                            "Annotation_Body":  "『集成』『完訳』は前出の尾張連浜主が帝の御前で長寿楽を舞いながら歌った「翁とてわびやはをらむ草も木も栄ゆる時に出でて舞ひてむ」を踏まえたものと指摘する。『奥入』等の古注では「今こそあれ我も昔は男山栄ゆく時もありこしものを」（古今集、雑上、八八九、読人しらず）を指摘する。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "9",
+    "LineId":  "08010409",
+    "Text_Original":  "　と聞こえたまふ。",
+    "Text_Original_Romanized":  "  to kikoye tamahu.",
+    "Text_Shibuya":  "　とお答え申し上げになる。",
+    "Text_Yosano":  "　こんな話をしていた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "4",
+    "Paragraph_Title":  "第四段　紫の君の理想的成長ぶり、葵の上との夫婦仲不仲",
+    "Line":  "10",
+    "LineId":  "08010410",
+    "Text_Original":  "　弁、中将など参りあひて、高欄に背中おしつつ、とりどりに物の音ども調べ合はせて遊びたまふ、いとおもしろし。",
+    "Text_Original_Romanized":  "  Ben, Tyuuzyau nado mawiri ahi te, kauran ni senaka osi tutu, toridori ni mono no ne-domo sirabe ahase te asobi tamahu, ito omosirosi.",
+    "Text_Shibuya":  "　弁、中将なども来合わせて、高欄に背中を寄り掛らせて、めいめいが楽器の音を調えて合奏なさる、まことに素晴らしい。",
+    "Text_Yosano":  "　弁や中将も出て来て高欄に背中を押しつけながらまた熱心に器楽の合奏を始めた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "1",
+    "LineId":  "08010501",
+    "Text_Original":  "　かの有明の君は、はかなかりし夢を思し出でて、いともの嘆かしうながめたまふ。春宮には、卯月ばかりと思し定めたれば、いとわりなう思し乱れたるを、男も、尋ねたまはむにあとはかなくはあらねど、いづれとも知らで、ことに許したまはぬあたりにかかづらはむも、人悪く思ひわづらひたまふに、弥生の二十余日、右の大殿の弓の結に、上達部、親王たち多く集へたまひて、やがて藤の宴したまふ。",
+    "Text_Original_Romanized":  "  Kano Ariakenokimi ha, hakanakari si yume wo obosi ide te, ito mono nagekasiu nagame tamahu. Touguu ni ha, Uduki bakari to obosi sadame tare ba, ito warinau obosi midare taru wo, Wotoko mo, tadune tamaha m ni atohakanaku ha ara ne do, idure to mo sira de, koto ni yurusi tamaha nu atari ni kakaduraha m mo, hitowaruku omohi wadurahi tamahu ni, Yayohi no nizihuyoniti, Miginoohoidono no yuminoketi ni, Kamdatime, Miko-tati ohoku tudohe tamahi te, yagate hudinoen si tamahu.",
+    "Text_Shibuya":  "　あの有明の君は、夢のようにはかなかった逢瀬をお思い出しになって、とても物嘆かしくて物思いに沈んでいらっしゃる。春宮には、卯月ころとご予定になっていたので、とてもたまらなく悩んでいらっしゃったが、男も、お捜しになるにも手がかりがないわけではないが、どちらとも分からず、特に好ましく思っておられないご一族に関係するのも、体裁の悪く思い悩んでいらっしゃるところに、弥生の二十日過ぎ、右の大殿の弓の結があり、上達部、親王方、大勢お集まりになって、引き続いて藤の宴をなさる。",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e有明\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eありあけ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの君は短い夢のようなあの夜を心に思いながら、悩ましく日を送っていた。東宮の後宮へこの四月ごろはいることに親たちが決めているのが\u003cRUBY\u003e\u003cRB\u003e苦悶\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eくもん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの原因である。源氏もまったく\u003cRUBY\u003e\u003cRB\u003e何人\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eなにびと\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eであるかの見分けがつかなかったわけではなかったが、右大臣家の何女であるかがわからないことであったし、自分へことさら好意を持たない弘徽殿の女御の一族に恋人を求めようと働きかけることは\u003cRUBY\u003e\u003cRB\u003e世間体\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eせけんてい\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eのよろしくないことであろうとも\u003cRUBY\u003e\u003cRB\u003e躊躇\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eちゅうちょ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eされて、\u003cRUBY\u003e\u003cRB\u003e煩悶\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eはんもん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを重ねているばかりであった。三月の二十日過ぎに右大臣は自邸で弓の勝負の催しをして、親王方をはじめ高官を多く招待した。\u003cRUBY\u003e\u003cRB\u003e藤花\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eとうか\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの宴も続いて同じ日に行なわれることになっているのである。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "70",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "かの有明の君は",
+                            "Annotation_Body":  "語り手は「有明の君」と呼称するが、享受者は「朧月夜の君」と呼称する。"
+                        },
+                        {
+                            "Annotation_Num":  "71",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "春宮には卯月ばかりと思し定めたれば",
+                            "Annotation_Body":  "朧月夜の君は四月に春宮入内が決定されていたので悩む。"
+                        },
+                        {
+                            "Annotation_Num":  "72",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "弥生の二十余日",
+                            "Annotation_Body":  "源氏二十歳の三月の二十日過ぎ。晩春の景である。"
+                        },
+                        {
+                            "Annotation_Num":  "73",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "弓の結",
+                            "Annotation_Body":  "競射。左右に分かれて競射する。"
+                        },
+                        {
+                            "Annotation_Num":  "74",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "藤の宴",
+                            "Annotation_Body":  "横山本、伝花山院長親本は「ふちのはなのえん」、陽明文庫本は「ふちのはなえん」、三条西家本は「ふちの花のえん」とある。河内本と別本の御物本も「ふちのはなのえん」とある。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "2",
+    "LineId":  "08010502",
+    "Text_Original":  "　花盛りは過ぎにたるを、「ほかの散りなむ」とや教へられたりけむ、遅れて咲く桜、二木ぞいとおもしろき。新しう造りたまへる殿を、宮たちの御裳着の日、磨きしつらはれたり。はなばなとものしたまふ殿のやうにて、何ごとも今めかしうもてなしたまへり。",
+    "Text_Original_Romanized":  "  Hanazakari ha sugi ni taru wo, \"Hoka no tiri na m\" to ya wosihe rare tari kem, okure te saku sakura, hutaki zo ito omosiroki. Atarasiu tukuri tamahe ru otodo wo, Miya-tati no ohom-mogi no hi, migaki situraha re tari. Hanabana to monosi tamahu tono no yau nite, nanigoto mo imamekasiu motenasi tamahe ri. ",
+    "Text_Shibuya":  "　花盛りは過ぎてしまったが、「他のが散りってしまった後に」と、教えられたのであろうか、遅れて咲く桜、二本がとても美しい。新しくお造りになった殿を、姫宮たちの御裳着の儀式の日に、磨き飾り立ててある。派手好みでいらっしゃるご家風のようで、すべて当世風に洒落た行き方になさている。",
+    "Text_Yosano":  "　もう桜の盛りは過ぎているのであるが、「ほかの散りなんあとに咲かまし」と教えられてあったか二本だけよく咲いたのがあった。新築して外孫の内親王方の\u003cRUBY\u003e\u003cRB\u003e裳着\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eもぎ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに用いて、美しく装飾された客殿があった。\u003cRUBY\u003e\u003cRB\u003e派手\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eはで\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eな\u003cRUBY\u003e\u003cRB\u003e邸\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eやしき\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eで何事も皆近代好みであった。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "75",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ほかの散りなむ",
+                            "Annotation_Body":  "『源氏釈』は「見る人もなき山里の桜花ほかの散りなむ後ぞ咲かまし」（古今集、春上、六八、伊勢）を指摘。"
+                        },
+                        {
+                            "Annotation_Num":  "76",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "宮たちの御裳着の日",
+                            "Annotation_Body":  "弘徽殿女御の内親王をさす。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "3",
+    "LineId":  "08010503",
+    "Text_Original":  "　源氏の君にも、一日、内裏にて御対面のついでに、聞こえたまひしかど、おはせねば、口惜しう、ものの栄なしと思して、御子の四位少将をたてまつりたまふ。",
+    "Text_Original_Romanized":  "  Genzinokimi ni mo, hitohi, uti nite ohom-taimen no tuide ni, kikoye tamahi sika do, ohase ne ba, kutiwosiu, mono no haye nasi to obosi te, miko no Siwinoseusyau wo tatematuri tamahu.",
+    "Text_Shibuya":  "　源氏の君にも、先日、宮中でお会いした折に、ご案内申し上げなさったが、おいでにならないので、残念で、折角の催しも見栄えがしない、とお思いになって、ご子息の四位少将をお迎えに差し上げなさる。",
+    "Text_Yosano":  "　右大臣は源氏の君にも宮中で逢った日に来会を申し入れたのであるが、その日に美貌の源氏が姿を見せないのを残念に思って、\u003cRUBY\u003e\u003cRB\u003e息子\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eむすこ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの四位少将を迎えに出した。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "77",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "口惜しうものの栄なし",
+                            "Annotation_Body":  "右大臣の心中。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "4",
+    "LineId":  "08010504",
+    "Text_Original":  "　「わが宿の花しなべての色ならば\u003cBR\u003e　　何かはさらに君を待たまし」",
+    "Text_Original_Romanized":  "    \"Waga yado no hana si nabete no iro nara ba\u003cBR\u003e    nanikaha sarani Kimi wo mata masi",
+    "Text_Shibuya":  "　「わたしの邸の藤の花が世間一般の色をしているのなら\u003cBR\u003e　　どうしてあなたをお待ち致しましょうか」",
+    "Text_Yosano":  "　　わが宿の花しなべての色ならば\u003cBR\u003e　　何かはさらに君を待たまし\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "78",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "わが宿の花しなべての色ならば--何かはさらに君を待たまし",
+                            "Annotation_Body":  "右大臣の贈歌。源氏招待の意。『集成』は「「花」は、暗に娘のことをいったもの」と指摘する。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "5",
+    "LineId":  "08010505",
+    "Text_Original":  "　内裏におはするほどにて、主上に奏したまふ。",
+    "Text_Original_Romanized":  "  Uti ni ohasuru hodo nite, Uhe ni sousi tamahu.",
+    "Text_Shibuya":  "　宮中においでの時で、お上に奏上なさる。",
+    "Text_Yosano":  "　右大臣から源氏へ贈った歌である。源氏は御所にいた時で、\u003cRUBY\u003e\u003cRB\u003e帝\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eみかど\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eにこのことを申し上げた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "79",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "内裏におはするほどにて",
+                            "Annotation_Body":  "主語は源氏。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "6",
+    "LineId":  "08010506",
+    "Text_Original":  "　「したり顔なりや」と笑はせたまひて、",
+    "Text_Original_Romanized":  "  \"Sitarigaho nari ya!\" to waraha se tamahi te,",
+    "Text_Shibuya":  "　「得意顔だね」と、お笑いあそばして、",
+    "Text_Yosano":  "　「得意なのだね」帝はお笑いになって、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "80",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "したり顔なりや",
+                            "Annotation_Body":  "帝の詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "7",
+    "LineId":  "08010507",
+    "Text_Original":  "　「わざとあめるを、早うものせよかし。女御子たちなども、生ひ出づるところなれば、なべてのさまには思ふまじきを」",
+    "Text_Original_Romanized":  "  \"Wazato a\u0027 meru wo, hayau monose yo kasi. Womnamiko-tati nado mo, ohi iduru tokoro nare ba, nabete no sama ni ha omohu maziki wo.\"",
+    "Text_Shibuya":  "　「わざわざお迎えがあるようだから、早くお行きになるのがよい。女御子たちも成長なさっている所だから、赤の他人とは思っていまいよ」",
+    "Text_Yosano":  "　「使いまでもよこしたのだから行ってやるがいい。孫の内親王たちのために将来兄として力になってもらいたいと願っている大臣の\u003cRUBY\u003e\u003cRB\u003e家\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eうち\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eだから」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "81",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "わざとあめるを",
+                            "Annotation_Body":  "以下「思ふまじきを」まで、帝の詞。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "8",
+    "LineId":  "08010508",
+    "Text_Original":  "　などのたまはす。御装ひなどひきつくろひたまひて、いたう暮るるほどに、待たれてぞ渡りたまふ。",
+    "Text_Original_Romanized":  "  nado notamahasu. Ohom-yosohi nado hiki-tukurohi tamahi te, itau kururu hodo ni, mata re te zo watari tamahu.",
+    "Text_Shibuya":  "　などと仰せになる。御装束などお整えになって、たいそう日が暮れたころ、待ち兼ねられて、お着きになる。",
+    "Text_Yosano":  "　など仰せられた。ことに美しく装って、ずっと日が暮れてから待たれて源氏は行った。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "9",
+    "LineId":  "08010509",
+    "Text_Original":  "　桜の唐の綺の御直衣、葡萄染の下襲、裾いと長く引きて。皆人は表の衣なるに、あざれたる大君姿のなまめきたるにて、いつかれ入りたまへる御さま、げにいと異なり。花の匂ひもけおされて、なかなかことざましになむ。",
+    "Text_Original_Romanized":  "  Sakura no kara no ki no ohom-nahosi, ebizome no sitagasane, siri ito nagaku hiki te. Minahito ha uhe no kinu naru ni, azare taru ohokimisugata no namameki taru nite, itukare iri tamahe ru ohom-sama, geni ito koto nari. Hana no nihohi mo keosa re te, nakanaka kotozamasi ni nam.",
+    "Text_Shibuya":  "　桜襲の唐織りのお直衣、葡萄染の下襲、裾をとても長く引いて。参会者は皆袍を着ているところに、しゃれた大君姿の優美な様子で、丁重に迎えられてお入りになるお姿は、なるほどまことに格別である。花の美しさも圧倒されて、かえって興醒めである。",
+    "Text_Yosano":  "　桜の色の\u003cRUBY\u003e\u003cRB\u003e支那錦\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eしなにしき\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e直衣\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eのうし\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003e、赤紫の\u003cRUBY\u003e\u003cRB\u003e下襲\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eしたがさね\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e裾\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eすそ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを長く引いて、ほかの人は皆正装の\u003cRUBY\u003e\u003cRB\u003e袍\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eほう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eを着て出ている席へ、\u003cRUBY\u003e\u003cRB\u003e艶\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eえん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eな宮様姿をした源氏が、多数の人に敬意を表されながらはいって行った。桜の花の美がこの時にわかに減じてしまったように思われた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "82",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あざれたる大君姿のなまめきたるにて",
+                            "Annotation_Body":  "源氏の姿。他の参会者はみな正装（下は指貫を着用した布袴の礼装）なのに、高貴な身分の源氏だけ許されて略装の優美な姿をしている。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "10",
+    "LineId":  "08010510",
+    "Text_Original":  "　遊びなどいとおもしろうしたまひて、夜すこし更けゆくほどに、源氏の君、いたく酔ひ悩めるさまにもてなしたまひて、紛れ立ちたまひぬ。",
+    "Text_Original_Romanized":  "  Asobi nado ito omosirou si tamahi te, yo sukosi huke yuku hodo ni, Genzinokimi, itaku wehi nayame ru sama ni motenasi tamahi te, magire tati tamahi nu.",
+    "Text_Shibuya":  "　管弦の遊びなどもとても興趣深くなさって、夜が少し更けていくころに、源氏の君、たいそう酔って苦しいように見せかけなさって、人目につかぬよう座をお立ちになった。",
+    "Text_Yosano":  "　音楽の遊びも済んでから、夜が少しふけた時分である。源氏は酒の酔いに悩むふうをしながらそっと席を立った。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "11",
+    "LineId":  "08010511",
+    "Text_Original":  "　寝殿に、女一宮、女三宮のおはします。東の戸口におはして、寄りゐたまへり。藤はこなたの妻にあたりてあれば、御格子ども上げわたして、人びと出でゐたり。袖口など、踏歌の折おぼえて、ことさらめきもて出でたるを、ふさはしからずと、まづ藤壺わたり思し出でらる。",
+    "Text_Original_Romanized":  "  Sinden ni, Womnaitinomiya, Womnasamnomiya no ohasi masu. Himgasi no toguti ni ohasi te, yoriwi tamahe ri. Hudi ha konata no tuma ni atari te are ba, mikausi-domo age watasi te, hitobito ide wi tari. Sodeguti nado, tahuka no wori oboye te, kotosarameki mote-ide taru wo, husahasikara zu to, madu Huditubo watari obosi ide raru.",
+    "Text_Shibuya":  "　寝殿に、女一の宮、女三の宮とがいらっしゃる。東の戸口にいらっしゃって、寄り掛かってお座りになった。藤はこちらの隅にあったので、御格子を一面に上げわたして、女房たちが端に出て座っていた。袖口などは、踏歌の時を思い出して、わざとらしく出しているのを、似つかわしくないと、まずは藤壷周辺を思い出さずにはいらっしゃれない。",
+    "Text_Yosano":  "中央の\u003cRUBY\u003e\u003cRB\u003e寝殿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eしんでん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに\u003cRUBY\u003e\u003cRB\u003e女一\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eにょいち\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cRUBY\u003e\u003cRB\u003e宮\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eみや\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003e、女三の宮が住んでおいでになるのであるが、そこの東の妻戸の口へ源氏はよりかかっていた。\u003cRUBY\u003e\u003cRB\u003e藤\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eふじ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eはこの縁側と東の対の間の庭に咲いているので、格子は皆上げ渡されていた。\u003cRUBY\u003e\u003cRB\u003e御簾\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eみす\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eぎわには女房が並んでいた。その人たちの外へ出している\u003cRUBY\u003e\u003cRB\u003e袖口\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eそでぐち\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの重なりようの大ぎょうさは\u003cRUBY\u003e\u003cRB\u003e踏歌\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eとうか\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの夜の見物席が思われた。今日などのことにつりあったことではないと見て、趣味の洗練された藤壺辺のことがなつかしく源氏には思われた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "83",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "女一宮女三宮のおはします",
+                            "Annotation_Body":  "桐壺帝の内親王たち。"
+                        },
+                        {
+                            "Annotation_Num":  "84",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "踏歌の折おぼえて",
+                            "Annotation_Body":  "「末摘花」巻に出る。"
+                        },
+                        {
+                            "Annotation_Num":  "85",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "ふさはしからず",
+                            "Annotation_Body":  "源氏の感想。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "12",
+    "LineId":  "08010512",
+    "Text_Original":  "　「なやましきに、いといたう強ひられて、わびにてはべり。かしこけれど、この御前にこそは、蔭にも隠させたまはめ」",
+    "Text_Original_Romanized":  "  \"Nayamasiki ni, ito itau sihi rare te, wabi ni te haberi. Kasikokere do, kono omahe ni koso ha, kage ni mo kakusa se tamaha me.\"",
+    "Text_Shibuya":  "　「苦しいところに、とてもひどく勧められて、困っております。恐縮ですが、この辺の物蔭にでも隠させてください」",
+    "Text_Yosano":  "　「苦しいのにしいられた酒で私は困っています。もったいないことですがこちらの宮様にはかばっていただく縁故があると思いますから」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "86",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "なやましきに",
+                            "Annotation_Body":  "以下「たまはめ」まで、源氏の詞。"
+                        },
+                        {
+                            "Annotation_Num":  "87",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "蔭にも隠させたまはめ",
+                            "Annotation_Body":  "『河海抄』は「咲く花の下に隠るる人は多みありしにまさる藤の蔭かも」（伊勢物語）を指摘。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "13",
+    "LineId":  "08010513",
+    "Text_Original":  "　とて、妻戸の御簾を引き着たまへば、",
+    "Text_Original_Romanized":  "  tote, tumado no misu wo hiki-ki tamahe ba, ",
+    "Text_Shibuya":  "　と言って、妻戸の御簾を引き被りなさると、",
+    "Text_Yosano":  "　妻戸に添った御簾の下から上半身を少し源氏は中へ入れた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "14",
+    "LineId":  "08010514",
+    "Text_Original":  "　「あな、わづらはし。よからぬ人こそ、やむごとなきゆかりはかこちはべるなれ」",
+    "Text_Original_Romanized":  "  \"Ana, wadurahasi! Yokara nu hito koso, yamgotonaki yukari ha kakoti haberu nare.\"",
+    "Text_Shibuya":  "　「あら、困りますわ。身分の賎しい人なら、高貴な縁者を頼って来るとは聞いておりますが」",
+    "Text_Yosano":  "　「困ります。あなた様のような尊貴な御身分の方は親類の縁故などをおっしゃるものではございませんでしょう」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "88",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あなわづらはし",
+                            "Annotation_Body":  "以下「はべるなれ」まで、女房の詞。"
+                        },
+                        {
+                            "Annotation_Num":  "89",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "よからぬ人",
+                            "Annotation_Body":  "身分の低い人の意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "15",
+    "LineId":  "08010515",
+    "Text_Original":  "　と言ふけしきを見たまふに、重々しうはあらねど、おしなべての若人どもにはあらず、あてにをかしきけはひしるし。",
+    "Text_Original_Romanized":  "  to ihu kesiki wo mi tamahu ni, omoomosiu ha arane do, osinabete no wakaudo-domo ni ha ara zu, ate ni wokasiki kehahi sirusi.",
+    "Text_Shibuya":  "　と言う様子を御覧になると、重々しくはないが、並の若い女房たちではなく、上品で風情ある様子がはっきりと分かる。",
+    "Text_Yosano":  "　と言う女の様子には、重々しさはないが、ただの若い女房とは思われぬ品のよさと美しい感じのあるのを源氏は認めた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "16",
+    "LineId":  "08010516",
+    "Text_Original":  "　そらだきもの、いと煙たうくゆりて、衣の音なひ、いとはなやかにふるまひなして、心にくく奥まりたるけはひはたちおくれ、今めかしきことを好みたるわたりにて、やむごとなき御方々もの見たまふとて、この戸口は占めたまへるなるべし。さしもあるまじきことなれど、さすがにをかしう思ほされて、「いづれならむ」と、胸うちつぶれて、",
+    "Text_Original_Romanized":  "  Soradakimono, ito kebutau kuyuri te, kinu no otonahi, ito hanayaka ni hurumahi nasi te, kokoronikuku okumari taru kehahi ha tati-okure, imamekasiki koto wo konomi taru watari nite, yamgotonaki ohom-katagata mono mi tamahu tote, kono toguti ha sime tamahe ru naru besi. Sasimo aru maziki koto nare do, sasuga ni wokasiu omohosa re te, \"Idure nara m?\" to, mune uti-tubure te,",
+    "Text_Shibuya":  "　空薫物、とても煙たく薫らせて、衣ずれの音、とても派手な感じにわざと振る舞って、心憎く奥ゆかしい雰囲気は欠けて、当世風な派手好みのお邸で、高貴な御方々が御見物なさるというので、こちらの戸口は座をお占めになっているのだろう。そうしてはいけないことなのだが、やはり興味をお惹かれになって、「どの姫君であったのだろうか」と、胸をどきどきさせて、",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e薫物\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eたきもの\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eが煙いほどに\u003cRUBY\u003e\u003cRB\u003e焚\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eた\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eかれていて、この室内に\u003cRUBY\u003e\u003cRB\u003e起\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eた\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eち\u003cRUBY\u003e\u003cRB\u003e居\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eい\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eする女の\u003cRUBY\u003e\u003cRB\u003e衣摺\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eきぬず\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eれの音がはなやかなものに思われた。奥ゆかしいところは欠けて、\u003cRUBY\u003e\u003cRB\u003e派手\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eはで\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eな現代型の\u003cRUBY\u003e\u003cRB\u003e贅沢\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eぜいたく\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eさが見えるのである。令嬢たちが見物のためにこの辺へ出ているので、妻戸がしめられてあったものらしい。\u003cRUBY\u003e\u003cRB\u003e貴女\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eきじょ\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eがこんな所へ出ているというようなことに賛意は表されなかったが、さすがに若い源氏としておもしろいことに思われた。この中のだれを恋人と見分けてよいのかと源氏の胸はとどろいた。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "90",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "そらだきものいと煙たうくゆりて",
+                            "Annotation_Body":  "空薫物は室内にほのかに漂うのをよしとする。"
+                        },
+                        {
+                            "Annotation_Num":  "91",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "占めたまへるなるべし",
+                            "Annotation_Body":  "内親王方の座席が設営されているのであろうの意。「なる」（断定の助動詞）「べし」（推量の助動詞）は語り手の判断推測を表す。"
+                        },
+                        {
+                            "Annotation_Num":  "92",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "さしもあるまじきことなれど",
+                            "Annotation_Body":  "『集成』は「そこまでするのは、どうかと思われたが。「さ」は、以下述べる源氏の色好みの行動をさす」と注す。『完訳』は「そんな振舞はすべきでないが」と注す。語り手の感情移入の挿入句。"
+                        },
+                        {
+                            "Annotation_Num":  "93",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いづれならむ",
+                            "Annotation_Body":  "源氏の心。朧月夜の君はどの君であろう、の意。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "17",
+    "LineId":  "08010517",
+    "Text_Original":  "　「扇を取られて、からきめを見る」",
+    "Text_Original_Romanized":  "  \"Ahugi wo tora re te, karaki me wo miru.\"",
+    "Text_Shibuya":  "　「扇を取られて、辛い目を見ました」",
+    "Text_Yosano":  "　「扇を取られてからき目を見る」（\u003cRUBY\u003e\u003cRB\u003e高麗人\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこまうど\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eに帯を取られてからき目を見る）\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "94",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "扇を取られてからきめを見る",
+                            "Annotation_Body":  "源氏の詞。『催馬楽』「石川」中の歌詞「帯を取られて辛き悔いする」の文句を「扇を取られて辛き目をみる」と言い換えたもの。『源氏釈』は「石川の　高麗人（こまうど）に　帯を取られて　からき悔いする　いかなる　いかなる帯ぞ　縹（はなだ）の帯の　中はたいれるか　かやるか　あやるか　中はいれたるか」（催馬楽　石川）を指摘。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "18",
+    "LineId":  "08010518",
+    "Text_Original":  "　と、うちおほどけたる声に言ひなして、寄りゐたまへり。",
+    "Text_Original_Romanized":  "  to, uti-ohodoke taru kowe ni ihi nasi te, yori wi tamahe ri.",
+    "Text_Shibuya":  "　と、わざとのんびりとした声で言って、近寄ってお座りになった。",
+    "Text_Yosano":  "　\u003cRUBY\u003e\u003cRB\u003e戯談\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eじょうだん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eらしくこう言って御簾に身を寄せていた。\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "19",
+    "LineId":  "08010519",
+    "Text_Original":  "　「あやしくも、さま変へける高麗人かな」",
+    "Text_Original_Romanized":  "  \"Ayasiku mo, sama kahe keru Komaudo kana!\"",
+    "Text_Shibuya":  "　「妙な、変わった高麗人ですね」",
+    "Text_Yosano":  "　「変わった\u003cRUBY\u003e\u003cRB\u003e高麗人\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこまうど\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eなのね」\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "95",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "あやしくも、さま変へける高麗人かな",
+                            "Annotation_Body":  "女房の詞。「高麗人」は『催馬楽』「石川」中の登場人物、それと知って、「帯」でなくて「扇」とは「あやしくも」と答えるが、なぜ「扇」なのか、この女房は事情を知らないので、こう言う。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "20",
+    "LineId":  "08010520",
+    "Text_Original":  "　といらふるは、心知らぬにやあらむ。いらへはせで、ただ時々、うち嘆くけはひする方に寄りかかりて、几帳越しに手をとらへて、",
+    "Text_Original_Romanized":  "  to irahuru ha, kokoro sira nu ni ya ara m. Irahe ha se de, tada tokidoki, uti-nageku kehahi suru kata ni yorikakari te, kityau gosi ni te wo torahe te,",
+    "Text_Shibuya":  "　と答えるのは、事情を知らない人であろう。返事はしないで、わずかに時々、溜息をついている様子のする方に寄り掛かって、几帳越しに、手を捉えて、",
+    "Text_Yosano":  "　と言う一人は無関係な令嬢なのであろう。何も言わずに時々\u003cRUBY\u003e\u003cRB\u003e溜息\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eためいき\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの聞こえる人のいるほうへ源氏は寄って行って、\u003cRUBY\u003e\u003cRB\u003e几帳\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eきちょう\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003e越しに手をとらえて、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "96",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "心知らぬにやあらむ",
+                            "Annotation_Body":  "源氏と語り手の心が一体化した表現。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "21",
+    "LineId":  "08010521",
+    "Text_Original":  "　「梓弓いるさの山に惑ふかな\u003cBR\u003e　　ほの見し月の影や見ゆると",
+    "Text_Original_Romanized":  "    \"Adusayumi Irusanoyama ni madohu kana\u003cBR\u003e    hono-mi si tuki no kage ya miyuru to",
+    "Text_Shibuya":  "　「月の入るいるさの山の周辺でうろうろと迷っています\u003cBR\u003e　　かすかに見かけた月をまた見ることができようかと",
+    "Text_Yosano":  "　　「あづさ弓いるさの山にまどふかな\u003cBR\u003e　　ほの見し月の影や見ゆると\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "97",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "梓弓いるさの山に惑ふかな--ほの見し月の影や見ゆると",
+                            "Annotation_Body":  "源氏の贈歌。「梓弓」は「射る」の枕詞。「いる」は「射る」と「入る」の掛詞。今日の「弓の結」にちなみ「入る」「弓」を詠み込んだ。「いるさの山」は但馬国の歌枕。「ほの見し月」は女を喩える。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "22",
+    "LineId":  "08010522",
+    "Text_Original":  "　何ゆゑか」",
+    "Text_Original_Romanized":  "  Nani yuwe ka?\"",
+    "Text_Shibuya":  "　なぜでしょうか」",
+    "Text_Yosano":  "　なぜでしょう」\u003cBR\u003e",
+    "Annotations":  [
+
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "23",
+    "LineId":  "08010523",
+    "Text_Original":  "　と、推し当てにのたまふを、え忍ばぬなるべし。",
+    "Text_Original_Romanized":  "  to, osiate ni notamahu wo, e sinoba nu naru besi.",
+    "Text_Shibuya":  "　と、当て推量におっしゃるのを、堪えきれないのであろう。",
+    "Text_Yosano":  "　と当て推量に言うと、その人も感情をおさえかねたか、\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "98",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "え忍ばぬなるべし",
+                            "Annotation_Body":  "挿入句、語り手の推測。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "24",
+    "LineId":  "08010524",
+    "Text_Original":  "　「心いる方ならませば弓張の\u003cBR\u003e　　月なき空に迷はましやは」",
+    "Text_Original_Romanized":  "    \"Kokoro iru kata nara mase ba yumihari no\u003cBR\u003e    tuki naki sora ni mayoha masi ya ha",
+    "Text_Shibuya":  "　「本当に深くご執心でいらっしゃれば\u003cBR\u003e　　たとえ月が出ていなくても迷うことがありましょうか」",
+    "Text_Yosano":  "　　心いる\u003cRUBY\u003e\u003cRB\u003e方\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eかた\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eなりませば\u003cRUBY\u003e\u003cRB\u003e弓張\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eゆみはり\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの\u003cBR\u003e　　月なき空に迷はましやは\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "99",
+                            "Annotation_State":  "2",
+                            "Annotation_Title":  "心いる方ならませば弓張の--月なき空に迷はましやは",
+                            "Annotation_Body":  "朧月夜の返歌。贈歌の「いるさの山」の「いる」と「梓弓」の「弓」を引用する。「心入る」は「入る」と「射る」の掛詞。「弓張の」は「月」の枕詞。また「入る」は「月」の縁語でもある。気持ちが薄いから迷うなどということをいうのですと、切り返した返歌。"
+                        }
+                    ]
+},
+{
+    "Chapter":  "8",
+    "Chapter_Title":  "第八帖 花宴",
+    "Chapter_Subtitle":  "光る源氏二十歳春二月二十余日から三月二十余日までの宰相兼中将時代の物語",
+    "Section":  "1",
+    "Section_Title":  "朧月夜の君物語　春の夜の出逢いの物語",
+    "Paragraph":  "5",
+    "Paragraph_Title":  "第五段　三月二十余日、右大臣邸の藤花の宴",
+    "Line":  "25",
+    "LineId":  "08010525",
+    "Text_Original":  "　と言ふ声、ただそれなり。いとうれしきものから。",
+    "Text_Original_Romanized":  "  to ihu kowe, tada sore nari. Ito uresiki monokara.",
+    "Text_Shibuya":  "　と言う声、まさにその人のである。とても嬉しいのだが。",
+    "Text_Yosano":  "　と返辞をした。\u003cRUBY\u003e\u003cRB\u003e弘徽殿\u003c/RB\u003e\u003cRP\u003e（\u003c/RP\u003e\u003cRT\u003eこきでん\u003c/RT\u003e\u003cRP\u003e）\u003c/RP\u003e\u003c/RUBY\u003eの月夜に聞いたのと同じ声である。源氏はうれしくてならないのであるが。\u003cBR\u003e",
+    "Annotations":  [
+                        {
+                            "Annotation_Num":  "100",
+                            "Annotation_State":  "1",
+                            "Annotation_Title":  "いとうれしきものから",
+                            "Annotation_Body":  "途中で言いさした形で、この巻の文章は終わる。余韻余情を残した表現。『集成』は「中途で、言いさした形。心にかかっていた女に再会できて、うれしいのだが、右大臣家の姫君ではあり、人目も多い場所で、どうにもならないという気持を表す」と注す。『完訳』は「藤原俊成は、この巻の幽艶な情緒に言及して、「源氏見ざる歌よみは遺恨のことなり」と述べた」と注す。"
+                        }
+                    ]
+}
+]
