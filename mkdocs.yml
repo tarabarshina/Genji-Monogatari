@@ -1,0 +1,69 @@
+site_name: "Genji-Monogatari"
+theme:
+  name: material
+  font:
+    text: 'Noto Sans JP'
+  palette:
+    primary: deep purple
+    accent: amber
+extra_css:
+  - css/main.css
+extra_javascript:
+  - js/toggle.js
+nav:
+  - 'TOP PAGE': 'index.md'
+  - '源氏物語':
+    - '第一帖 桐壺': 'chapters/chapter1.md'
+    - '第二帖 帚木': 'chapters/chapter2.md'
+    - '第三帖 空蝉': 'chapters/chapter3.md'
+    - '第四帖 夕顔': 'chapters/chapter4.md'
+    - '第五帖 若紫': 'chapters/chapter5.md'
+    - '第六帖 末摘花': 'chapters/chapter6.md'
+    - '第七帖 紅葉賀': 'chapters/chapter7.md'
+    - '第八帖 花宴': 'chapters/chapter8.md'
+    - '第九帖 葵': 'chapters/chapter9.md'
+    - '第十帖 賢木': 'chapters/chapter10.md'
+    - '第十一帖 花散里': 'chapters/chapter11.md'
+    - '第十二帖 須磨': 'chapters/chapter12.md'
+    - '第十三帖 明石': 'chapters/chapter13.md'
+    - '第十四帖 澪標': 'chapters/chapter14.md'
+    - '第十五帖 蓬生': 'chapters/chapter15.md'
+    - '第十六帖 関屋': 'chapters/chapter16.md'
+    - '第十七帖 絵合': 'chapters/chapter17.md'
+    - '第十八帖 松風': 'chapters/chapter18.md'
+    - '第十九帖 薄雲': 'chapters/chapter19.md'
+    - '第二十帖 朝顔': 'chapters/chapter20.md'
+    - '第二十一帖 乙女': 'chapters/chapter21.md'
+    - '第二十二帖 玉鬘': 'chapters/chapter22.md'
+    - '第二十三帖 初音': 'chapters/chapter23.md'
+    - '第二十四帖 胡蝶': 'chapters/chapter24.md'
+    - '第二十五帖 蛍': 'chapters/chapter25.md'
+    - '第二十六帖 常夏': 'chapters/chapter26.md'
+    - '第二十七帖 篝火': 'chapters/chapter27.md'
+    - '第二十八帖 野分': 'chapters/chapter28.md'
+    - '第二十九帖 行幸': 'chapters/chapter29.md'
+    - '第三十帖 藤袴': 'chapters/chapter30.md'
+    - '第三十一帖 真木柱': 'chapters/chapter31.md'
+    - '第三十二帖 梅枝': 'chapters/chapter32.md'
+    - '第三十三帖 藤裏葉': 'chapters/chapter33.md'
+    - '第三十四帖 若菜上': 'chapters/chapter34.md'
+    - '第三十五帖 若菜下': 'chapters/chapter35.md'
+    - '第三十六帖 柏木': 'chapters/chapter36.md'
+    - '第三十七帖 横笛': 'chapters/chapter37.md'
+    - '第三十八帖 鈴虫': 'chapters/chapter38.md'
+    - '第三十九帖 夕霧': 'chapters/chapter39.md'
+    - '第四十帖 御法': 'chapters/chapter40.md'
+    - '第四十一帖 幻': 'chapters/chapter41.md'
+    - '第四十二帖 匂兵部卿': 'chapters/chapter42.md'
+    - '第四十三帖 紅梅': 'chapters/chapter43.md'
+    - '第四十四帖 竹河': 'chapters/chapter44.md'
+    - '第四十五帖 橋姫': 'chapters/chapter45.md'
+    - '第四十六帖 椎本': 'chapters/chapter46.md'
+    - '第四十七帖 総角': 'chapters/chapter47.md'
+    - '第四十八帖 早蕨': 'chapters/chapter48.md'
+    - '第四十九帖 宿木': 'chapters/chapter49.md'
+    - '第五十帖 東屋': 'chapters/chapter50.md'
+    - '第五十一帖 浮舟': 'chapters/chapter51.md'
+    - '第五十二帖 蜻蛉': 'chapters/chapter52.md'
+    - '第五十三帖 手習': 'chapters/chapter53.md'
+    - '第五十四帖 夢浮橋': 'chapters/chapter54.md'
