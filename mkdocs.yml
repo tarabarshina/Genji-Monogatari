@@ -1,15 +1,24 @@
 site_name: "Genji-Monogatari"
 theme:
   name: material
+  language: ja
   font:
     text: 'Noto Sans JP'
   palette:
     primary: deep purple
     accent: amber
+  features:
+    - search.highlight
+    - search.share
 extra_css:
   - css/main.css
 extra_javascript:
   - js/toggle.js
+plugins:
+  - search:
+      lang:
+        - 'ja'
+      min_search_length: 2
 nav:
   - 'TOP PAGE': 'index.md'
   - '源氏物語':
