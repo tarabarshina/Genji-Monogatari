@@ -2,6 +2,8 @@ site_name: "源氏物語の世界"
 repo_url: https://github.com/tarabarshina/Genji-Monogatari/
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   language: ja
   font:
     text: 'Noto Sans JP'
