@@ -21,7 +21,6 @@ plugins:
         - 'ja'
 nav:
   - 'TOP PAGE': 'index.md'
-  - '源氏物語':
   - '第一帖 桐壺': 'chapters/chapter1.md'
   - '第二帖 帚木': 'chapters/chapter2.md'
   - '第三帖 空蝉': 'chapters/chapter3.md'
