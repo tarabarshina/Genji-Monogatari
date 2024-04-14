@@ -1,0 +1,45 @@
+.checkboxes {
+  margin: 1.7em;
+}
+
+.checkbox-container {
+  display: block;
+}
+
+input[type="checkbox"] {
+}
+
+label {
+}
+
+p.original  {
+  background-color: #eeeeee;
+  padding: 0.9em;
+}
+
+p.romanized  {
+  background-color: #f4f7ef;
+  padding: 0.9em;
+}
+
+p.shibuya  {
+  background-color: #f3eff7;
+  padding: 0.9em;
+}
+
+p.yosano  {
+  background-color: #f7eff1;
+  padding: 0.9em;
+}
+
+div.annotations  {
+  background-color: #f7f5ef;
+  padding: 0.9em;
+}
+
+span.annotation_title {
+  color: #666666;
+  font-style: italic;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
