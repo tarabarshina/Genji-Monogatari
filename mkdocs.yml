@@ -1,26 +1,25 @@
 site_name: "源氏物語の世界"
 repo_url: https://github.com/tarabarshina/Genji-Monogatari/
 theme:
-  name: material
+  name: 'material'
   icon:
-    repo: fontawesome/brands/github
-  language: ja
+    repo: 'fontawesome/brands/github'
+  language: 'ja'
   font:
     text: 'Noto Sans JP'
   palette:
-    primary: deep purple
-    accent: amber
+    primary: 'deep purple'
+    accent: 'amber'
   features:
     - search.highlight
-    - search.share
+plugins:
+  - search:
+      lang: 'ja'
+      separator: '[\u3001\u3002<(.+)>.*<\/\1>]+'
 extra_css:
   - css/main.css
 extra_javascript:
   - js/toggle.js
-plugins:
-  - search:
-      lang:
-        - 'ja'
 nav:
   - 'TOP PAGE': 'index.md'
   - '第一帖 桐壺': 'chapters/chapter1.md'
