@@ -1,0 +1,80 @@
+.fixed-checkboxes {
+	position: sticky;
+	top: 0;
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+	z-index: 100;
+	font-size: 0.85rem;
+	background-color: var(--md-default-bg-color);
+}
+
+.checkbox-title {
+	font-weight: bold;
+	margin-bottom: 8px;
+	text-align: center;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 4px;
+}
+
+.fixed-checkboxes .checkbox-container {
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+	font-size: 0.9em;
+}
+
+.fixed-checkboxes input[type="checkbox"] {
+	margin-right: 6px;
+}
+
+.fixed-checkboxes label {
+	display: inline-block;
+}
+
+input[type="checkbox"] {
+	accent-color: var(--md-primary-fg-color);
+}
+
+label {
+}
+
+p.original  {
+  background-color: rgba(140, 140, 140, 0.15);
+  padding: 0.9em;
+}
+
+p.romanized  {
+  background-color: rgba(125, 201, 146, 0.15);
+  padding: 0.9em;
+}
+
+p.shibuya  {
+  background-color: rgba(155, 125, 194, 0.15);
+  padding: 0.9em;
+}
+
+p.yosano  {
+  background-color: rgba(209, 139, 139, 0.15);
+  padding: 0.9em;
+}
+
+p.seiden  {
+  background-color: rgba(55, 166, 201, 0.15);
+  padding: 0.9em;
+  white-space: pre-wrap;
+}
+
+div.annotations  {
+  background-color: rgba(201, 157, 54, 0.15);
+  padding: 0.9em;
+  border-left: 3px solid #aaa;
+}
+
+span.annotation_title {
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}

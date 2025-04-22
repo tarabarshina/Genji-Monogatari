@@ -1,0 +1,157 @@
+site_name: "源氏物語の世界 令和再編集版"
+repo_url: https://github.com/tarabarshina/Genji-Monogatari/
+theme:
+  name: 'material'
+  icon:
+    repo: 'fontawesome/brands/github'
+  font:
+    text: 'Noto Sans JP'
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: 'deep purple'
+      accent: 'amber'
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: 'deep purple'
+      accent: 'amber'
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - search.highlight
+plugins:
+  - search:
+      lang: 'ja'
+      separator: '[\u3001\u3002<(.+)>.*<\/\1>]+'
+  - i18n:
+      default_language: ja
+      languages:
+        - locale: ja
+          default: true
+          name: 日本語
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: "Genji Monogatari no Sekai"
+          nav_translations:
+            'トップページ': 'TOP PAGE'
+            '第一帖 桐壺': 'Vol.1 The Paulownia Court'
+            '第二帖 帚木': 'Vol.2 The Broom Tree'
+            '第三帖 空蝉': 'Vol.3 The Shell of the Locust'
+            '第四帖 夕顔': 'Vol.4 Evening Faces'
+            '第五帖 若紫': 'Vol.5 Lavender'
+            '第六帖 末摘花': 'Vol.6 The Safflower'
+            '第七帖 紅葉賀': 'Vol.7 An Autumn Exersion'
+            '第八帖 花宴': 'Vol.8 The Festival of the Cherry Blossoms'
+            '第九帖 葵': 'Vol.9 Heartvine'
+            '第十帖 賢木': 'Vol.10 The Sacred Tree'
+            '第十一帖 花散里': 'Vol.11 The Orange Blossoms'
+            '第十二帖 須磨': 'Vol.12 Suma'
+            '第十三帖 明石': 'Vol.13 Akashi'
+            '第十四帖 澪標': 'Vol.14 Channel Buoys'
+            '第十五帖 蓬生': 'Vol.15 The Wormwood Patch'
+            '第十六帖 関屋': 'Vol.16 The Gatehouse'
+            '第十七帖 絵合': 'Vol.17 A Picture Contest'
+            '第十八帖 松風': 'Vol.18 The Wind in the Pines'
+            '第十九帖 薄雲': 'Vol.19 A Rack of Cloud'
+            '第二十帖 朝顔': 'Vol.20 The Morning Glory'
+            '第二十一帖 乙女': 'Vol.21 The Maiden'
+            '第二十二帖 玉鬘': 'Vol.22 The Jeweled Chaplet'
+            '第二十三帖 初音': 'Vol.23 The First Warbler'
+            '第二十四帖 胡蝶': 'Vol.24 Butterflies'
+            '第二十五帖 蛍': 'Vol.25 Fireflies'
+            '第二十六帖 常夏': 'Vol.26 Wild Carnations'
+            '第二十七帖 篝火': 'Vol.27 Flares'
+            '第二十八帖 野分': 'Vol.28 The Typhoon'
+            '第二十九帖 行幸': 'Vol.29 The Royal Outing'
+            '第三十帖 藤袴': 'Vol.30 Purple Trousers'
+            '第三十一帖 真木柱': 'Vol.31 The Cypress Pillar'
+            '第三十二帖 梅枝': 'Vol.32 A Branch of Plum'
+            '第三十三帖 藤裏葉': 'Vol.33 Wisteria Leaves'
+            '第三十四帖 若菜上': 'Vol.34 New Herbs'
+            '第三十五帖 若菜下': 'Vol.35 New Herbs'
+            '第三十六帖 柏木': 'Vol.36 The Oak Tree'
+            '第三十七帖 横笛': 'Vol.37 The Flute'
+            '第三十八帖 鈴虫': 'Vol.38 The Bell Cricket'
+            '第三十九帖 夕霧': 'Vol.39 Evening Mist'
+            '第四十帖 御法': 'Vol.40 The Rites'
+            '第四十一帖 幻': 'Vol.41 The Wizard'
+            '第四十二帖 匂兵部卿': 'Vol.42 His Perfumed Highness'
+            '第四十三帖 紅梅': 'Vol.43 The Rose Plum'
+            '第四十四帖 竹河': 'Vol.44 Bamboo River'
+            '第四十五帖 橋姫': 'Vol.45 The Lady at the Bridge'
+            '第四十六帖 椎本': 'Vol.46 Beneath the Oak'
+            '第四十七帖 総角': 'Vol.47 Trefoil Knots'
+            '第四十八帖 早蕨': 'Vol.48 Early Ferns'
+            '第四十九帖 宿木': 'Vol.49 The Ivy'
+            '第五十帖 東屋': 'Vol.50 The Eastern Cottage'
+            '第五十一帖 浮舟': 'Vol.51 A Boat upon the Waters'
+            '第五十二帖 蜻蛉': 'Vol.52 The Drake Fly'
+            '第五十三帖 手習': 'Vol.53 The Writing Practice'
+            '第五十四帖 夢浮橋': 'Vol.54 The Floating Bridge of Dreams'
+extra_css:
+  - css/main.css
+extra_javascript:
+  - js/toggle.js
+nav:
+  - 'トップページ': 'index.md'
+  - '第一帖 桐壺': 'volumes/volume_1.md'
+  - '第二帖 帚木': 'volumes/volume_2.md'
+  - '第三帖 空蝉': 'volumes/volume_3.md'
+  - '第四帖 夕顔': 'volumes/volume_4.md'
+  - '第五帖 若紫': 'volumes/volume_5.md'
+  - '第六帖 末摘花': 'volumes/volume_6.md'
+  - '第七帖 紅葉賀': 'volumes/volume_7.md'
+  - '第八帖 花宴': 'volumes/volume_8.md'
+  - '第九帖 葵': 'volumes/volume_9.md'
+  - '第十帖 賢木': 'volumes/volume_10.md'
+  - '第十一帖 花散里': 'volumes/volume_11.md'
+  - '第十二帖 須磨': 'volumes/volume_12.md'
+  - '第十三帖 明石': 'volumes/volume_13.md'
+  - '第十四帖 澪標': 'volumes/volume_14.md'
+  - '第十五帖 蓬生': 'volumes/volume_15.md'
+  - '第十六帖 関屋': 'volumes/volume_16.md'
+  - '第十七帖 絵合': 'volumes/volume_17.md'
+  - '第十八帖 松風': 'volumes/volume_18.md'
+  - '第十九帖 薄雲': 'volumes/volume_19.md'
+  - '第二十帖 朝顔': 'volumes/volume_20.md'
+  - '第二十一帖 乙女': 'volumes/volume_21.md'
+  - '第二十二帖 玉鬘': 'volumes/volume_22.md'
+  - '第二十三帖 初音': 'volumes/volume_23.md'
+  - '第二十四帖 胡蝶': 'volumes/volume_24.md'
+  - '第二十五帖 蛍': 'volumes/volume_25.md'
+  - '第二十六帖 常夏': 'volumes/volume_26.md'
+  - '第二十七帖 篝火': 'volumes/volume_27.md'
+  - '第二十八帖 野分': 'volumes/volume_28.md'
+  - '第二十九帖 行幸': 'volumes/volume_29.md'
+  - '第三十帖 藤袴': 'volumes/volume_30.md'
+  - '第三十一帖 真木柱': 'volumes/volume_31.md'
+  - '第三十二帖 梅枝': 'volumes/volume_32.md'
+  - '第三十三帖 藤裏葉': 'volumes/volume_33.md'
+  - '第三十四帖 若菜上': 'volumes/volume_34.md'
+  - '第三十五帖 若菜下': 'volumes/volume_35.md'
+  - '第三十六帖 柏木': 'volumes/volume_36.md'
+  - '第三十七帖 横笛': 'volumes/volume_37.md'
+  - '第三十八帖 鈴虫': 'volumes/volume_38.md'
+  - '第三十九帖 夕霧': 'volumes/volume_39.md'
+  - '第四十帖 御法': 'volumes/volume_40.md'
+  - '第四十一帖 幻': 'volumes/volume_41.md'
+  - '第四十二帖 匂兵部卿': 'volumes/volume_42.md'
+  - '第四十三帖 紅梅': 'volumes/volume_43.md'
+  - '第四十四帖 竹河': 'volumes/volume_44.md'
+  - '第四十五帖 橋姫': 'volumes/volume_45.md'
+  - '第四十六帖 椎本': 'volumes/volume_46.md'
+  - '第四十七帖 総角': 'volumes/volume_47.md'
+  - '第四十八帖 早蕨': 'volumes/volume_48.md'
+  - '第四十九帖 宿木': 'volumes/volume_49.md'
+  - '第五十帖 東屋': 'volumes/volume_50.md'
+  - '第五十一帖 浮舟': 'volumes/volume_51.md'
+  - '第五十二帖 蜻蛉': 'volumes/volume_52.md'
+  - '第五十三帖 手習': 'volumes/volume_53.md'
+  - '第五十四帖 夢浮橋': 'volumes/volume_54.md'
