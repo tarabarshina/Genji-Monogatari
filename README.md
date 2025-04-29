@@ -44,5 +44,5 @@ The contents of this site are subject to the following license.
 
 ## Updates
 
-2025-04-20 Remake and republish
-2024-04-09 Initial version
+- 2025-04-20 Remake and republish
+- 2024-04-09 Initial version

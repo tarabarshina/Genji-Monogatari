@@ -29,16 +29,18 @@ GitHub[(@tarabarshina/Genji-Monogatari)](https://github.com/tarabarshina/Genji-M
 
 主なコンテンツ参照元は次の通りです。
 
-- 渋谷栄一さんによる [源氏物語の世界](http://www.sainet.or.jp/~eshibuya/index.html) 
-- 宮脇文経さんによる [源氏物語の世界 再編集版](http://www.genji-monogatari.net/) 
+- 渋谷栄一さんによる [源氏物語の世界](http://www.sainet.or.jp/~eshibuya/index.html) : 原文、ローマ字、現代語訳
+- 宮脇文経さんによる [源氏物語の世界 再編集版](http://www.genji-monogatari.net/) ：上記および与謝野訳の構造化テキスト
 - Edward G. Seidenstickerによる [Oxford Text Archive Genji monogatari.English](https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2245)
-
+- [青空文庫](https://www.aozora.gr.jp/)：日本の著作権切れの書籍や作品を集めたデジタルライブラリーで、与謝野訳のベーステキストとして使用されています。
 
 ### 改変部分
 
 -  サイデンステッカー訳について：
 	- 元テキストはテキストの中間に改行があったため、それを除いています。また、単語の途中で改行のためハイフンがあった場合も取り除いています。(例：'sud- denly' --> 'suddenly') 
-	- それ以外の部分では元テキストのインデントや語順もそのままにしていますが、行番号とのマッピングを優先して、地の文と台詞との間で行を分けている場合があります。
+	- それ以外の部分ではなるべく元テキストのインデントや語順もそのままにしていますが、行番号とのマッピングを優先して、地の文と台詞との間で行を分けている場合があります。
+	- その他の改変箇所については、対応する注釈番号にそれぞれ記載しています。
+		- 明らかに誤字と思われる場合 (例： 'pi110w' --> 'pillow') 
 	- 行番号とのマッピングは手動で行っているため、もし誤りを見つけた場合はお知らせください。
 
 ## 更新予定
@@ -52,3 +54,4 @@ GitHub[(@tarabarshina/Genji-Monogatari)](https://github.com/tarabarshina/Genji-M
 - Name: Nora
 - Email: hello@genji-monogatari.com (Japanese/English)
 - URL: http://www.genji-monogatari.com/
+- 私の一番好きな訳：[大塚ひかりさんの 全訳 源氏物語](https://www.chikumashobo.co.jp/special/genji/)
