@@ -1,8 +1,8 @@
 <?php
-ini_set('display_errors', 0); // デバッグ中はエラー表示を有効に
+ini_set('display_errors', 1); // Enable error display during debugging
 error_reporting(E_ALL);
 
-// CSRFトークンの生成と検証
+// CSRF token generation and validation
 session_start();
 if (empty($_SESSION['csrf_token'])) {
     $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
@@ -10,13 +10,13 @@ if (empty($_SESSION['csrf_token'])) {
 $csrf_token = $_SESSION['csrf_token'];
 
 /**
- * テキスト内の検索語をハイライト表示する
- * @param string $text ハイライト対象のテキスト
- * @param string $searchTerm 検索語
- * @return string ハイライト適用済みのテキスト
+ * Highlight search terms in text
+ * @param string $text Text to highlight
+ * @param string $searchTerm Search term
+ * @return string Text with highlights applied
  */
 function highlightText($text, $searchTerm) {
-    // 検索語と対象テキストをエスケープ
+    // Properly escape the text and search term
     $escaped_text = htmlspecialchars($text, ENT_QUOTES, 'UTF-8');
     $escaped_search = preg_quote($searchTerm, '/');
     
@@ -32,57 +32,57 @@ function highlightText($text, $searchTerm) {
 }
 
 /**
- * テキスト内の検索語の出現回数をカウントする
- * @param string $text 検索対象のテキスト
- * @param string $searchTerm 検索語
- * @return int 出現回数
+ * Count occurrences of search term in text
+ * @param string $text Text to search in
+ * @param string $searchTerm Search term
+ * @return int Number of occurrences
  */
 function countOccurrences($text, $searchTerm) {
     if (empty($searchTerm) || empty($text)) {
         return 0;
     }
     
-    // 大文字小文字を区別せずにマッチング
+    // Case-insensitive matching
     return preg_match_all('/' . preg_quote($searchTerm, '/') . '/iu', $text);
 }
 
 /**
- * HTMLからフィルタリングされたコンテンツを取得する
- * @param string $html HTMLコンテンツ
- * @param string $classFilter クラスフィルター
- * @return string フィルタリングされたテキスト
+ * Get filtered content from HTML
+ * @param string $html HTML content
+ * @param string $classFilter Class filter
+ * @return string Filtered text
  */
 function getFilteredContent($html, $classFilter = '') {
-    // 除外する要素のパターン
+    // Patterns to exclude
     $excludePatterns = [
-        '/<nav class="md-nav.*?<\/nav>/s',  // mdナビゲーション
-        '/<span class="md-ellipsis".*?<\/span>/s',  // mdナビゲーション
-        '/<li class="md-nav".*?<\/li>/s',  // mdナビゲーション
-        '/<h1.*?<\/h1>/s',                   // h1タグ
-        '/<h2.*?<\/h2>/s',                   // h2タグ
-        '/<h3.*?<\/h3>/s',                   // h3タグ
-        '/<header.*?<\/header>/s',           // ヘッダー
-        '/<footer.*?<\/footer>/s',           // フッター
-        '/class="md-header".*?<\/div>/s',    // mdヘッダー
-        '/class="md-footer".*?<\/div>/s'     // mdフッター
+        '/<nav class="md-nav.*?<\/nav>/s',  // md navigation
+        '/<span class="md-ellipsis".*?<\/span>/s',  // md ellipsis
+        '/<li class="md-nav".*?<\/li>/s',  // md nav items
+        '/<h1.*?<\/h1>/s',                   // h1 tags
+        '/<h2.*?<\/h2>/s',                   // h2 tags
+        '/<h3.*?<\/h3>/s',                   // h3 tags
+        '/<header.*?<\/header>/s',           // header
+        '/<footer.*?<\/footer>/s',           // footer
+        '/class="md-header".*?<\/div>/s',    // md header
+        '/class="md-footer".*?<\/div>/s'     // md footer
     ];
     
-    // 除外パターンを適用
+    // Apply exclusion patterns
     foreach ($excludePatterns as $pattern) {
         $html = preg_replace($pattern, '', $html);
     }
     
-    // classフィルターが指定されている場合、そのクラスを持つ要素のみ抽出
+    // If class filter is specified, extract only elements with that class
     if (!empty($classFilter)) {
         $dom = new DOMDocument();
-        // 文字コードエラーを抑制せず、libxml内部エラーを使用
+        // Use libxml internal errors
         libxml_use_internal_errors(true);
         $dom->loadHTML('<?xml encoding="UTF-8">' . $html);
         libxml_clear_errors();
         
         $xpath = new DOMXPath($dom);
         
-        // 指定されたクラスを持つ要素を検索（XSS対策としてクラス名をエスケープ）
+        // Find elements with the specified class (with XSS protection)
         $safeClassFilter = htmlspecialchars($classFilter, ENT_QUOTES, 'UTF-8');
         $elements = $xpath->query("//*[contains(@class, '$safeClassFilter')]");
         
@@ -94,35 +94,35 @@ function getFilteredContent($html, $classFilter = '') {
         return strip_tags($filteredContent);
     }
     
-    // フィルターなしの場合は全体を返す
+    // If no filter, return all content
     return strip_tags($html);
 }
 
 /**
- * ファイル内で検索語を検索する
- * @param string $searchTerm 検索語
- * @param string $classFilter クラスフィルター
- * @return array|string 検索結果または エラーメッセージ
+ * Search for term in files
+ * @param string $searchTerm Search term
+ * @param string $classFilter Class filter
+ * @return array|string Search results or error message
  */
 function searchInFiles($searchTerm, $classFilter = '') {
     try {
-        // 検索語のバリデーション
+        // Validate search term
         if (empty($searchTerm)) {
-            return "検索語を入力してください。";
+            return "Please enter a search term.";
         }
         
-        // メモリ制限を設定
+        // Set memory limit
         ini_set('memory_limit', '256M');
         
         $baseDirectory = './volumes/';
         $results = [];
         $fileCount = 0;
-        $maxFiles = 1000; // 最大検索ファイル数
-        $totalOccurrences = 0; // 総出現回数
+        $maxFiles = 1000; // Maximum files to search
+        $totalOccurrences = 0; // Total occurrences count
         
-        // ディレクトリが存在し、読み取り可能かチェック
+        // Check if directory exists and is readable
         if (!is_dir($baseDirectory) || !is_readable($baseDirectory)) {
-            return "検索ディレクトリにアクセスできません。";
+            return "Cannot access search directory.";
         }
         
         $iterator = new RecursiveIteratorIterator(
@@ -130,53 +130,53 @@ function searchInFiles($searchTerm, $classFilter = '') {
         );
         
         foreach ($iterator as $file) {
-            // 最大ファイル数のチェック
+            // Check maximum file count
             if ($fileCount >= $maxFiles) {
                 break;
             }
             
-            // ファイルのバリデーション
+            // Validate file
             if (!$file->isFile() || $file->getExtension() !== 'html' || !is_readable($file->getPathname())) {
                 continue;
             }
             
-            // ディレクトリトラバーサル対策
+            // Directory traversal protection
             $realpath = realpath($file->getPathname());
             $baseRealpath = realpath($baseDirectory);
             
             if ($baseRealpath === false || strpos($realpath, $baseRealpath) !== 0) {
-                continue; // ベースディレクトリ外のファイルはスキップ
+                continue; // Skip files outside base directory
             }
             
             $fileCount++;
             
-            // ファイルサイズのチェック
-            if ($file->getSize() > 5 * 1024 * 1024) { // 5MB以上はスキップ
+            // Check file size
+            if ($file->getSize() > 5 * 1024 * 1024) { // Skip files larger than 5MB
                 continue;
             }
             
             $content = file_get_contents($file->getPathname());
             if ($content === false) {
-                continue; // ファイル読み込みに失敗した場合はスキップ
+                continue; // Skip if file reading fails
             }
             
             $text = getFilteredContent($content, $classFilter);
             
-            // 出現回数をカウント
+            // Count occurrences
             $occurrences = countOccurrences($text, $searchTerm);
             $totalOccurrences += $occurrences;
             
             if ($occurrences > 0) {
-                // 検索語を含む部分の前後のテキストを抽出
+                // Extract text surrounding the search term
                 $position = mb_stripos($text, $searchTerm);
                 $start = max(0, $position - 100);
                 $length = mb_strlen($searchTerm) + 200;
                 $excerpt = mb_substr($text, $start, $length);
                 
-                // 抜粋テキストをハイライト
+                // Highlight the excerpt
                 $highlightedExcerpt = highlightText($excerpt, $searchTerm);
                 
-                // 相対パスの生成
+                // Generate relative path
                 if ($baseRealpath && $realpath) {
                     $relativePath = str_replace($baseRealpath, '', $realpath);
                     $relativePath = ltrim(str_replace('\\', '/', $relativePath), '/');
@@ -188,7 +188,7 @@ function searchInFiles($searchTerm, $classFilter = '') {
                         'occurrences' => $occurrences
                     ];
                     
-                    // 結果の最大数を制限
+                    // Limit maximum results
                     if (count($results) >= 100) {
                         break;
                     }
@@ -196,7 +196,7 @@ function searchInFiles($searchTerm, $classFilter = '') {
             }
         }
         
-        // 出現回数でソート（降順）
+        // Sort by occurrence count (descending)
         usort($results, function($a, $b) {
             return $b['occurrences'] - $a['occurrences'];
         });
@@ -207,62 +207,62 @@ function searchInFiles($searchTerm, $classFilter = '') {
         ];
     } catch (Exception $e) {
         error_log("Search error: " . $e->getMessage());
-        return "検索中にエラーが発生しました: " . $e->getMessage();
+        return "An error occurred during search: " . $e->getMessage();
     }
 }
 
-// 利用可能なクラスリスト
+// Available class list
 $availableClasses = ['all', 'original', 'romanized', 'yosano', 'shibuya', 'seiden', 'annotation'];
 
-// クラス名の日本語表示用の連想配列
-$classJapaneseNames = [
-    'all' => '全て',
-    'original' => '原文',
-    'romanized' => 'ローマ字',
-    'yosano' => '与謝野訳',
-    'shibuya' => '渋谷訳',
-    'seiden' => 'サイデンステッカー訳',
-    'annotation' => '注釈'
+// Class names display mapping
+$classDisplayNames = [
+    'all' => 'All',
+    'original' => 'Original text',
+    'romanized' => 'Romanized text',
+    'yosano' => 'Yosano Translation',
+    'shibuya' => 'Shibuya Translation',
+    'seiden' => 'Seidensticker Translation',
+    'annotation' => 'Annotations'
 ];
 
-// 検索リクエストの処理
+// Process search request
 $searchTerm = '';
 $selectedClass = 'all';
 $showForm = true;
 $errorMessage = '';
 
-// HTMLタイトル用の変数
-$pageTitle = '源氏物語 検索';
+// HTML title variable
+$pageTitle = 'The Tale of Genji - Search';
 
-// POSTリクエストの検証（CSRFトークン）
+// Validate POST request (CSRF token)
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (!isset($_POST['csrf_token']) || $_POST['csrf_token'] !== $_SESSION['csrf_token']) {
-        $errorMessage = "無効なリクエストです。";
+        $errorMessage = "Invalid request.";
     } else {
         $searchTerm = isset($_POST['search']) ? trim($_POST['search']) : '';
         $selectedClass = isset($_POST['class']) && in_array($_POST['class'], $availableClasses) ? $_POST['class'] : 'all';
         if (!empty($searchTerm)) {
-            $pageTitle = '「' . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . '」の検索結果 - 源氏物語';
+            $pageTitle = 'Search results for "' . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . '" - The Tale of Genji';
         }
     }
 } else if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['search'])) {
     $searchTerm = trim($_GET['search']);
     $selectedClass = isset($_GET['class']) && in_array($_GET['class'], $availableClasses) ? $_GET['class'] : 'all';
     if (!empty($searchTerm)) {
-        $pageTitle = '「' . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . '」の検索結果 - 源氏物語';
+        $pageTitle = 'Search results for "' . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . '" - The Tale of Genji';
     }
 }
 
-// HTMLドキュメント開始とタイトル設定
+// Start HTML document and set title
 echo '<!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>' . $pageTitle . '</title>
     <style>
     body { 
-        font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif; 
+        font-family: "Hiragino Sans", Arial, Helvetica, sans-serif; 
         line-height: 1.6; 
         max-width: 75rem; 
         margin: 0 auto; 
@@ -348,31 +348,31 @@ echo '<!DOCTYPE html>
 </head>
 <body>
     <div class="header">
-        <h1>源氏物語 検索</h1>
+        <h1>The Tale of Genji - Search</h1>
     </div>';
 
-// エラーメッセージの表示
+// Display error message if any
 if (!empty($errorMessage)) {
     echo '<div class="error-message">' . htmlspecialchars($errorMessage, ENT_QUOTES, 'UTF-8') . '</div>';
 }
 
-// 検索フォームの表示
+// Display search form
 echo '<form method="POST" class="search-form">
     <input type="hidden" name="csrf_token" value="' . $csrf_token . '">
-    <input type="text" name="search" value="' . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . '" class="search-input" placeholder="検索語を入力" required>
+    <input type="text" name="search" value="' . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . '" class="search-input" placeholder="Enter search term" required>
     <select name="class" class="class-select">';
 
 foreach ($availableClasses as $class) {
     $selected = ($class === $selectedClass) ? 'selected' : '';
-    $classDisplay = isset($classJapaneseNames[$class]) ? $classJapaneseNames[$class] : $class;
+    $classDisplay = isset($classDisplayNames[$class]) ? $classDisplayNames[$class] : $class;
     echo "<option value=\"" . htmlspecialchars($class, ENT_QUOTES, 'UTF-8') . "\" $selected>" . htmlspecialchars($classDisplay, ENT_QUOTES, 'UTF-8') . "</option>";
 }
 
 echo '</select>
-    <input type="submit" value="検索" class="search-button">
+    <input type="submit" value="Search" class="search-button">
 </form>';
 
-// 検索実行
+// Execute search
 if (!empty($searchTerm)) {
     $classFilter = ($selectedClass === 'all') ? '' : $selectedClass;
     $searchResult = searchInFiles($searchTerm, $classFilter);
@@ -382,21 +382,21 @@ if (!empty($searchTerm)) {
         $totalOccurrences = $searchResult['totalOccurrences'];
         
         if (empty($results)) {
-            echo "<p class='search-info'>「" . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . 
-                 "」の検索結果が見つかりませんでした。" . 
-                 ($selectedClass !== 'all' ? "（テキスト: " . htmlspecialchars($classJapaneseNames[$selectedClass], ENT_QUOTES, 'UTF-8') . "）" : "") . "</p>";
+            echo "<p class='search-info'>No results found for \"" . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . 
+                 "\"" . 
+                 ($selectedClass !== 'all' ? " in " . htmlspecialchars($classDisplayNames[$selectedClass], ENT_QUOTES, 'UTF-8') : "") . ".</p>";
         } else {
-            echo "<p class='search-info'>「" . htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . 
-                 "」の検索結果: " . count($results) . "ファイル、合計 <span class='total-occurrences'>" . $totalOccurrences . "</span> 箇所で一致" . 
-                 ($selectedClass !== 'all' ? "（テキスト: " . htmlspecialchars($classJapaneseNames[$selectedClass], ENT_QUOTES, 'UTF-8') . "）" : "") . "</p>";
+            echo "<p class='search-info'>Found " . count($results) . " files with <span class='total-occurrences'>" . $totalOccurrences . "</span> total matches for \"" . 
+                 htmlspecialchars($searchTerm, ENT_QUOTES, 'UTF-8') . "\"" . 
+                 ($selectedClass !== 'all' ? " in " . htmlspecialchars($classDisplayNames[$selectedClass], ENT_QUOTES, 'UTF-8') : "") . ".</p>";
             
             foreach ($results as $result) {
                 echo '<div class="result-item">';
                 echo "<h3><a href='/volumes/" . htmlspecialchars($result['file'], ENT_QUOTES, 'UTF-8') . "'>" . 
                      htmlspecialchars($result['file'], ENT_QUOTES, 'UTF-8') . "</a>";
                 
-                // 出現回数を表示
-                echo "<span class='occurrence-count' title='出現回数'>" . $result['occurrences'] . "</span>";
+                // Display occurrence count
+                echo "<span class='occurrence-count' title='Occurrences'>" . $result['occurrences'] . "</span>";
                 
                 echo "</h3>";
                 
@@ -405,11 +405,11 @@ if (!empty($searchTerm)) {
             }
         }
     } else {
-        // エラーメッセージ
+        // Error message
         echo "<p class='error-message'>" . htmlspecialchars($searchResult, ENT_QUOTES, 'UTF-8') . "</p>";
     }
 }
 
-// HTMLドキュメントを閉じる
+// Close HTML document
 echo '</body>
 </html>';
