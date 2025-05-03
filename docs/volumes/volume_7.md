@@ -13,7 +13,7 @@
   <p class="romanized">&nbsp;&nbsp;Suzyakuwin no gyaugau ha&#44; kamnaduki no towoka amari nari. Yo no tune nara zu&#44; omosirokaru beki tabi no koto nari kere ba&#44; ohom-katagata&#44; mono mi tamaha nu koto wo kutiwosigari tamahu. Uhe mo&#44; Huditubo no mi tamaha zara m wo&#44; akazu obosa rure ba&#44; sigaku wo gozen nite&#44; se sase tamahu.</p>
   <p class="shibuya">　朱雀院への行幸は、神無月の十日過ぎである。常の行幸とは違って、格別興趣あるはずの催しであったので、御方々、御覧になれないことを残念にお思いになる。主上も、藤壷が御覧になれないのを、もの足りなく思し召されるので、試楽を御前において、お催しあそばす。</p>
   <p class="yosano">　<RUBY><RB>朱雀</RB><RP>（</RP><RT>すざく</RT><RP>）</RP></RUBY>院の行幸は十月の十幾日ということになっていた。その日の歌舞の演奏はことに<RUBY><RB>選</RB><RP>（</RP><RT>よ</RT><RP>）</RP></RUBY>りすぐって行なわれるという評判であったから、<RUBY><RB>後宮</RB><RP>（</RP><RT>こうきゅう</RT><RP>）</RP></RUBY>の人々はそれが御所でなくて陪観のできないことを残念がっていた。<RUBY><RB>帝</RB><RP>（</RP><RT>みかど</RT><RP>）</RP></RUBY>も<RUBY><RB>藤壺</RB><RP>（</RP><RT>ふじつぼ</RT><RP>）</RP></RUBY>の<RUBY><RB>女御</RB><RP>（</RP><RT>にょご</RT><RP>）</RP></RUBY>にお見せになることのできないことを遺憾に<RUBY><RB>思召</RB><RP>（</RP><RT>おぼしめ</RT><RP>）</RP></RUBY>して、当日と同じことを試楽として御前でやらせて御覧になった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> The royal excursion to the Suzaku palace took place toward the middle of the Tenth Month. The emperor's ladies lamented that they would not be present at what was certain to be a most remarkable concert. Distressed especially at the thought that Fujitsubo should be deprived of the pleasure, the emperor ordered a full rehearsal at the main palace.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -64,7 +64,7 @@
   <p class="romanized">&nbsp;&nbsp;Genzinotyuuzyau ha&#44; Seigaiha wo zo mahi tamahi keru. Katate ni ha Ohotono no Tounotyuuzyau. Katati&#44; youi&#44; hito ni ha koto naru wo&#44; tati narabi te ha&#44; naho hana no katahara no miyamagi nari.</p>
   <p class="shibuya">　源氏中将は、青海波をお舞いになった。一方の舞手には大殿の頭中将。容貌、心づかい、人よりは優れているが、立ち並んでは、やはり花の傍らの深山木である。</p>
   <p class="yosano">　源氏の中将は<RUBY><RB>青海波</RB><RP>（</RP><RT>せいがいは</RT><RP>）</RP></RUBY>を舞ったのである。二人舞の相手は左大臣家の<RUBY><RB>頭中将</RB><RP>（</RP><RT>とうのちゅうじょう</RT><RP>）</RP></RUBY>だった。人よりはすぐれた<RUBY><RB>風采</RB><RP>（</RP><RT>ふうさい</RT><RP>）</RP></RUBY>のこの公子も、源氏のそばで見ては桜に隣った<RUBY><RB>深山</RB><RP>（</RP><RT>みやま</RT><RP>）</RP></RUBY>の木というより言い方がない。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Genji and To~ no Chu~jo~ danced "Waves of the Blue Ocean."  To~ no Chu~jo~ was a handsome youth who carried himself well, but beside Genji he was like a nondescript mountain shrub beside a blossoming cherry.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -90,7 +90,7 @@
   <p class="romanized">&nbsp;&nbsp;Irigata no hikage&#44; sayaka ni sasi taru ni&#44; gaku no kowe masari&#44; mono no omosiroki hodo ni&#44; onazi mahi no asibumi&#44; omomoti&#44; yo ni miye nu sama nari. Ei nado si tamahe ru ha&#44; &#34;Kore ya&#44; hotoke no ohom-Kareubinga no kowe nara m&#34; to kikoyu. Omosiroku ahare naru ni&#44; Mikado&#44; namida wo nogohi tamahi&#44; kamdatime&#44; miko-tati mo&#44; mina naki tamahi nu. Ei hate te&#44; sode uti-nahosi tamahe ru ni&#44; mati tori taru gaku no nigihahasiki ni&#44; kaho no iroahi masari te&#44; tune yori mo hikaru to miye tamahu.</p>
   <p class="shibuya">　入り方の日の光、鮮やかに差し込んでいる時に、楽の声が高まり、感興もたけなわの時に、同じ舞の足拍子、表情は、世にまたとない様子である。朗唱などをなさっている声は、「これが、仏の御迦陵頻伽のお声だろうか」と聞こえる。美しくしみじみと心打つので、帝は、涙をお拭いになさり、上達部、親王たちも、皆落涙なさった。朗唱が終わって、袖をさっとお直しになると、待ち構えていた楽の音が賑やかに奏され、お顔の色が一段と映えて、常よりも光り輝いてお見えになる。</p>
   <p class="yosano">　夕方前のさっと明るくなった日光のもとで青海波は舞われたのである。地をする音楽もことに<RUBY><RB>冴</RB><RP>（</RP><RT>さ</RT><RP>）</RP></RUBY>えて聞こえた。同じ舞ながらも<RUBY><RB>面</RB><RP>（</RP><RT>おもて</RT><RP>）</RP></RUBY>づかい、足の踏み方などのみごとさに、ほかでも舞う青海波とは全然別な感じであった。舞い手が歌うところなどは、極楽の<RUBY><RB>迦陵頻伽</RB><RP>（</RP><RT>かりょうびんが</RT><RP>）</RP></RUBY>の声と聞かれた。源氏の舞の巧妙さに帝は御落涙あそばされた。陪席した高官たちも親王方も同様である。歌が終わって<RUBY><RB>袖</RB><RP>（</RP><RT>そで</RT><RP>）</RP></RUBY>が下へおろされると、待ち受けたようににぎわしく起こる楽音に舞い手の<RUBY><RB>頬</RB><RP>（</RP><RT>ほお</RT><RP>）</RP></RUBY>が染まって常よりもまた光る君と見えた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> In the bright evening light the music echoed yet more grandly through the palace and the excitement grew; and though the dance was a familiar one, Genji scarcely seemed of this world. As he intoned the lyrics his auditors could have believed they were listening to the Kalavinka bird of paradise. The emperor brushed away tears of delight, and there were tears in the eyes of all the princes and high courtiers as well. As Genji rearranged his dress at the end of his song and the orchestra took up again, he seemed to shine with an ever brighter light.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -116,7 +116,9 @@
   <p class="romanized">&nbsp;&nbsp;Touguunonyougo&#44; kaku medetaki ni tuke te mo&#44; tada nara zu obosi te&#44; &#34;Kami nado&#44; sora ni mede tu beki katati kana! Utate yuyusi.&#34; to notamahu wo&#44; wakaki nyoubou nado ha&#44; kokorousi to mimi todome keri. Huditubo ha&#44; &#34;Ohokenaki kokoro no nakara masika ba&#44; masite medetaku miye masi.&#34; to obosu ni&#44; yume no kokoti nam si tamahi keru.</p>
   <p class="shibuya">　春宮の女御は、このように立派に見えるのにつけても、おもしろからずお思いになって、「神などが、空から魅入りそうな、容貌だこと。嫌な、不吉だこと」とおっしゃるのを、若い女房などは、厭味なと、聞きとがめるのであった。藤壷は、「大それた心のわだかまりがなかったならば、いっそう素晴らしく見えたろうに」とお思いになると、夢のような心地がなさるのであった。</p>
   <p class="yosano">　東宮の母君の女御は舞い手の美しさを認識しながらも心が平らかでなかったのである。「神様があの<RUBY><RB>美貌</RB><RP>（</RP><RT>びぼう</RT><RP>）</RP></RUBY>に見入ってどうかなさらないかと思われるね、気味の悪い」こんなことを言うのを、若い女房などは情けなく思って聞いた。藤壺の宮は自分にやましい心がなかったらまして美しく見える舞であろうと見ながらも夢のような気があそばされた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Surely the gods above are struck dumb with admiration,"  Lady Kokiden, the mother of the crown prince, was heard to observe. "One is overpowered by such company."
+    Some of the young women thought her rather horrid.
+    To Fujitsubo it was all like a dream. How she wished that those unspeakable occurrences had not taken place. Then she might be as happy as the others.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -147,7 +149,7 @@
   <p class="romanized">&nbsp;&nbsp;Miya ha&#44; yagate ohom-tonowi nari keri.</p>
   <p class="shibuya">　宮は、そのまま御宿直なのであった。</p>
   <p class="yosano">　その夜の<RUBY><RB>宿直</RB><RP>（</RP><RT>とのい</RT><RP>）</RP></RUBY>の女御はこの宮であった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">She spent the night with the emperor.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -163,7 +165,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Kehu no sigaku ha&#44; Seigaiha ni koto mina tuki nu na! Ikaga mi tamahi turu?&#34;</p>
   <p class="shibuya">　「今日の試楽は、青海波に万事尽きてしまったな。どう御覧になりましたか」</p>
   <p class="yosano">　「今日の試楽は青海波が王だったね。どう思いましたか」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "There was only one thing worth seeing,"  he said.'" Waves of the Blue Ocean.' Do you not agree?</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -195,7 +197,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Koto ni haberi tu.&#34; to bakari kikoye tamahu.</p>
   <p class="shibuya">　「格別でございました」とだけお返事申し上げなさる。</p>
   <p class="yosano">　「特別に結構でございました」とだけ。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "Nor is To~ no Chu~jo~ a mean dancer.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -211,7 +213,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Katate mo kesiu ha ara zu koso miye ture. Mahi no sama&#44; tedukahi nam&#44; ihenoko ha koto naru. Kono yo ni na wo e taru mahi no wonoko-domo mo&#44; geni ito kasikokere do&#44; kokosiu namamei taru sudi wo&#44; e nam mise nu. Kokoromi no hi&#44; kaku tukusi ture ba&#44; momidi no kage ya sauzausiku to omohe do&#44; mise tatematura m no kokoro nite&#44; youi se sase turu.&#34; nado kikoye tamahu.</p>
   <p class="shibuya">　「相手役も、悪くはなく見えた。舞の様子、手捌きは、良家の子弟は格別であるな。世間で名声を博している舞の男どもも、確かに大したものであるが、大様で優美な趣きを、表すことができない。試楽の日に、こんなに十分に催してしまったので、紅葉の木陰は、寂しかろうかと思うが、お見せ申したいとの気持ちで、念入りに催させた」などと、お話し申し上げあそばす。</p>
   <p class="yosano">　「もう一人のほうも悪くないようだった。曲の意味の表現とか、手づかいとかに貴公子の舞はよいところがある。専門家の名人は<RUBY><RB>上手</RB><RP>（</RP><RT>じょうず</RT><RP>）</RP></RUBY>であっても、無邪気な<RUBY><RB>艶</RB><RP>（</RP><RT>えん</RT><RP>）</RP></RUBY>な趣をよう見せないよ。こんなに試楽の日に皆見てしまっては朱雀院の<RUBY><RB>紅葉</RB><RP>（</RP><RT>もみじ</RT><RP>）</RP></RUBY>の日の興味がよほど薄くなると思ったが、あなたに見せたかったからね」など仰せになった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> There is something about the smallest gesture that tells of breeding. The professionals are very good in their way--one would certainly not wish to suggest otherwise--but they somehow lack freshness and spontaneity. When the rehearsals have been so fine one fears that the excursion itself will be a disappointment. But I would not for anything have wished you to miss it."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -236,7 +238,7 @@
   <p class="romanized">&nbsp;&nbsp;Tutomete&#44; Tyuuzyaunokimi&#44;</p>
   <p class="shibuya">　翌朝、中将の君、</p>
   <p class="yosano">　翌朝源氏は藤壺の宮へ手紙を送った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">The next morning she had a letter from Genji.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -252,7 +254,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ikani goranzi kem? Yo ni sira nu midarigokoti nagara koso.</p>
   <p class="shibuya">　「どのように御覧になりましたでしょうか。何とも言えないつらい気持ちのままで。</p>
   <p class="yosano">　どう御覧くださいましたか。苦しい思いに心を乱しながらでした。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "And how did it all seem to you? I was in indescribable confusion. You will not welcome the question, I fear, but</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -268,7 +270,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;Mono omohu ni tati mahu beku mo ara nu mi no<BR>&nbsp;&nbsp;&nbsp;&nbsp;sode uti-huri si kokoro siri ki ya</p>
   <p class="shibuya">　　つらい気持ちのまま立派に舞うことなどはとてもできそうもないわが身が<BR>　　袖を振って舞った気持ちはお分りいただけたでしょうか</p>
   <p class="yosano">　　物思ふに立ち舞ふべくもあらぬ身の<BR>　　袖うち振りし心知りきや<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Through the waving, dancing sleeves could you see a heart<br>      So stormy that it wished but to be still?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -300,7 +302,7 @@
   <p class="romanized">&nbsp;&nbsp;to aru ohom-kaheri&#44; me mo ayanari si ohom-sama&#44; katati ni&#44; mi tamahi sinoba re zu ya ari kem&#44;</p>
   <p class="shibuya">　とあるお返事、目を奪うほどであったご様子、容貌に、お見過ごしになれなかったのであろうか、</p>
   <p class="yosano">　とあった。目にくらむほど美しかった昨日の舞を無視することがおできにならなかったのか、宮はお書きになった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The image of the dancer was so vivid, it would seem, that she could not refuse to answer.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -316,7 +318,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Karahito no sode huru koto ha tohokere do<BR>&nbsp;&nbsp;&nbsp;&nbsp;tatiwi ni tuke te ahare to ha mi ki</p>
   <p class="shibuya">　「唐の人が袖振って舞ったことは遠い昔のことですが<BR>　　その立ち居舞い姿はしみじみと拝見いたしました</p>
   <p class="yosano">　　から人の袖ふることは遠けれど<BR>　　<RUBY><RB>起</RB><RP>（</RP><RT>た</RT><RP>）</RP></RUBY>ち<RUBY><RB>居</RB><RP>（</RP><RT>ゐ</RT><RP>）</RP></RUBY>につけて哀れとは見き<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">          "Of waving Chinese sleeves I cannot speak.<br>         Each step, each motion, touched me to the heart.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -332,7 +334,7 @@
   <p class="romanized">&nbsp;&nbsp;Ohokata ni ha.&#34;</p>
   <p class="shibuya">　並々のことには」</p>
   <p class="yosano">　一観衆として。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "You may be sure that my thoughts were far from ordinary."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -348,7 +350,7 @@
   <p class="romanized">&nbsp;&nbsp;to aru wo&#44; kagirinau medurasiu&#44; &#34;Kayau no kata sahe&#44; tadotadosikara zu&#44; hito no mikado made omohosi yare ru ohom-kisakikotoba no&#44; kanete mo.&#34; to&#44; hohowema re te&#44; dikyau no yau ni hiki hiroge te mi wi tamaheri.</p>
   <p class="shibuya">　とあるのを、この上なく珍しく、「このようなことにまで、お詳しくいらっしゃり、唐国の朝廷まで思いをはせられるお后としてのお和歌を、もう今から」と、自然とほほ笑まれて、持経のように広げてご覧になっていた。</p>
   <p class="yosano">　たまさかに得た短い返事も、受けた源氏にとっては非常な幸福であった。<RUBY><RB>支那</RB><RP>（</RP><RT>しな</RT><RP>）</RP></RUBY>における青海波の曲の起源なども知って作られた歌であることから、もう十分に<RUBY><RB>后</RB><RP>（</RP><RT>きさき</RT><RP>）</RP></RUBY>らしい見識を備えていられると源氏は微笑して、手紙を仏の経巻のように<RUBY><RB>拡</RB><RP>（</RP><RT>ひろ</RT><RP>）</RP></RUBY>げて見入っていた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">A rare treasure indeed. He smiled. With her knowledge of music and the dance and even it would seem things Chinese she already spoke like an empress. He kept the letter spread before him as if it were a favorite sutra.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -368,7 +370,7 @@
   <p class="romanized">&nbsp;&nbsp;Gyaugau ni ha&#44; Miko-tati nado&#44; yo ni nokoru hito naku tukaumaturi tamahe ri. Touguu mo ohasimasu. Rei no&#44; gaku no hune-domo kogi meguri te&#44; Morokosi&#44; Koma to&#44; tukusi taru mahi-domo&#44; kusa ohokari. Gaku no kowe&#44; tudumi no oto&#44; yo wo hibikasu.</p>
   <p class="shibuya">　行幸には、親王たちなど、宮廷を挙げて一人残らず供奉なさった。春宮もお出ましになる。恒例によって、楽の舟々が漕ぎ廻って、唐楽、高麗楽のと、数々を尽くした舞は、幾種類も多い。楽の声、鼓の音、四方に響き渡る。</p>
   <p class="yosano">　行幸の日は親王方も<RUBY><RB>公卿</RB><RP>（</RP><RT>くぎょう</RT><RP>）</RP></RUBY>もあるだけの人が帝の<RUBY><RB>供奉</RB><RP>（</RP><RT>ぐぶ</RT><RP>）</RP></RUBY>をした。必ずあるはずの奏楽の船がこの日も池を<RUBY><RB>漕</RB><RP>（</RP><RT>こ</RT><RP>）</RP></RUBY>ぎまわり、唐の曲も<RUBY><RB>高麗</RB><RP>（</RP><RT>こうらい</RT><RP>）</RP></RUBY>の曲も舞われて盛んな<RUBY><RB>宴賀</RB><RP>（</RP><RT>えんが</RT><RP>）</RP></RUBY>だった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    On the day of the excursion the emperor was attended by his whole court, the princes and the rest. The crown prince too was present. Music came from boats rowed out over the lake, and there was an infinite variety of Chinese and Korean dancing.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -384,7 +386,7 @@
   <p class="romanized">&nbsp;&nbsp;Hitohi no Genzi no ohom-yuhukage&#44; yuyusiu obosa re te&#44; mizyukyau nado tokorodokoro ni se sase tamahu wo&#44; kiku hito mo kotowari to aharegari kikoyuru ni&#44; Touguunonyougo ha&#44; anagati nari to&#44; nikumi kikoye tamahu.</p>
   <p class="shibuya">　先日の源氏の夕映えのお姿、不吉に思し召されて、御誦経などを方々の寺々におさせになるのを、聞く人ももっともであると感嘆申し上げるが、春宮の女御は、大仰であると、ご非難申し上げなさる。</p>
   <p class="yosano">　試楽の日の源氏の舞い姿のあまりに美しかったことが<RUBY><RB>魔障</RB><RP>（</RP><RT>ましょう</RT><RP>）</RP></RUBY>の<RUBY><RB>耽美心</RB><RP>（</RP><RT>たんびしん</RT><RP>）</RP></RUBY>をそそりはしなかったかと帝は御心配になって、寺々で経をお読ませになったりしたことを聞く人も、御親子の情はそうあることと思ったが、東宮の母君の女御だけはあまりな御関心ぶりだとねたんでいた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Reed and string and drum echoed through the grounds. Because Genji's good looks had on the evening of the rehearsal filled him with foreboding, the emperor ordered sutras read in several temples. Most of the court understood and sympathized, but Kokiden thought it all rather ridiculous.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -410,7 +412,7 @@
   <p class="romanized">&nbsp;&nbsp;Kaisiro nado&#44; tenzyaubito&#44; dige mo&#44; kokoro koto nari to yohito ni omohare taru iusoku no kagiri totonohe sase tamahe ri. Saisyau hutari&#44; Sawemonnokami&#44; Uwemonnokami&#44; hidari migi no gaku no koto okonahu. Mahi no si-domo nado&#44; yo ni nabete nara nu wo tori tutu&#44; onoono komori wi te nam narahi keru.</p>
   <p class="shibuya">　垣代などには、殿上人、地下人でも、優秀だと世間に評判の高い精通した人たちだけをお揃えあそばしていた。宰相二人、左衛門督、右衛門督が、左楽と右楽とを指揮する。舞の師匠たちなど、世間で一流の人たちをそれぞれ招いて、各自家に引き籠もって練習したのであった。</p>
   <p class="yosano">　楽人は殿上役人からも<RUBY><RB>地下</RB><RP>（</RP><RT>じげ</RT><RP>）</RP></RUBY>からもすぐれた技倆を認められている人たちだけが<RUBY><RB>選</RB><RP>（</RP><RT>よ</RT><RP>）</RP></RUBY>り整えられたのである。参議が二人、それから<RUBY><RB>左衛門督</RB><RP>（</RP><RT>さえもんのかみ</RT><RP>）</RP></RUBY>、右衛門督が左右の楽を監督した。舞い手はめいめい今日まで良師を選んでした<RUBY><RB>稽古</RB><RP>（</RP><RT>けいこ</RT><RP>）</RP></RUBY>の成果をここで見せたわけである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">The most renowned virtuosos from the high and middle court ranks were chosen for the flutists' circle. The director of the Chinese dances and the director of the Korean dances were both guards officers who held seats on the council of state. The dancers had for weeks been in monastic seclusion studying each motion under the direction of the most revered masters of the art.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -431,7 +433,7 @@
   <p class="romanized">&nbsp;&nbsp;Kodakaki momidi no kage ni&#44; yoso bito no kaisiro&#44; ihi sira zu huki tate taru mononone-domo ni ahi taru matukaze&#44; makoto no miyamaorosi to kikoye te huki mayohi&#44; iroiro ni tiri kahu konoha no naka yori&#44; Seigaiha no kakayaki ide taru sama&#44; ito osorosiki made miyu. Kazasi no momidi itau tiri sugi te&#44; kaho no nihohi ni keosare taru kokoti sure ba&#44; omahe naru kiku wo wori te&#44; Sadaisyau sasi-kahe tamahu.</p>
   <p class="shibuya">　木高い紅葉の下に、四十人の垣代、何とも言い表しようもなく見事に吹き鳴らしている笛の音に響き合っている松風、本当の深山颪と聞こえて吹き乱れ、色とりどりに散り乱れる木の葉の中から、青海波の光り輝いて舞い出る様子、何とも恐ろしいまでに見える。插頭の紅葉がたいそう散って薄くなって、顔の照り映える美しさに圧倒された感じがするので、御前に咲いている菊を折って、左大将が差し替えなさる。</p>
   <p class="yosano">　四十人の楽人が吹き立てた楽音に誘われて吹く松の風はほんとうの<RUBY><RB>深山</RB><RP>（</RP><RT>みやま</RT><RP>）</RP></RUBY>おろしのようであった。いろいろの秋の<RUBY><RB>紅葉</RB><RP>（</RP><RT>もみじ</RT><RP>）</RP></RUBY>の散りかう中へ青海波の舞い手が歩み出た時には、これ以上の美は地上にないであろうと見えた。<RUBY><RB>挿</RB><RP>（</RP><RT>かざ</RT><RP>）</RP></RUBY>しにした紅葉が風のために葉数の少なくなったのを見て、左大将がそばへ寄って庭前の菊を折ってさし変えた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The forty men in the flutists' circle played most marvelously. The sound of their flutes, mingled with the sighing of the pines, was like a wind coming down from deep mountains. "Waves of the Blue Ocean,"  among falling leaves of countless hues, had about it an almost frightening beauty. The maple branch in Genji's cap was somewhat bare and forlorn, most of the leaves having fallen, and seemed at odds with his handsome face. The</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -452,7 +454,7 @@
   <p class="romanized">&nbsp;&nbsp;Hi kure kakaru hodo ni&#44; kesiki bakari uti-sigure te&#44; sora no kesiki sahe misiri gaho naru ni&#44; saru imiziki sugata ni&#44; kiku no iroiro uturohi&#44; e nara nu wo kazasi te&#44; kehu ha matanaki te wo tukusi taru iriaya no hodo&#44; sozorosamuku&#44; kono yo no koto to mo oboye zu. Mono mi siru maziki simobito nado no&#44; ko no moto&#44; iha gakure&#44; yama no konoha ni udumore taru sahe&#44; sukosi mono no kokoro siru ha namida otosi keri.</p>
   <p class="shibuya">　日の暮れかかるころに、ほんの少しばかり時雨が降って、空の様子までが感涙を催しているのに、そうした非常に美しい姿で、菊が色とりどりに変色し、その素晴らしいのを冠に插して、今日は又とない秘術を尽くした入綾の舞の時には、ぞくっと寒気がし、この世の舞とは思われない。何も分るはずのない下人どもで、木の下、岩の陰、築山の木の葉に埋もれている者までが、少し物の情趣を理解できる者は感涙に咽ぶのであった。</p>
   <p class="yosano">　日暮れ前になってさっと<RUBY><RB>時雨</RB><RP>（</RP><RT>しぐれ</RT><RP>）</RP></RUBY>がした。空もこの絶妙な舞い手に心を動かされたように。美貌の源氏が紫を染め出したころの白菊を<RUBY><RB>冠</RB><RP>（</RP><RT>かむり</RT><RP>）</RP></RUBY>に<RUBY><RB>挿</RB><RP>（</RP><RT>さ</RT><RP>）</RP></RUBY>して、今日は試楽の日に<RUBY><RB>超</RB><RP>（</RP><RT>こ</RT><RP>）</RP></RUBY>えて細かな手までもおろそかにしない舞振りを見せた。終わりにちょっと引き返して来て舞うところなどでは、人が皆清い寒気をさえ覚えて、人間界のこととは思われなかった。物の価値のわからぬ<RUBY><RB>下人</RB><RP>（</RP><RT>げにん</RT><RP>）</RP></RUBY>で、木の<RUBY><RB>蔭</RB><RP>（</RP><RT>かげ</RT><RP>）</RP></RUBY>や岩の蔭、もしくは落ち葉の中にうずもれるようにして見ていた者さえも、少し賢い者は涙をこぼしていた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> General of the Left* replaced it with several chrysanthemums which he brought from below the royal seat. The sun was about to set and a suspicion of an autumn shower rustled past as if the skies too were moved to tears. The chrysanthemums in Genji's cap, delicately touched by the frosts, gave new beauty to his form and his motions, no less remarkable today than on the day of the rehearsal. Then his dance was over, and a chill as if from another world passed over the assembly. Even unlettered menials, lost among deep branches and rocks, or those of them, in any event, who had some feeling for such things, were moved to tears.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -468,7 +470,7 @@
   <p class="romanized">&nbsp;&nbsp;Syoukyauden no ohom-hara no Sinomiko&#44; mada waraha nite&#44; Siuhuuraku mahi tamahe ru nam&#44; sasitugi no mimono nari keru. Korera ni omosirosa no tuki ni kere ba&#44; kotogoto ni me mo utura zu&#44; kaheri te ha kotozamasi ni ya ari kem.</p>
   <p class="shibuya">　承香殿の女御の第四皇子、まだ童姿で、秋風楽をお舞いになったのが、これに次ぐ見物であった。これらに興趣も尽きてしまったので、他の事には関心も移らず、かえって興ざましであったろうか。</p>
   <p class="yosano">　<RUBY><RB>承香殿</RB><RP>（</RP><RT>じょうきょうでん</RT><RP>）</RP></RUBY>の女御を母にした第四親王がまだ<RUBY><RB>童形</RB><RP>（</RP><RT>どうぎょう</RT><RP>）</RP></RUBY>で秋風楽をお舞いになったのがそれに続いての<RUBY><RB>見物</RB><RP>（</RP><RT>みもの</RT><RP>）</RP></RUBY>だった。この二つがよかった。あとのはもう何の舞も人の興味を<RUBY><RB>惹</RB><RP>（</RP><RT>ひ</RT><RP>）</RP></RUBY>かなかった。ないほうがよかったかもしれない。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> The Fourth Prince, still a child, son of Lady Sho~kyo~den,+ danced "Autumn Winds,"  after "Waves of the Blue Ocean"  the most interesting of the dances. All the others went almost unnoticed. Indeed complaints were heard that they marred what would otherwise have been a perfect day.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -489,7 +491,7 @@
   <p class="romanized">&nbsp;&nbsp;Sono yo&#44; Genzinotyuuzyau&#44; zyauzamwi si tamahu. Tounotiuzyau&#44; zyauge no kakai si tamahu. Kamdatime ha&#44; mina sarubeki kagiri yorokobi si tamahu mo&#44; kono Kimi ni hika re tamahe ru nare ba&#44; hito no me wo mo odorokasi&#44; kokoro wo mo yorokoba se tamahu&#44; mukasi no yo yukasige nari.</p>
   <p class="shibuya">　その夜、源氏の中将、正三位になられる。頭中将、正四位下に昇進なさる。上達部は、皆しかるべき人々は相応の昇進をなさるのも、この君の昇進につれて恩恵を蒙りなさるので、人の目を驚かし、心をも喜ばせなさる、前世が知りたいほどである。</p>
   <p class="yosano">　今夜源氏は<RUBY><RB>従三位</RB><RP>（</RP><RT>じゅさんみ</RT><RP>）</RP></RUBY>から正三位に上った。頭中将は正四位下が上になった。他の高官たちにも波及して昇進するものが多いのである。当然これも源氏の恩であることを皆知っていた。この世でこんなに人を喜ばしうる源氏は<RUBY><RB>前生</RB><RP>（</RP><RT>ぜんしょう</RT><RP>）</RP></RUBY>ですばらしい<RUBY><RB>善業</RB><RP>（</RP><RT>ぜんごう</RT><RP>）</RP></RUBY>があったのであろう。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Genji was that evening promoted to the First Order of the Third Rank, and To~ no Chu~jo~ to the Second Order of the Fourth Rank, and other deserving courtiers were similarly rewarded, pulled upwards, it might be said, by Genji. He brought pleasure to the eye and serenity to the heart, and made people wonder what bounty of grace might be his from former lives.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -514,7 +516,7 @@
   <p class="romanized">&nbsp;&nbsp;Miya ha&#44; sonokoro makade tamahi nure ba&#44; rei no&#44; hima mo ya to ukagahi ariki tamahu wo koto nite&#44; Ohoidono ni ha sawaga re tamahu. Itodo&#44; kano Wakakusa tadune tori tamahi te si wo&#44; &#34;Nideunowin ni ha hito mukahe tamahu nari.&#34; to hito no kikoye kere ba&#44; ito kokorodukinasi to oboi tari.</p>
   <p class="shibuya">　宮は、そのころご退出なさったので、例によって、お会いできる機会がないかと窺い回るのに夢中であったので、大殿では穏やかではいらっしゃれない。その上、あの若草をお迎えになったのを、「二条院では、女の人をお迎えになったそうだ」と、誰かが申し上げたので、まことに気に食わないとお思いになっていた。</p>
   <p class="yosano">　それがあってから藤壺の宮は宮中から実家へお帰りになった。逢う機会をとらえようとして、源氏は宮邸の訪問にばかりかかずらっていて、左大臣家の夫人もあまり訪わなかった。その上紫の姫君を迎えてからは、二条の院へ新たな人を入れたと伝えた者があって、夫人の心はいっそう恨めしかった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Fujitsubo had gone home to her family. Looking restlessly, as always, for a chance to see her, Genji was much criticized by his father-in-law's people at Sanjo~. And rumors of the young Murasaki were out. Certain of the women at Sanjo~ let it be known that a new lady had been taken in at Nijo~. Genji's wife was intensely displeased.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -550,7 +552,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Utiuti no arisama ha siri tamaha zu&#44; samo obosa m ha kotowari nare do&#44; kokoroutukusiku&#44; rei no hito no yau ni urami notamaha ba&#44; ware mo uranaku uti-katari te&#44; nagusame kikoye te m mono wo&#44; omoha zu ni nomi tori-nai tamahu kokorodukinasa ni&#44; samo arumaziki susabigoto mo idekuru zo kasi. Hito no ohom-arisama no&#44; kataho ni&#44; sono koto no aka nu to oboyuru kizu mo nasi. Hito yori saki ni mi tatematuri some te sika ba&#44; ahare ni yamgotonaku omohi kikoyuru kokoro wo mo&#44; siri tamaha nu hodo koso ara me&#44; tuhini ha obosi nahosa re nam.&#34; to&#44; &#34;Odasiku karugarusikara nu mikokoro no hodo mo&#44; onodukara.&#34; to&#44; tanoma ruru kata ha koto nari keri.</p>
   <p class="shibuya">　「内々の様子はご存知なく、そのようにお思いになるのはごもっともであるが、素直で、普通の女性のように恨み言をおっしゃるのならば、自分も腹蔵なくお話して、お慰め申し上げようものを、心外なふうにばかりお取りになるのが不愉快なので、起こさなくともよい浮気沙汰まで起こるのだ。相手のご様子は、不十分で、どこが不満だと思われる欠点もない。誰よりも先に結婚した方なので、愛しく大切にお思い申している気持ちを、まだご存知ないのであろうが、いつかはお思い直されよう」と、「安心できる軽率でないご性質だから、いつかは」と、期待できる点では格別なのであった。</p>
   <p class="yosano">　真相を知らないのであるから恨んでいるのがもっともであるが、正直に普通の人のように口へ出して恨めば自分も事実を話して、自分の心持ちを説明もし慰めもできるのであるが、一人でいろいろな<RUBY><RB>忖度</RB><RP>（</RP><RT>そんたく</RT><RP>）</RP></RUBY>をして恨んでいるという態度がいやで、自分はついほかの人に<RUBY><RB>浮気</RB><RP>（</RP><RT>うわき</RT><RP>）</RP></RUBY>な心が寄っていくのである。とにかく完全な女で、欠点といっては何もない、だれよりもいちばん最初に結婚した妻であるから、どんなに心の中では尊重しているかしれない、それがわからない間はまだしかたがない。将来はきっと自分の思うような妻になしうるだろうと源氏は思って、その人が少しのことで源氏から離れるような軽率な行為に出ない性格であることも源氏は信じて疑わなかったのである。永久に結ばれた夫婦としてその人を思う愛にはまた特別なものがあった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> It was most natural that she should be, for she did not of course know that the "lady"  was a mere child. If she had complained to him openly, as most women would have done, he might have told her everything, and no doubt eased her jealousy. It was her arbitrary judgments that sent him wandering. She had no specific faults, no vices or blemishes, which he could point to. She had been the first lady in his life, and in an abstract way he admired and treasured her. Her feelings would change, he felt sure, once she was more familiar with his own. She was a perceptive woman, and the change was certain to come. She still occupied first place among his ladies.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -584,7 +586,7 @@
   <p class="romanized">&nbsp;&nbsp;Wosanaki hito ha&#44; mitui tamahu mama ni&#44; ito yoki kokorozama&#44; katati nite&#44; nanigokoro mo naku muture matohasi kikoye tamahu. &#34;Sibasi&#44; tono no uti no hito ni mo tare to sirase zi.&#34; to obosi te&#44; naho hanare taru tai ni&#44; ohom-siturahi ninaku si te&#44; ware mo akekure iri ohasi te&#44; yorodu no ohom-koto-domo wo wosihe kikoye tamahi&#44; tehon kaki te naraha se nado si tutu&#44; tada hoka nari keru ohom-musume wo mukahe tamahe ram yau ni zo obosi taru.</p>
   <p class="shibuya">　幼い人は馴染まれるにつれて、とてもよい性質、容貌なので、無心に懐いてお側からお放し申されない。「暫くの間は、邸内の者にも誰それと知らせまい」とお思いになって、今も離れた対の屋に、お部屋の設備をまたとなく立派にして、ご自分も明け暮れお入りになって、ありとあらゆるお稽古事をお教え申し上げなさる。お手本を書いてお習字などさせては、まるで他で育ったご自分の娘をお迎えになったようなお気持ちでいらっしゃった。</p>
   <p class="yosano">　若紫は<RUBY><RB>馴</RB><RP>（</RP><RT>な</RT><RP>）</RP></RUBY>れていくにしたがって、性質のよさも<RUBY><RB>容貌</RB><RP>（</RP><RT>ようぼう</RT><RP>）</RP></RUBY>の美も源氏の心を多く<RUBY><RB>惹</RB><RP>（</RP><RT>ひ</RT><RP>）</RP></RUBY>いた。姫君は無邪気によく源氏を愛していた。家の者にも<RUBY><RB>何人</RB><RP>（</RP><RT>なにびと</RT><RP>）</RP></RUBY>であるか知らすまいとして、今も初めの西の<RUBY><RB>対</RB><RP>（</RP><RT>たい</RT><RP>）</RP></RUBY>を<RUBY><RB>住居</RB><RP>（</RP><RT>すまい</RT><RP>）</RP></RUBY>にさせて、そこに華麗な設備をば加え、自身も始終こちらに来ていて若い<RUBY><RB>女王</RB><RP>（</RP><RT>にょおう</RT><RP>）</RP></RUBY>を教育していくことに力を入れているのである。手本を書いて習わせなどもして、今までよそにいた娘を呼び寄せた善良な父のようになっていた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Murasaki was by now thoroughly comfortable with him. She was maturing in appearance and manner, and yet there was artlessness in her way of clinging to him. Thinking it too early to let the people in the main hall know who she was, he kept her in one of the outer wings, which he had had fitted to perfection. He was constantly with her, tutoring her in the polite accomplishments and especially calligraphy. It was as if he had brought home a daughter who had spent her early years in another house.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -615,7 +617,7 @@
   <p class="romanized">&nbsp;&nbsp;Mandokoro&#44; keisi nado wo hazime&#44; kotoni wakati te&#44; kokoromotonakara zu tukaumatura se tamahu. Koremitu yori hoka no hito ha&#44; obotukanaku nomi omohi kikoye tari. Kano Titimiya mo&#44; e siri kikoye tamaha zari keri.</p>
   <p class="shibuya">　政所、家司などをはじめとして、別に分けて、心配がないようにお仕えさせなさる。惟光以外の人は、はっきり分からずばかり思い申し上げていた。あの父宮も、ご存知ないのであった。</p>
   <p class="yosano">　事務の扱い所を作り、<RUBY><RB>家司</RB><RP>（</RP><RT>けいし</RT><RP>）</RP></RUBY>も別に命じて貴族生活をするのに何の不足も感じさせなかった。しかも<RUBY><RB>惟光</RB><RP>（</RP><RT>これみつ</RT><RP>）</RP></RUBY>以外の者は西の対の主の<RUBY><RB>何人</RB><RP>（</RP><RT>なにびと</RT><RP>）</RP></RUBY>であるかをいぶかしく思っていた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> He had studied the qualifications of her stewards and assured himself that she would have everything she needed. Everyone in the house, save only Koremitsu, was consumed with curiosity. Her father still did not know of her whereabouts.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -631,7 +633,7 @@
   <p class="romanized">&nbsp;&nbsp;Himegimi ha&#44; naho&#44; tokidoki omohi ide kikoye tamahu toki&#44; Amagimi wo kohi kikoye tamahu wori ohokari. Kimi no ohasuru hodo ha&#44; magirahasi tamahu wo&#44; yoru  nado ha&#44; tokidoki koso tomari tamahe&#44; koko kasiko no ohom-itoma naku te&#44; kurure ba ide tamahu wo&#44; sitahi kikoye tamahu wori nado aru wo&#44; ito rautaku omohi kikoye tamahe ri.</p>
   <p class="shibuya">　姫君は、やはり時々お思い出しなさる時は、尼君をお慕い申し上げなさる時々が多い。君がおいでになる時は、気が紛れていらっしゃるが、夜などは、時々はお泊まりになるが、あちらこちらの方々にお忙しくて、暮れるとお出かけになるのを、お後を慕いなさる時などがあるのを、とてもかわいいとお思い申し上げていらっしゃった。</p>
   <p class="yosano">女王は今も時々は尼君を恋しがって泣くのである。源氏のいる間は紛れていたが、夜などまれにここで泊まることはあっても、通う家が多くて日が暮れると出かけるのを、悲しがって泣いたりするおりがあるのを源氏はかわいく思っていた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Sometimes she would weep for her grandmother. Her mind was full of other things when Genji was with her, and often he stayed the night; but he had numerous other places to look in upon, and he was quite charmed by the wistfulness with which she would see him off in the evening.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -647,7 +649,7 @@
   <p class="romanized">&nbsp;&nbsp;Ni&#44; samniti uti ni saburahi&#44; Ohotono ni mo ohasuru wori ha&#44; ito itaku ku'si nado si tamahe ba&#44; kokorogurusiu te&#44; haha naki ko mo' tara m kokoti si te&#44; ariki mo sidugokoro naku oboye tamahu. Soudu ha&#44; kaku nam&#44; to kiki tamahi te&#44; ayasiki mono kara&#44; uresi to nam omohosi keru. Kano ohom-hohuzi nado si tamahu ni mo&#44; ikamesiu toburahi kikoye tamahe ri. </p>
   <p class="shibuya">　二、三日宮中に伺候し、大殿にもいらっしゃる時は、とてもひどく塞ぎ込んだりなさるので、気の毒で、母親のいない子を持ったような心地がして、外出も落ち着いてできなくお思いになる。僧都は、これこれと、お聞きになって、不思議な気がする一方で、嬉しいことだとお思いであった。あの尼君の法事などをなさる時にも、立派なお供物をお届けなさった。</p>
   <p class="yosano">　二、三日御所にいて、そのまま左大臣家へ行っていたりする時は若紫がまったくめいり込んでしまっているので、母親のない子を持っている気がして、恋人を見に行っても落ち着かぬ心になっているのである。<RUBY><RB>僧都</RB><RP>（</RP><RT>そうず</RT><RP>）</RP></RUBY>はこうした報告を受けて、不思議に思いながらもうれしかった。尼君の法事の北山の寺であった時も源氏は厚く<RUBY><RB>布施</RB><RP>（</RP><RT>ふせ</RT><RP>）</RP></RUBY>を贈った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Sometimes he would spend two and three days at the palace and go from there to Sanjo~. Finding a pensive Murasaki upon his return, he would feel as if he had taken in a little orphan. He no longer looked forward to his nocturnal wanderings with the same eagerness. Her granduncle the bishop kept himself informed of her affairs, and was pleased and puzzled. Genji sent most lavish offerings for memorial services.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -677,7 +679,7 @@
   <p class="romanized">&nbsp;&nbsp;Huditubo no makade tamahe ru Samdeunomiya ni&#44; ohom-arisama mo yukasiu te&#44; mawiri tamahe re ba&#44; Myaubu&#44; Tyuunagonnokimi&#44; Nakatukasa nado yau no hitobito taime si tari. &#34;Kezayaka ni mo motenasi tamahu kana!&#34; to&#44; yasukara zu omohe do&#44; sidume te&#44; ohokata no ohom-monogatari kikoye tamahu hodo ni&#44; Hyaubukyaunomiya mawiri tamahe ri.</p>
   <p class="shibuya">　藤壷が退出していらっしゃる三条の宮に、ご様子も知りたくて、参上なさると、命婦、中納言の君、中務などといった女房たちが応対に出た。「他人行儀なお扱いであるな」とおもしろくなく思うが、落ち着けて、世間一般のお話を申し上げなさっているところに、兵部卿宮が参上なさった。</p>
   <p class="yosano">　<RUBY><RB>藤壺</RB><RP>（</RP><RT>ふじつぼ</RT><RP>）</RP></RUBY>の宮の自邸である三条の宮へ、様子を知りたさに源氏が行くと<RUBY><RB>王命婦</RB><RP>（</RP><RT>おうみょうぶ</RT><RP>）</RP></RUBY>、中納言の君、<RUBY><RB>中務</RB><RP>（</RP><RT>なかつかさ</RT><RP>）</RP></RUBY>などという女房が出て応接した。源氏はよそよそしい扱いをされることに不平であったが自分をおさえながらただの話をしている時に<RUBY><RB>兵部卿</RB><RP>（</RP><RT>ひょうぶきょう</RT><RP>）</RP></RUBY>の宮がおいでになった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Longing for news of Fujitsubo, still with her family, he paid a visit. Omyo~bu, Chu~nagon, Nakatsukasa, and others of her women received him, but the lady whom he really wanted to see kept him at a distance. He forced himself to make conversation. Prince Hyo~bu, her brother and Murasaki's father, came in,</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -698,7 +700,7 @@
   <p class="romanized">&nbsp;&nbsp;Kono Kimi ohasu to kiki tamahi te&#44; taime si tamahe ri. Ito yosi aru sama si te&#44; iromekasiu nayobi tamahe ru wo&#44; &#34;Womna ni te mi m ha wokasikari nu beku&#34;&#44; hito sire zu mi tatematuri tamahu ni mo&#44; katagata mutumasiku oboye tamahi te&#44; komayaka ni ohom-monogatari nado kikoye tamahu. Miya mo&#44; kono ohom-arisama no tune yori koto ni natukasiu utitoke tamahe ru wo&#44; &#34;Ito medetasi&#34; to mi tatematuri tamahi te&#44; muko ni nado ha obosi yora de&#44; &#34;Womna ni te mi baya&#34; to&#44; iromeki taru mikokoro ni ha omohosu.</p>
   <p class="shibuya">　この君がいらっしゃるとお聞きになって、お会いなさった。とても風情あるご様子をして、色っぽくなよなよとしていらっしゃるのを、「女性として見るにはきっと素晴らしいに違いなかろう」と、こっそりと拝見なさるにつけても、あれこれと睦まじくお思いになられて、懇ろにお話など申し上げなさる。宮も、君のご様子がいつもより格別に親しみやすく打ち解けていらっしゃるのを、「じつに素晴らしい」と拝見なさって、婿でいらっしゃるなどとはお思いよりにもならず、「女としてお会いしたいものだ」と、色っぽいお気持ちにお考えになる。</p>
   <p class="yosano">　源氏が来ていると聞いてこちらの座敷へおいでになった。貴人らしい、そして<RUBY><RB>艶</RB><RP>（</RP><RT>えん</RT><RP>）</RP></RUBY>な風流男とお見えになる宮を、このまま女にした顔を源氏はかりに考えてみてもそれは美人らしく思えた。藤壺の宮の兄君で、また<RUBY><RB>可憐</RB><RP>（</RP><RT>かれん</RT><RP>）</RP></RUBY>な若紫の父君であることにことさら親しみを覚えて源氏はいろいろな話をしていた。兵部卿の宮もこれまでよりも打ち解けて見える美しい源氏を、婿であるなどとはお知りにならないで、この人を女にしてみたいなどと若々しく考えておいでになった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> having heard that Genji was on the premises. He was a man of great and gentle elegance, someone, thought Genji, who would interest him enormously were they of opposite sexes. Genji felt very near this prince so near the two ladies, and to the prince their conversation seemed friendly and somehow significant as earlier conversations had not. How very handsome Genji was! Not dreaming that it was a prospective son-in-law he was addressing, he too was thinking how susceptible (for he was a susceptible man) he would be to Genji's charms if they were not of the same sex.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -739,7 +741,7 @@
   <p class="romanized">&nbsp;&nbsp;Kure nure ba&#44; misu no uti ni iri tamahu wo&#44; urayamasiku&#44; mukasi ha&#44; Uhe no ohom-motenasi ni&#44; ito kedikaku&#44; hitodute nara de&#44; mono wo mo kikoye tamahi si wo&#44; koyonau utomi tamahe ru mo&#44; turau oboyuru zo warinaki ya!</p>
   <p class="shibuya">　日が暮れたので、御簾の内側にお入りになるのを、羨ましく、昔はお上の御待遇で、とても近くで直接にお話申し上げになさったのに、すっかり疎んじていらっしゃるのも、辛く思われるとは、理不尽なことであるよ。</p>
   <p class="yosano">　夜になると兵部卿の宮は女御の宮のお座敷のほうへはいっておしまいになった。源氏はうらやましくて、昔は陛下が愛子としてよく藤壺の<RUBY><RB>御簾</RB><RP>（</RP><RT>みす</RT><RP>）</RP></RUBY>の中へ自分をお入れになり、今日のように取り次ぎが中に立つ話ではなしに、宮口ずからのお話が伺えたものであると思うと、今の宮が恨めしかった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    When, at dusk, the prince withdrew behind the blinds, Genji felt pangs of jealousy. In the old years he had followed his father behind those same blinds, and there addressed the lady. Now she was far away--though of course no one had wronged him, and he had no right to complain.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -765,7 +767,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Sibasiba mo saburahu bekere do&#44; koto zo to habera nu hodo ha&#44; onodukara okotari haberu wo&#44; sarubeki koto nado ha&#44; ohosegoto mo habera m koso&#44; uresiku.&#34;</p>
   <p class="shibuya">　「しばしばお伺いすべきですが、特別の事でもない限りは、参上するのも自然滞りがちになりますが、しかるべき御用などは、お申し付けございましたら、嬉しく」</p>
   <p class="yosano">　「たびたび伺うはずですが、参っても御用がないと自然<RUBY><RB>怠</RB><RP>（</RP><RT>なま</RT><RP>）</RP></RUBY>けることになります。命じてくださることがありましたら、御遠慮なく言っておつかわしくださいましたら満足です」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "I have not been good about visiting you,"  he said stiffly as he got up to leave. "Having no business with you, I have not wished to seem forward. It would give me great pleasure if you would let me know of any services I might perform for you."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -781,7 +783,7 @@
   <p class="romanized">&nbsp;&nbsp;nado&#44; sukusukusiu te ide tamahi nu. Myaubu mo&#44; tabakari kikoye m kata naku&#44; Miya no mikesiki mo&#44; arisi yori ha&#44; itodo uki husi ni obosi oki te&#44; kokoro toke nu mikesiki mo&#44; hadukasiku itohosikere ba&#44; nani no sirusi mo naku te&#44; sugi yuku. &#34;Hakana no tigiri ya!&#34; to obosi midaruru koto&#44; katamini tuki se zu.</p>
   <p class="shibuya">　などと、堅苦しい挨拶をしてお出になった。命婦も、手引き申し上げる手段もなく、宮のご様子も以前よりは、いっそう辛いことにお思いになっていて、お打ち解けにならないご様子も、恥ずかしくおいたわしくもあるので、何の効もなく、月日が過ぎて行く。「何とはかない御縁か」と、お悩みになること、お互いに嘆ききれない。</p>
   <p class="yosano">　などと堅い<RUBY><RB>挨拶</RB><RP>（</RP><RT>あいさつ</RT><RP>）</RP></RUBY>をして源氏は帰って行った。王命婦も策動のしようがなかった。宮のお気持ちをそれとなく観察してみても、自分の運命の<RUBY><RB>陥擠</RB><RP>（</RP><RT>かんせい</RT><RP>）</RP></RUBY>であるものはこの恋である、源氏を忘れないことは自分を滅ぼす道であるということを過去よりもまた強く思っておいでになる御様子であったから手が出ないのである。はかない恋であると消極的に悲しむ人は藤壺の宮であって、積極的に思いつめている人は源氏の君であった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Omyo~bu could do nothing for him. Fujitsubo seemed to find his presence even more of a trial than before, and showed no sign of relenting. Sadly and uselessly the days went by. What a frail, fleeting union theirs had been!</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -816,7 +818,7 @@
   <p class="romanized">&nbsp;&nbsp;Seunagon ha&#44; &#34;Oboye zu wokasiki yo wo miru kana! Kore mo&#44; ko-Amauhe no&#44; kono ohom-koto wo obosi te&#44; ohom-okonahi ni mo inori kikoye tamahi si hotoke no ohom-sirusi ni ya?&#34; to oboyu. &#34;Ohoidono&#44; ito yamgotonaku te ohasimasu. Koko kasiko amata kakadurahi tamahu wo zo&#44; makoto ni otonabi tamaha m hodo ha&#44; mutukasiki koto mo ya?&#34; to oboye keru. Saredo&#44; kaku tori-waki tamahe ru ohom-oboye no hodo ha&#44; ito tanomosige nari kasi.</p>
   <p class="shibuya">　少納言は、「思いがけず嬉しい運が回って来たこと。これも、故尼上が、姫君様をご心配なさって、御勤行にもお祈り申し上げなさった仏の御利益であろうか」と思われる。「大殿は、本妻として歴としていらっしゃる。あちらこちら大勢お通いになっているのを、本当に成人されてからは、厄介なことも起きようか」と案じられるのだった。しかし、このように特別になさっていらっしゃるご寵愛のうちは、とても心強い限りである。</p>
   <p class="yosano">　少納言は思いのほかの幸福が小女王の運命に現われてきたことを、死んだ尼君が絶え間ない祈願に愛孫のことを言って仏にすがったその<RUBY><RB>効験</RB><RP>（</RP><RT>ききめ</RT><RP>）</RP></RUBY>であろうと思うのであったが、権力の強い左大臣家に第一の夫人があることであるし、そこかしこに愛人を持つ源氏であることを思うと、真実の結婚を見るころになって<RUBY><RB>面倒</RB><RP>（</RP><RT>めんどう</RT><RP>）</RP></RUBY>が多くなり、姫君に苦労が始まるのではないかと恐れていた。しかしこれには特異性がある。少女の日にすでにこんなに愛している源氏であるから将来もたのもしいわけであると見えた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Sho~nagon, Murasaki's nurse, continued to marvel at the strange course their lives had taken. perhaps some benign power had arranged it, the old nun having mentioned Murasaki in all her prayers. Not that everything was perfect. Genji's wife at Sanjo~ was a lady of the highest station, and other affairs, indeed too many of them, occupied him as well. Might not the girl face difficult times as she grew into womanhood? Yet he did seem fond of her as of none of the others, and her future seemed secure.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -847,7 +849,7 @@
   <p class="romanized">&nbsp;&nbsp;Ohom-buku&#44; hahagata ha mituki koso ha tote&#44; tugomori ni ha nuga se tatematuri tamahu wo&#44; mata oya mo naku te ohiide tamahi sika ba&#44; mabayuki iro ni ha ara de&#44; kurenawi&#44; murasaki&#44; yamabuki no di no kagiri ore ru ohom-koutiki nado wo ki tamahe ru sama&#44; imiziu imamekasiku wokasige nari.</p>
   <p class="shibuya">　ご服喪は、母方の場合は三箇月であると、晦日には忌明け申し上げさせなさるが、他に親もなくてご成長なさったので、派手な色合いではなく、紅、紫、山吹の地だけで織った御小袿などを召していらっしゃる様子、たいそう当世風でかわいらしげである。</p>
   <p class="yosano">　母方の祖母の喪は三か月であったから、<RUBY><RB>師走</RB><RP>（</RP><RT>しわす</RT><RP>）</RP></RUBY>の三十日に喪服を替えさせた。母代わりをしていた祖母であったから除喪のあとも<RUBY><RB>派手</RB><RP>（</RP><RT>はで</RT><RP>）</RP></RUBY>にはせず濃くはない紅の色、紫、<RUBY><RB>山吹</RB><RP>（</RP><RT>やまぶき</RT><RP>）</RP></RUBY>の落ち着いた色などで、そして地質のきわめてよい織物の<RUBY><RB>小袿</RB><RP>（</RP><RT>こうちぎ</RT><RP>）</RP></RUBY>を着た元日の紫の女王は、急に近代的な美人になったようである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> The period of mourning for a maternal grandmother being set at three months, it was on New Year's Eve that Murasaki took off her mourning weeds. The old lady had been for her both mother and grandmother, however, and so she chose to limit herself to pale, unfigured pinks and lavenders and yellows, pale colors seemed to suit her even better than rich ones.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -888,7 +890,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Kehu yori ha&#44; otonasiku nari tamahe ri ya?&#34;</p>
   <p class="shibuya">　「今日からは大人らしくなられましたか」</p>
   <p class="yosano">　「今日からは、もう大人になりましたか」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "And do you feel all grown up, now that a new year has come?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -904,7 +906,8 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; uti-wemi tamahe ru&#44; ito medetau aigyauduki tamahe ri. Itusika&#44; hihina wo si suwe te&#44; sosoki wi tamahe ru. Samzyaku no midusi hitoyorohi ni&#44; sinazina siturahi suwe te&#44; mata tihisaki ya-domo tukuri atume te&#44; tatematuri tamahe ru wo&#44; tokoroseki made asobi hiroge tamahe ri.</p>
   <p class="shibuya">　と言って微笑んでいらっしゃる、とても素晴らしく魅力的である。早くも、お人形を並べ立てて、忙しくしていらっしゃる。三尺の御厨子一具と、お道具を色々と並べて、他に小さい御殿をたくさん作って、差し上げなさっていたのを、辺りいっぱいに広げて遊んでいらっしゃる。</p>
   <p class="yosano">　と<RUBY><RB>笑顔</RB><RP>（</RP><RT>えがお</RT><RP>）</RP></RUBY>をして源氏は言った。光源氏の美しいことはいうまでもない。紫の君はもう<RUBY><RB>雛</RB><RP>（</RP><RT>ひな</RT><RP>）</RP></RUBY>を出して遊びに夢中であった。三尺の<RUBY><RB>据棚</RB><RP>（</RP><RT>すえだな</RT><RP>）</RP></RUBY>二つにいろいろな小道具を置いて、またそのほかに小さく作った家などを幾つも源氏が与えてあったのを、それらを座敷じゅうに並べて遊んでいるのである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">  Smiling, radiating youthful charm, Genji looked in upon her. He was on his way to the morning festivities at court.
+    She had already taken out her dolls and was busy seeing to their needs. All manner of furnishings and accessories were laid out on a yard-high shelf. Dollhouses threatened to overflow the room.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -920,7 +923,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Na yarahu tote&#44; Inuki ga kore wo koboti haberi ni kere ba&#44; tukurohi haberu zo.&#34;</p>
   <p class="shibuya">　「追儺をやろうといって、犬君がこれを壊してしまったので、直しておりますの」</p>
   <p class="yosano">　「<RUBY><RB>儺追</RB><RP>（</RP><RT>なやら</RT><RP>）</RP></RUBY>いをするといって<RUBY><RB>犬君</RB><RP>（</RP><RT>いぬき</RT><RP>）</RP></RUBY>がこれをこわしましたから、私よくしていますの」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "Inuki knocked everything over chasing out devils last night and broke this."  It was a serious matter. "I'm gluing it."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -945,7 +948,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Geni&#44; ito kokoronaki hito no siwaza ni mo haberu naru kana! Ima tukuroha se habera m. Kehu ha kotoimi si te&#44; na nai tamahi so.&#34;</p>
   <p class="shibuya">　「なるほど、とてもそそっかしい人のやったことらしいですね。直ぐに直させましょう。今日は涙を慎んで、お泣きなさるな」</p>
   <p class="yosano">　「ほんとうにそそっかしい人ですね。すぐ直させてあげますよ。今日は縁起を祝う日ですからね、泣いてはいけませんよ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "Yes, she really is very clumsy, that Inuki. We'll ask someone to repair it for you. But today you must not cry. Crying is the worst way to begin a new year."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -961,7 +964,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; ide tamahu kesiki&#44; tokoroseki wo&#44; hitobito hasi ni ide te mi tatemature ba&#44; Himegimi mo tatiide te mi tatematuri tamahi te&#44; hihina no naka no Genzinokimi tukurohi tate te&#44; uti ni mawira se nado si tamahu.</p>
   <p class="shibuya">　と言って、お出かけになる様子、辺り狭しのご立派さを、女房たちは端に出てお見送り申し上げるので、姫君も立って行ってお見送り申し上げなさって、お人形の中の源氏の君を着飾らせて、内裏に参内させる真似などなさる。</p>
   <p class="yosano">　言い残して出て行く源氏の春の新装を女房たちは縁に近く出て見送っていた。紫の君も同じように見に立ってから、雛人形の中の源氏の君をきれいに装束させて<RUBY><RB>真似</RB><RP>（</RP><RT>まね</RT><RP>）</RP></RUBY>の参内をさせたりしているのであった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    And he went out, his retinue so grand that it overflowed the wide grounds. The women watched from the veranda, the girl with them. She set out a Genji among her dolls and saw him off to court.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -977,7 +980,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Kotosi dani sukosi otonabi sase tamahe. Towo ni amari nuru hito ha&#44; hihinaasobi ha imi haberu mono wo. Kaku ohom-wotoko nado mauke tatematuri tamahi te ha&#44; aru bekasiu simeyaka ni te koso&#44; miye tatematura se tamaha me. Migusi mawiru hodo wo dani&#44; monouku se sase tamahu.&#34;</p>
   <p class="shibuya">　「せめて今年からはもう少し大人らしくなさいませ。十歳を過ぎた人は、お人形遊びはいけないものでございますのに。このようにお婿様をお持ち申されたからには、奥方様らしくおしとやかにお振る舞いになって、お相手申し上げあそばしませ。お髪をお直しする間さえ、お嫌がりあそばして」</p>
   <p class="yosano">　「もう今年からは少し大人におなりあそばせよ。<RUBY><RB>十歳</RB><RP>（</RP><RT>とお</RT><RP>）</RP></RUBY>より上の人はお雛様遊びをしてはよくないと世間では申しますのよ。あなた様はもう<RUBY><RB>良人</RB><RP>（</RP><RT>おっと</RT><RP>）</RP></RUBY>がいらっしゃる方なんですから、奥様らしく静かにしていらっしゃらなくてはなりません。髪をお<RUBY><RB>梳</RB><RP>（</RP><RT>す</RT><RP>）</RP></RUBY>きするのもおうるさがりになるようなことではね」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "This year you must try to be just a little more grown up,"  said Sho~nagon. "Ten years old, no, even more, and still you play with dolls. It will not do. You have a nice husband, and you must try to calm down and be a little more wifely. Why, you fly into a tantrum even when we try to brush your hair."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -993,7 +996,8 @@
   <p class="romanized">&nbsp;&nbsp;nado&#44; Seunagon kikoyu. Ohom-asobi ni nomi kokoro ire tamahe re ba&#44; hadukasi to omoha se tatematura m tote ihe ba&#44; kokoro no uti ni&#44; &#34;Ware ha&#44; saha&#44; wotoko mauke te keri. Kono hitobito no wotoko tote aru ha&#44; minikuku koso are. Ware ha kaku wokasige ni wakaki hito wo mo mo' tari keru kana!&#34; to&#44; ima zo omohosi siri keru. Sahaihedo&#44; ohom-tosi no kazu sohu sirusi na' meri kasi. Kaku wosanaki ohom-kehahi no&#44; koto ni hure te sirukere ba&#44; tono no uti no hitobito mo&#44; ayasi to omohi kere do&#44; ito kau yoduka nu ohom-sohibusi nara m to ha omoha zari keri.</p>
   <p class="shibuya">　などと少納言も、お諌め申し上げる。お人形遊びにばかり夢中になっていらっしゃるので、これではいけないと思わせ申そうと思って言うと、心の中で、「わたしは、それでは、夫君を持ったのだわ。この女房たちの夫君というのは、何と醜い人たちなのであろう。わたしは、こんなにも魅力的で若い男性を持ったのだわ」と、今になってお分かりになるのであった。何と言っても、お年を一つ取った証拠なのであろう。このように幼稚なご様子が、何かにつけてはっきり分かるので、殿の内の女房たちも変だと思ったが、とてもこのように夫婦らしくないお添い寝相手だろうとは思わなかったのである。</p>
   <p class="yosano">　などと少納言が言った。遊びにばかり夢中になっているのを恥じさせようとして言ったのであるが、女王は心の中で、私にはもう良人があるのだって、源氏の君がそうなんだ。少納言などの良人は皆醜い顔をしている、私はあんなに美しい若い人を良人にした、こんなことをはじめて思った。というのも一つ年が加わったせいかもしれない。何ということなしにこうした幼稚さが<RUBY><RB>御簾</RB><RP>（</RP><RT>みす</RT><RP>）</RP></RUBY>の外まで来る<RUBY><RB>家司</RB><RP>（</RP><RT>けいし</RT><RP>）</RP></RUBY>や侍たちにも知れてきて、怪しんではいたが、だれもまだ名ばかりの夫人であるとは知らなんだ。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">  A proper shaming was among Sho~nagon's methods.
+    So she had herself a nice husband, thought Murasaki. The husbands of these women were none of them handsome men, and hers was so very young and handsome. The thought came to her now for the first time, evidence that, for all this play with dolls, she was growing up. It sometimes puzzled her women that she should still be such a child. It did not occur to them that she was in fact not yet a wife.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1022,7 +1026,7 @@
   <p class="romanized">&nbsp;&nbsp;Uti yori Ohoidono ni makade tamahe re ba&#44; rei no uruhasiu yosohosiki ohom-sama nite&#44; kokoroutukusiki mikesiki mo naku&#44; kurusikere ba&#44;</p>
   <p class="shibuya">　宮中から大殿にご退出なさると、いつものように端然と威儀を正したご態度で、やさしいそぶりもなく窮屈なので、</p>
   <p class="yosano">　源氏は御所から左大臣家のほうへ退出した。例のように夫人からは高いところから多情男を見くだしているというようなよそよそしい態度をとられるのが苦しくて、源氏は、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    From the palace Genji went to Sanjo~. His wife, as always, showed no suggestion of warmth or affection; and as always he was uncomfortable.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1038,7 +1042,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Kotosi yori dani&#44; sukosi yoduki te aratame tamahu mikokoro miye ba&#44; ikani uresikara m.&#34;</p>
   <p class="shibuya">　「せめて今年からでも、もう少し夫婦らしく態度をお改めになるお気持ちが窺えたら、どんなにか嬉しいことでしょう」</p>
   <p class="yosano">　「せめて今年からでもあなたが暖かい心で私を見てくれるようになったらうれしいと思うのだが」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "How pleasant if this year you could manage to be a little friendlier."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1054,7 +1058,7 @@
   <p class="romanized">&nbsp;&nbsp;nado&#44; kikoye tamahe do&#44; &#34;Wazato hito suwe te&#44; kasiduki tamahu.&#34; to kiki tamahi si yori ha&#44; &#34;Yamgotonaku obosi sadame taru koto ni koso ha.&#34; to&#44; kokoro nomi oka re te&#44; itodo utoku hadukasiku obosa ru besi. Sihite mi sira nu yau ni motenasi te&#44; midare taru ohom-kehahi ni ha&#44; e simo kokoroduyokara zu&#44; ohom-irahe nado uti-kikoye tamahe ru ha&#44; naho hito yori ha ito koto nari.</p>
   <p class="shibuya">　などとお申し上げなさるが、「わざわざ女の人を置いて、かわいがっていらっしゃる」と、お聞きになってからは、「重要な夫人とお考えになってのことであろう」と、隔て心ばかりが自然と生じて、ますます疎ましく気づまりにお感じになられるのであろう。つとめて見知らないように振る舞って、冗談をおっしゃっるご様子には、強情もを張り通すこともできず、お返事などちょっと申し上げなさるところは、やはり他の女性とはとても違うのである。</p>
   <p class="yosano">　と言ったが、夫人は、二条の院へある女性が迎えられたということを聞いてからは、本邸へ置くほどの人は源氏の最も愛する人で、やがては正夫人として公表するだけの用意がある人であろうとねたんでいた。自尊心の傷つけられていることはもとよりである。しかも何も気づかないふうで、<RUBY><RB>戯談</RB><RP>（</RP><RT>じょうだん</RT><RP>）</RP></RUBY>を言いかけて行きなどする源氏に負けて、余儀なく返辞をする様子などに魅力がなくはなかった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    But since she had heard of his new lady she had become more distant than ever. She was convinced that the other was now first among his ladies, and no doubt she was as uncomfortable as he. But when he jokingly sought to make it seem that nothing was amiss, she had to answer, if reluctantly. Everything she said was uniquely, indefinably elegant.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1095,7 +1099,7 @@
   <p class="romanized">&nbsp;&nbsp;Yotose bakari ga konokami ni ohasure ba&#44; uti-sugusi&#44; hadukasige ni&#44; sakari ni totonohori te miye tamahu. &#34;Nanigoto ka ha kono hito no aka nu tokoro ha monosi tamahu. Waga kokoro no amari kesikara nu susabi ni&#44; kaku urami rare tatematuru zo kasi.&#34; to&#44; obosi sira ru. Onazi otodo to kikoyuru naka ni mo&#44; oboye yamgotonaku ohasuru ga&#44; miyabara ni hitori ituki kasiduki tamahu mikokoroogori&#44; ito koyonaku te&#44; &#34;Sukosi mo oroka naru wo ba&#44; mezamasi.&#34; to omohi kikoye tamahe ru wo&#44; Wotokogimi ha&#44; &#34;Nadoka ito sasimo&#34; to&#44; narahai tamahu&#44; mikokoro no hedate-domo naru besi.</p>
   <p class="shibuya">　四歳ほど年上でいらっしゃるので、姉様で、気後れがし、女盛りで非の打ちどころがなくお見えになる。「どこにこの人の足りないところがおありだろうか。自分のあまり良くない浮気心からこのようにお恨まれ申すのだ」と、お考えにならずにはいられない。同じ大臣と申し上げる中でも、御信望この上なくいらっしゃる方が、宮との間にお一人儲けて大切にお育てなさった気位の高さは、とても大変なもので、「少しでも疎略にするのは、失敬である」とお思い申し上げていらっしゃるのを、男君は、「どうしてそんなにまでも」と、お躾なさる、お二人の心の隔てがあるの生じさせたのであろう。</p>
   <p class="yosano">　<RUBY><RB>四歳</RB><RP>（</RP><RT>よっつ</RT><RP>）</RP></RUBY>ほどの年上であることを夫人自身でもきまずく恥ずかしく思っているが、美の整った女盛りの<RUBY><RB>貴女</RB><RP>（</RP><RT>きじょ</RT><RP>）</RP></RUBY>であることは源氏も認めているのである。どこに欠点もない妻を持っていて、ただ自分の多情からこの人に<RUBY><RB>怨</RB><RP>（</RP><RT>うら</RT><RP>）</RP></RUBY>みを負うような愚か者になっているのだとこんなふうにも源氏は思った。同じ大臣でも特に大きな権力者である現代の左大臣が父で、内親王である夫人から生まれた唯一の娘であるから、思い上がった性質にでき上がっていて、少しでも敬意の足りない取り扱いを受けては、許すことができない。<RUBY><RB>帝</RB><RP>（</RP><RT>みかど</RT><RP>）</RP></RUBY>の愛子として育った源氏の自負はそれを無視してよいと教えた。こんなことが夫妻の<RUBY><RB>溝</RB><RP>（</RP><RT>みぞ</RT><RP>）</RP></RUBY>を作っているものらしい。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> She was four years his senior and made him feel like a stripling. Where, he asked, was he to find a flaw in this perfection? Yet he seemed determined to anger her with his other affairs. She was a proud lady, the single and treasured daughter, by a princess, of a minister who overshadowed the other grandees, and she was not prepared to tolerate the smallest discourtesy. And here he was behaving as if these proud ways were his to make over. They were completely at cross purposes, he and she.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1131,7 +1135,7 @@
   <p class="romanized">&nbsp;&nbsp;Otodo mo&#44; kaku tanomosige naki mikokoro wo&#44; turasi to omohi kikoye tamahi nagara&#44; mi tatematuri tamahu toki ha&#44; urami mo wasure te&#44; kasiduki itonami kikoye tamahu. Tutomete&#44; ide tamahu tokoro ni sasi-nozoki tamahi te&#44; ohom-sauzoku si tamahu ni&#44; nadakaki ohom-obi&#44; ohom-tedukara mota se te watari tamahi te&#44; ohom-zo no usiro hiki-tukurohi nado&#44; ohom-kutu wo tora nu bakari ni si tamahu&#44; ito ahare nari.</p>
   <p class="shibuya">　大臣も、このように頼りないお気持ちを、辛いとお思い申し上げになりながらも、お目にかかりなさる時には、恨み事も忘れて、大切にお世話申し上げなさる。翌朝、お帰りになるところにお顔をお見せになって、お召し替えになる時、高名の御帯、お手ずからお持ちになってお越しになって、お召物の後ろを引き結び直しなどや、お沓までも手に取りかねないほど世話なさる、大変なお気の配りようである。</p>
   <p class="yosano">　左大臣も二条の院の新夫人の件などがあって、頼もしくない婿君の心をうらめしがりもしていたが、逢えば恨みも何も忘れて源氏を愛した。今もあらゆる歓待を尽くすのである。翌朝源氏が出て行こうとする時に、大臣は装束を着けている源氏に、有名な宝物になっている石の帯を自身で持って来て贈った。正装した源氏の<RUBY><RB>形</RB><RP>（</RP><RT>すがた</RT><RP>）</RP></RUBY>を見て、後ろのほうを手で引いて直したりなど大臣はしていた。<RUBY><RB>沓</RB><RP>（</RP><RT>くつ</RT><RP>）</RP></RUBY>も手で取らないばかりである。娘を思う親心が源氏の心を打った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Though her father too resented Genji's other affairs, he forgot his annoyance when Genji was here beside him, and no service seemed too great or too small. As Genji prepared to leave for court the next day, the minister looked in upon him, bringing a famous belt for him to wear with his court dress, straightening his train, as much as helping him into his shoes. One almost felt something pathetic in this eagerness.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1152,7 +1156,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Kore ha&#44; naien nado ihu koto mo haberu naru wo&#44; sayau no wori ni koso.&#34;</p>
   <p class="shibuya">　「これは、内宴などということもございますそうですから、そのような折にでも」</p>
   <p class="yosano">　「こんないいのは、宮中の詩会があるでしょうから、その時に使いましょう」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I'll wear it to His Majesty's family dinner later in the month," *</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1168,7 +1172,7 @@
   <p class="romanized">&nbsp;&nbsp;nado kikoye tamahe ba&#44;</p>
   <p class="shibuya">　などとお申し上げなさると、</p>
   <p class="yosano">　と贈り物の帯について言うと、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">said Genji.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1184,7 +1188,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Sore ha&#44; masare ru mo haberi. Kore ha tada me nare nu sama nare ba nam.&#34;</p>
   <p class="shibuya">　「その時には、もっと良いものがございます。これはちょっと目新しい感じのするだけのものですから」</p>
   <p class="yosano">　「それにはまたもっといいのがございます。これはただちょっと珍しいだけの物です」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "There are other belts that would do far more honor to such an occasion."  The minister insisted that he wear it. "It is a little unusual, thatis all."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1200,7 +1204,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; sihite sasa se tatematuri tamahu. Geni&#44; yorodu ni kasiduki tate te mi tatematuri tamahu ni&#44; ikeru kahi ari&#44; &#34;Tamasaka ni te mo&#44; kakara m hito wo idasi ire te mi m ni&#44; masu koto ara zi.&#34; to miye tamahu.</p>
   <p class="shibuya">　と言って、無理にお締め申し上げなさる。なるほど、万事にお世話して拝見なさると、生き甲斐が感じられ、「たまさかであっても、このような方をお出入りさせてお世話するのに、これ以上の喜びはあるまい」とお見えである。</p>
   <p class="yosano">　と言って、大臣はしいてそれを使わせた。この婿君を<RUBY><RB>斎</RB><RP>（</RP><RT>かしず</RT><RP>）</RP></RUBY>くことに大臣は生きがいを感じていた。たまさかにもせよ婿としてこの人を出入りさせていれば幸福感は十分大臣にあるであろうと見えた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Sometimes it was as if being of service to Genji were his whole life. There could be no greater pleasure than having such a son and brother, little though the Sanjo~ family saw of him.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1225,7 +1229,7 @@
   <p class="romanized">&nbsp;&nbsp;Sanza si ni tote mo&#44; amata tokoro mo ariki tamaha zu&#44; Uti&#44; Touguu&#44; Itinowin bakari&#44; sateha&#44; Huditubo no Samdeunomiya ni zo mawiri tamahe ru.</p>
   <p class="shibuya">　参賀のご挨拶といっても、多くの所にはお出かけにならず、内裏、春宮、一院だけ、その他では、藤壷の三条の宮にお伺いなさる。</p>
   <p class="yosano">　源氏の参賀の場所は数多くもなかった。東宮、一院、それから藤壺の三条の宮へ行った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Genji did not pay many New Year calls. He called upon his father, the crown prince, the old emperor,+ and, finally, Fujitsubo, still with her family.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1246,7 +1250,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Kehu ha mata koto ni mo miye tamahu kana!&#34;</p>
   <p class="shibuya">　「今日はまた格別にお見えでいらっしゃるわ」</p>
   <p class="yosano">　「今日はまたことにおきれいに見えますね、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Her women thought him handsomer than ever.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1262,7 +1266,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Nebi tamahu mama ni&#44; yuyusiki made nari masari tamahu ohom-arisama kana!&#34;</p>
   <p class="shibuya">　「ご成長されるに従って、恐いまでにお美しくおなりでいらっしゃるご様子ですわ」</p>
   <p class="yosano">　年がお行きになればなるほどごりっぱにおなりになる方なんですね」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Yes, each year, as he matured, his good looks produced a stronger shudder of delight and foreboding.</p>
   
 </div>
 
@@ -1271,7 +1275,7 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; hitobito mede kikoyuru wo&#44; Miya&#44; kityau no hima yori&#44; hono-mi tamahu ni tuke te mo&#44; omohosu koto sigekari keri.</p>
   <p class="shibuya">　と、女房たちがお褒め申し上げているのを、宮、几帳の隙間からわずかにお姿を御覧になるにつけても、物思いなさることが多いのであった。</p>
   <p class="yosano">　女房たちがこうささやいている時に、宮はわずかな<RUBY><RB>几帳</RB><RP>（</RP><RT>きちょう</RT><RP>）</RP></RUBY>の間から源氏の顔をほのかに見て、お心にはいろいろなことが思われた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Fujitsubo was assailed by innumerable conflicting thoughts.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1287,7 +1291,7 @@
   <p class="romanized">&nbsp;&nbsp;Kono ohom-koto no&#44; sihasu mo sugi ni si ga&#44; kokoromotonaki ni&#44; kono tuki ha saritomo to&#44; Miyabito mo mati kikoye&#44; uti ni mo&#44; saru mikokoro mauke-domo ari&#44; turenaku te tati nu. &#34;Ohom-mononoke ni ya?&#34; to&#44; yohito mo kikoye sawagu wo&#44; Miya&#44; ito wabisiu&#44; &#34;Kono koto ni yori&#44; mi no itadura ni nari nu beki koto.&#34; to obosi nageku ni&#44; mikokoti mo ito kurusiku te nayami tamahu.</p>
   <p class="shibuya">　御出産の予定の、十二月も過ぎてしまったのが、気がかりで、今月はいくら何でもと、宮家の人々もお待ち申し上げ、主上におかれても、そのお心づもりでいるのに、何事もなく過ぎてしまった。「御物の怪のせいであろうか」と、世間の人々もお噂申し上げるのを、宮、とても身にこたえてつらく、「このお産のために、命を落とすことになってしまいそうだ」と、お嘆きになると、ご気分もとても苦しくてお悩みになる。</p>
   <p class="yosano">　御出産のあるべきはずの十二月を過ぎ、この月こそと用意して三条の宮の人々も待ち、<RUBY><RB>帝</RB><RP>（</RP><RT>みかど</RT><RP>）</RP></RUBY>もすでに、皇子女御出生についてのお心づもりをしておいでになったが、何ともなくて一月もたった。<RUBY><RB>物怪</RB><RP>（</RP><RT>もののけ</RT><RP>）</RP></RUBY>が御出産を遅れさせているのであろうかとも世間で<RUBY><RB>噂</RB><RP>（</RP><RT>うわさ</RT><RP>）</RP></RUBY>をする時、宮のお心は非常に苦しかった。このことによって救われない悪名を負う人になるのかと、こんな<RUBY><RB>煩悶</RB><RP>（</RP><RT>はんもん</RT><RP>）</RP></RUBY>をされることが自然おからだにさわってお加減も悪いのであった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The Twelfth Month, when she was to have been delivered of her child, had passed uneventfully. Surely it would be this month, said her women, and at court everything was in readiness; but the First Month too passed without event. She was greatly troubled by rumors that she had fallen under a malign influence. Her worries had made her physically ill and she began to wonder if the end was in sight. </p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1323,7 +1327,7 @@
   <p class="romanized">&nbsp;&nbsp;Tyuuzyaunokimi ha&#44; itodo omohi ahase te&#44; misuhohu nado&#44; sa to ha naku te tokorodokoro ni se sase tamahu. &#34;Yononaka no sadame naki ni tuke te mo&#44; kaku hakanaku te ya yami na m?&#34; to&#44; tori-atume te nageki tamahu ni&#44; nigwatu zihuyoniti no hodo ni&#44; Wotokomiko mumare tamahi nure ba&#44; nagori naku&#44; uti ni mo miyabito mo yorokobi kikoye tamahu.</p>
   <p class="shibuya">　中将の君は、ますます思い当たって、御修法などを、はっきりと事情は知らせずに方々の寺々におさせになる。「世の無常につけても、このままはかなく終わってしまうのだろうか」と、あれやこれやとお嘆きになっていると、二月十日過ぎのころに、男御子がお生まれになったので、すっかり心配も消えて、宮中でも宮家の人々もお喜び申し上げなさる。</p>
   <p class="yosano">　それを聞いても源氏はいろいろと思い合わすことがあって、目だたぬように産婦の宮のために<RUBY><RB>修法</RB><RP>（</RP><RT>しゅほう</RT><RP>）</RP></RUBY>などをあちこちの寺でさせていた。この間に御病気で宮が<RUBY><RB>亡</RB><RP>（</RP><RT>な</RT><RP>）</RP></RUBY>くなっておしまいにならぬかという不安が、源氏の心をいっそう暗くさせていたが、二月の十幾日に皇子が御誕生になったので、帝も御満足をあそばし、三条の宮の人たちも<RUBY><RB>愁眉</RB><RP>（</RP><RT>しゅうび</RT><RP>）</RP></RUBY>を開いた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">More and more certain as time passed that the child was his, Genji quietly commissioned services in various temples. More keenly aware than most of the evanescence of things, he now found added to his worries a fear that he would not see her again. Finally toward the end of the Second Month she bore a prince, and the jubilation was unbounded at court and at her family palace.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1359,7 +1363,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Inoti nagaku mo&#34; to omohosu ha kokoroukere do&#44; &#34;Koukiden nado no&#44; ukehasige ni notamahu.&#34; to kiki si wo&#44; &#34;Munasiku kiki nasi tamaha masika ba&#44; hitowaraha re ni ya.&#34; to obosi tuyori te nam&#44; yauyau sukosi dutu sahayai tamahi keru. </p>
   <p class="shibuya">　「長生きを」とお思いなさるのは、つらいことだが、「弘徽殿などが、呪わしそうにおっしゃっている」と聞いたので、「死んだとお聞きになったならば、物笑いの種になろう」と、お気を強くお持ちになって、だんだん少しずつ気分が快方に向かっていかれたのであった。</p>
   <p class="yosano">　なお生きようとする自分の心は未練で恥ずかしいが、<RUBY><RB>弘徽殿</RB><RP>（</RP><RT>こきでん</RT><RP>）</RP></RUBY>あたりで言う<RUBY><RB>詛</RB><RP>（</RP><RT>のろ</RT><RP>）</RP></RUBY>いの言葉が伝えられている時に自分が死んでしまってはみじめな者として笑われるばかりであるから、とそうお思いになった時からつとめて今は死ぬまいと強くおなりになって、御衰弱も少しずつ<RUBY><RB>恢復</RB><RP>（</RP><RT>かいふく</RT><RP>）</RP></RUBY>していった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> She had not joined the emperor in praying that she be granted a long life, and yet she did not want to please Kokiden, an echo of whose curses had reached her. The will to live returned, and little by little she recovered.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1380,7 +1384,7 @@
   <p class="romanized">&nbsp;&nbsp;Uhe no&#44; itusika to yukasige ni obosimesi taru koto&#44; kagiri nasi. Kano&#44; hito sire nu mikokoro ni mo&#44; imiziu kokoromotonaku te&#44; hitoma ni mawiri tamahi te&#44;</p>
   <p class="shibuya">　お上が、早く御子を御覧になりたいとおぼし召されること、この上ない。あの、密かなお気持ちとしても、ひどく気がかりで、人のいない時に参上なさって、</p>
   <p class="yosano">　帝は新皇子を非常に御覧になりたがっておいでになった。人知れぬ父性愛の火に心を燃やしながら源氏は伺候者の少ない<RUBY><RB>隙</RB><RP>（</RP><RT>すき</RT><RP>）</RP></RUBY>をうかがって行った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The emperor wanted to see his little son the earliest day possible. Genji, filled with his own secret paternal solicitude, visited Fujitsubo at a time when he judged she would not have other visitors.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1401,7 +1405,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Uhe no obotukanagari kikoyesase tamahu wo&#44; madu mi tatematuri te kuhasiku sousi habera m.&#34;</p>
   <p class="shibuya">　「お上が御覧になりたくあそばしてますので、まず拝見して詳しく奏上しましょう」</p>
   <p class="yosano">　「陛下が若宮にどんなにお逢いになりたがっていらっしゃるかもしれません。それで私がまずお目にかかりまして御様子でも申し上げたらよろしいかと思います」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Father is extremely anxious to see the child. perhaps I might have a look at him first and present a report."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1422,7 +1426,7 @@
   <p class="romanized">&nbsp;&nbsp;to kikoye tamahe do&#44; </p>
   <p class="shibuya">　と申し上げなさるが、</p>
   <p class="yosano">　と源氏は申し込んだのであるが、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    She refused his request, as of course she had every right to do.</p>
   
 </div>
 
@@ -1431,7 +1435,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Mutukasige naru hodo nare ba.&#34;</p>
   <p class="shibuya">　「まだ見苦しい程ですので」</p>
   <p class="yosano">　「まだお生まれたての方というものは醜うございますからお見せしたくございません」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "He is still very shriveled and ugly."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1447,7 +1451,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; mise tatematuri tamaha nu mo&#44; kotowari nari. Saruha&#44; ito asamasiu&#44; meduraka naru made utusi tori tamahe ru sama&#44; tagahu beku mo ara zu. Miya no&#44; mikokoro no oni ni ito kurusiku&#44; &#34;Hito no mi tatematuru mo&#44; ayasikari turu hodo no ayamari wo&#44; masani hito no omohi togame zi ya? Saranu hakanaki koto wo dani&#44; kizu wo motomuru yo ni&#44; ika naru na no tuhini mori-idu beki ni ka.&#34; to obosi tudukuru ni&#44; mi nomi zo ito kokorouki.</p>
   <p class="shibuya">　と言って、お見せ申し上げなさらないのも、ごもっともである。実のところ、とても驚くほど珍しいまでに生き写しでいらっしゃる顔形、紛うはずもない。宮が、良心の呵責にとても苦しく、「女房たちが拝見しても、不審に思われた月勘定の狂いを、どうして変だと思い当たらないだろうか。それほどでないつまらないことでさえも、欠点を探し出そうとする世の中で、どのような噂がしまいには世に漏れようか」と思い続けなさると、わが身だけがとても情けない。</p>
   <p class="yosano">　という母宮の御挨拶で、お見せにならないのにも理由があった。それは若宮のお顔が驚くほど源氏に生き写しであって、別のものとは決して見えなかったからである。宮はお心の鬼からこれを苦痛にしておいでになった。この若宮を見て自分の過失に気づかぬ人はないであろう、何でもないことも捜し出して人をとがめようとするのが世の中である。どんな悪名を自分は受けることかとお思いになると、結局不幸な者は自分であると熱い涙がこぼれるのであった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    There was no doubt that the child bore a marked, indeed a rather wonderful, resemblance to Genji. Fujitsubo was tormented by feelings of guilt and apprehension. Surely everyone who saw the child would guess the awful truth and damn her for it. People were always happy to seek out the smallest and most trivial of misdeeds. Hers had not been trivial, and dreadful rumors must surely be going the rounds. Had ever a woman been more sorely tried?</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1498,7 +1502,7 @@
   <p class="romanized">&nbsp;&nbsp;Myaubunokimi ni&#44; tamasaka ni ahi tamahi te&#44; imiziki koto-domo wo tukusi tamahe do&#44; nani no kahi aru beki ni mo ara zu. Wakamiya no ohom-koto wo&#44; warinaku obotukanagari kikoye tamahe ba&#44;</p>
   <p class="shibuya">　命婦の君に、まれにお会いになって、切ない言葉を尽くしてお頼みなさるが、何の効果があるはずもない。若宮のお身の上を無性に御覧になりたくお訴え申し上げなさるので、</p>
   <p class="yosano">源氏は<RUBY><RB>稀</RB><RP>（</RP><RT>まれ</RT><RP>）</RP></RUBY>に都合よく王命婦が呼び出された時には、いろいろと言葉を尽くして宮にお逢いさせてくれと頼むのであるが、今はもう何のかいもなかった。新皇子拝見を望むことに対しては、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Genji occasionally saw Omyo~bu and pleaded that she intercede for him; but there was nothing she could do.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1519,7 +1523,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Nado&#44; kau simo anagati ni notamahasu ram. Ima&#44; onodukara mi tatematura se tamahi te m.&#34;</p>
   <p class="shibuya">　「どうして、こうまでもご無理を仰せあそばすのでしょう。そのうち、自然に御覧あそばされましょう」</p>
   <p class="yosano">　「なぜそんなにまでおっしゃるのでしょう。自然にその日が参るのではございませんか」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "This insistence, my lord, is very trying,"  she said, at his constant and passionate pleas to see the child. "You will have chances enough later."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1535,7 +1539,7 @@
   <p class="romanized">&nbsp;&nbsp;to kikoye nagara&#44; omohe ru kesiki&#44; katamini tada nara zu. Kataharaitaki koto nare ba&#44; maho ni mo e notamaha de&#44;</p>
   <p class="shibuya">　と申し上げながら、悩んでいる様子、お互いに一通りでない。気が引ける事柄なので、正面切っておっしゃれず、</p>
   <p class="yosano">　と答えていたが、無言で二人が読み合っている心が別にあった。口で言うべきことではないから、そのほうのことはまた言葉にしにくかった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Yet secretly she was as unhappy as he was.</p>
   
 </div>
 
@@ -1544,7 +1548,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ika nara m yo ni&#44; hitodute nara de&#44; kikoye sase m.&#34;</p>
   <p class="shibuya">　「いったいいつになったら、直接に、お話し申し上げることができるのだろう」</p>
   <p class="yosano">　「いつまた私たちは直接にお話ができるのだろう」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "In what world, I wonder, will I again be allowed to see her?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1560,7 +1564,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; nai tamahu sama zo&#44; kokorogurusiki.</p>
   <p class="shibuya">と言ってお泣きになる姿、お気の毒である。</p>
   <p class="yosano">　と言って泣く源氏が王命婦の目には気の毒でならない。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">The heart of the matter was too delicate to touch upon.</p>
   
 </div>
 
@@ -1569,7 +1573,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Ika sama ni mukasi musube ru tigiri ni te<BR>&nbsp;&nbsp;&nbsp;&nbsp;Konoyo ni kakaru naka no hedate zo</p>
   <p class="shibuya">　「どのように前世で約束を交わした縁で<BR>　　この世にこのような二人の仲に隔てがあるのだろうか</p>
   <p class="yosano">　　「いかさまに昔結べる契りにて<BR>　　この世にかかる中の隔てぞ<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">           "What legacy do we bring from former lives<br>        That loneliness should be our lot in this one?</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1585,7 +1589,7 @@
   <p class="romanized">&nbsp;&nbsp;Kakaru koto koso kokoroe gatakere.&#34;</p>
   <p class="shibuya">　このような隔ては納得がいかない」</p>
   <p class="yosano">　わからない、わからない」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I do not understand. I do not understand at all."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1610,7 +1614,7 @@
   <p class="romanized">&nbsp;&nbsp;Myaubu mo&#44; Miya no omohosi taru sama nado wo mi tatematuru ni&#44; e hasitanau mo sasi-hanati kikoye zu.</p>
   <p class="shibuya">　命婦も、宮のお悩みでいらっしゃる様子などを拝見しているので、そっけなく突き放してお扱い申し上げることもできない。</p>
   <p class="yosano">　命婦は宮の御<RUBY><RB>煩悶</RB><RP>（</RP><RT>はんもん</RT><RP>）</RP></RUBY>をよく知っていて、それだけ告げるのが恋の<RUBY><RB>仲介</RB><RP>（</RP><RT>なかだち</RT><RP>）</RP></RUBY>をした者の義務だと思った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    His tears brought her to the point of tears herself. Knowing how unhappy her lady was, she could not bring herself to turn him brusquely away.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1631,7 +1635,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Mi te mo omohu mi nu hata ikani nageku ram<BR>&nbsp;&nbsp;&nbsp;&nbsp;koya yonohito no madohu tehu yami</p>
   <p class="shibuya">　「御覧になっている方も物思をされています。御覧にならないあなたはまたどんなにお嘆きのことでしょう<BR>　　これが世の人が言う親心の闇でしょうか</p>
   <p class="yosano">　「見ても思ふ見ぬはたいかに<RUBY><RB>歎</RB><RP>（</RP><RT>なげ</RT><RP>）</RP></RUBY>くらん<BR>　　こや世の人の惑ふてふ<RUBY><RB>闇</RB><RP>（</RP><RT>やみ</RT><RP>）</RP></RUBY><BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">        "Sad at seeing the child, sad at not seeing.<br>    The heart of the father, the mother, lost in darkness." *</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1647,7 +1651,7 @@
   <p class="romanized">&nbsp;&nbsp;Ahare ni&#44; kokoro yurubi naki ohom-koto-domo kana!&#34;</p>
   <p class="shibuya">　おいたわしい、お心の休まらないお二方ですこと」</p>
   <p class="yosano">　どちらも同じほどお気の毒だと思います」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    And she added softly: "There seems to be no lessening of the pain for either of you."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1672,7 +1676,7 @@
   <p class="romanized">&nbsp;&nbsp;Kaku nomi ihiyaru kata naku te&#44; kaheri tamahu monokara&#44; hito no mono-ihi mo wadurahasiki wo&#44; warinaki koto ni notamaha se obosi te&#44; Myaubu wo mo&#44; mukasi oboyi tari si yau ni mo&#44; utitoke  mutubi tamaha zu. Hitome tatu maziku&#44; nadaraka ni motenasi tamahu monokara&#44; kokorodukinasi to obosu toki mo aru beki wo&#44; ito wabisiku omohi no hoka naru kokoti su besi.</p>
   <p class="shibuya">　このように何とも申し上げるすべもなくて、お帰りになるものの、世間の人々の噂も煩わしいので、無理無体なことにおっしゃりもし、お考えにもなって、命婦をも、以前信頼していたように気を許してお近づけなさらない。人目に立たないように、穏やかにお接しになる一方で、気に食わないとお思いになる時もあるはずなのを、とても身にこたえて思ってもみなかった心地がするようである。</p>
   <p class="yosano">　取りつき所もないように源氏が悲しんで帰って行くことも、度が重なれば<RUBY><RB>邸</RB><RP>（</RP><RT>やしき</RT><RP>）</RP></RUBY>の者も不審を起こしはせぬかと宮は心配しておいでになって王命婦をも昔ほどお愛しにはならない。目に立つことをはばかって何ともお言いにはならないが、源氏への同情者として宮のお心では命婦をお憎みになることもあるらしいのを、命婦はわびしく思っていた。意外なことにもなるものであると<RUBY><RB>歎</RB><RP>（</RP><RT>なげ</RT><RP>）</RP></RUBY>かれたであろうと思われる。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    She saw him off, quite unable to help him. Her lady had said that because of the danger of gossip she could not receive him again, and she no longer behaved toward Omyo~bu with the old affection. She behaved correctly, it was true, and did nothing that might attract attention, but Omyo~bu had done things to displease her. Omyo~bu was very sorry for them.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1697,7 +1701,7 @@
   <p class="romanized">&nbsp;&nbsp;Uduki ni uti he mawiri tamahu. Hodo yori ha ohoki ni oyosuke tamahi te&#44; yauyau okikaheri nado si tamahu. Asamasiki made&#44; magiredokoro naki ohom-kahotuki wo&#44; obosi yora nu koto ni si are ba&#44; &#34;Mata narabinaki-doti ha&#44; geni kayohi tamaheru ni koso ha.&#34; to&#44; omohosi keri. Imiziu omohosi kasiduku koto&#44; kagiri nasi. Genzinokimi wo&#44; kagirinaki mono ni obosimesi nagara&#44; yo no hito no yurusi kikoyu mazikari si ni yori te&#44; bau ni mo suwe tatematura zu nari ni si wo&#44; akazu kutiwosiu&#44; tadaudo nite katazikenaki ohom-arisama&#44; katati ni&#44; nebi mote ohasuru wo goranzuru mama ni&#44; kokorogurusiku obosimesu wo&#44; &#34;Kau yamgotonaki ohom-hara ni&#44; onazi hikari ni te sasi-ide tamahe re ba&#44; kizu naki tama.&#34; to obosi kasiduku ni&#44; Miya ha ika naru ni tuke te mo&#44; mune no hima naku&#44; yasukara zu mono wo omohosu.</p>
   <p class="shibuya">　四月に参内なさる。日数の割には大きく成長なさっていて、だんだん寝返りなどをお打ちになる。驚きあきれるくらい、間違いようもないお顔つきを、ご存知ないことなので、「他に類のない美しい人どうしというのは、なるほど似通っていらっしゃるものだ」と、お思いあそばすのであった。たいそう大切にお慈しみになること、この上もない。源氏の君を、限りなくかわいい人と愛していらっしゃりながら、世間の人々のがご賛成申し上げそうになかったことによって、坊にもお据え申し上げられずに終わったことを、どこまでも残念に、臣下としてもったいないご様子、容貌で、ご成人していらっしゃるのを御覧になるにつけ、おいたわしくおぼし召されるので、「このように高貴な人から、同様に光り輝いてお生まれになったので、疵のない玉だ」と、お思いあそばして大切になさるので、宮は何につけても、胸の痛みの消える間もなく、不安な思いをしていらっしゃる。</p>
   <p class="yosano">　四月に若宮は母宮につれられて宮中へおはいりになった。普通の<RUBY><RB>乳児</RB><RP>（</RP><RT>ちのみご</RT><RP>）</RP></RUBY>よりはずっと大きく<RUBY><RB>小児</RB><RP>（</RP><RT>こども</RT><RP>）</RP></RUBY>らしくなっておいでになって、このごろはもうからだを起き返らせるようにもされるのであった。紛らわしようもない若宮のお顔つきであったが、帝には思いも寄らぬことでおありになって、すぐれた子どうしは似たものであるらしいと<RUBY><RB>思召</RB><RP>（</RP><RT>おぼしめ</RT><RP>）</RP></RUBY>した。帝は新皇子をこの上なく御大切にあそばされた。源氏の君を非常に愛しておいでになりながら、東宮にお立てになることは世上の批難を恐れて御実行ができなかったのを、帝は常に終生の遺憾事に思召して、長じてますます王者らしい<RUBY><RB>風貌</RB><RP>（</RP><RT>ふうぼう</RT><RP>）</RP></RUBY>の備わっていくのを御覧になっては心苦しさに堪えないように思召したのであるが、こんな尊貴な女御から同じ美貌の皇子が新しくお生まれになったのであるから、これこそは<RUBY><RB>瑕</RB><RP>（</RP><RT>きず</RT><RP>）</RP></RUBY>なき玉であると御<RUBY><RB>寵愛</RB><RP>（</RP><RT>ちょうあい</RT><RP>）</RP></RUBY>になる。女御の宮はそれをまた苦痛に思っておいでになった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    In the Fourth Month the little prince was brought to the palace. Advanced for his age both mentally and physically, he was already able to sit up and to right himself when he rolled over. He was strikingly like Genji. Unaware of the truth, the emperor would say to himself that people of remarkable good looks did have a way of looking alike. He doted upon the child. He had similarly doted upon Genji, but, because of strong opposition--and how deeply he regretted the fact--had been unable to make him crown prince. The regret increased as Genji, now a commoner, improved in looks and in accomplishments. And now a lady of the highest birth had borne the emperor another radiant son. The infant was for him an unflawed jewel, for Fujitsubo a source of boundless guilt and foreboding.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1723,7 +1727,7 @@
   <p class="romanized">&nbsp;&nbsp;Rei no&#44; Tiuzyaunokimi&#44; konata nite ohom-asobi nado si tamahu ni&#44; idaki ide tatematura se tamahi te&#44;</p>
   <p class="shibuya">　いつものように、中将の君が、こちらで管弦のお遊びをなさっていると、お抱き申し上げあそばされて、</p>
   <p class="yosano">　源氏の中将が音楽の遊びなどに参会している時などに帝は抱いておいでになって、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    One day, as he often did, Genji was enjoying music in Fujitsubo's apartments. The emperor came out with the little boy in his arms.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1749,7 +1753,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Miko-tati&#44; amata are do&#44; soko wo nomi nam&#44; kakaru hodo yori akekure mi si. Sareba&#44; omohi watasa ruru ni ya ara m? Ito yoku koso oboye tare. Ito tihisaki hodo ha&#44; mina kaku nomi aru waza ni ya ara m?&#34;</p>
   <p class="shibuya">　「御子たち、大勢いるが、そなただけを、このように小さい時から明け暮れ見てきた。それゆえ、思い出されるのだろうか。とてもよく似て見える。とても幼いうちは皆このように見えるのであろうか」</p>
   <p class="yosano">　「私は子供がたくさんあるが、おまえだけをこんなに小さい時から毎日見た。だから同じように思うのかよく似た気がする。小さい間は皆こんなものだろうか」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I have had many sons, but you were the only one I paid a great deal of attention to when you were this small. perhaps it is the memory of those days that makes me think he looks like you. Is it that all children look alike when they are very young?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1770,7 +1774,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; imiziku utukusi to omohi kikoye sase tamahe ri.</p>
   <p class="shibuya">　と言って、たいそうかわいらしいとお思い申し上げあそばされている。</p>
   <p class="yosano">　とお言いになって、非常にかわいくお思いになる様子が拝された。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">He made no attempt to hide his pleasure in the child.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1786,7 +1790,7 @@
   <p class="romanized">&nbsp;&nbsp;Tyuuzyaunokimi&#44; omote no iro kaharu kokoti si te&#44; osorosiu mo&#44; katazikenaku mo&#44; uresiku mo&#44; ahare ni mo&#44; katagata uturohu kokoti si te&#44; namida oti nu besi. Monogatari nado si te&#44; uti-wemi tamahe ru ga&#44; ito yuyusiu utukusiki ni&#44; waga mi nagara&#44; kore ni ni tara m ha imiziu itahasiu oboye tamahu zo&#44; anagati naru ya! Miya ha&#44; warinaku kataharaitaki ni&#44; ase mo nagare te zo ohasi keru. Tyuuzyau ha&#44; nakanaka naru kokoti no&#44; midaru yau nare ba&#44; makade tamahi nu.</p>
   <p class="shibuya">　中将の君は、顔色が変っていく心地がして、恐ろしくも、かたじけなくも、嬉しくも、哀れにも、あちこちと揺れ動く思いで、涙が落ちてしまいそうである。お声を上げたりして、にこにこしていらっしゃる様子が、とても恐いまでにかわいらしいので、自分ながら、この宮に似ているのは大変にもったいなくお思いになるとは、身贔屓に過ぎるというものであるよ。宮は、どうにもいたたまれない心地がして、冷汗をお流しになっているのであった。中将は、かえって複雑な思いが、乱れるようなので、退出なさった。</p>
   <p class="yosano">　源氏は顔の色も変わる気がしておそろしくも、もったいなくも、うれしくも、身にしむようにもいろいろに思って涙がこぼれそうだった。ものを言うようなかっこうにお口をお動かしになるのが非常にお美しかったから、自分ながらもこの顔に似ているといわれる顔は尊重すべきであるとも思った。宮はあまりの片腹痛さに汗を流しておいでになった。源氏は若宮を見て、また予期しない父性愛の心を乱すもののあるのに気がついて退出してしまった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Genji felt himself flushing crimson. He was frightened and awed and pleased and touched, all at the same time, and there were tears in his eyes. Laughing and babbling, the child was so beautiful as to arouse fears that he would not be long in this world. If indeed he resembled the child, thought Genji, then he must be very handsome. He must take better care of himself. (He seemed a little self-satisfied at times.) Fujitsubo was in such acute discomfort that she felt herself breaking into a cold sweat. Eager though he had been to see the child, Genji left in great agitation.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1832,7 +1836,7 @@
   <p class="romanized">&nbsp;&nbsp;Waga ohom-kata ni husi tamahi te&#44; &#34;Mune no yaru kata naki hodo sugusi te&#44; Ohoidono he.&#34; to obosu. Omahe no sensai no&#44; nani to naku awomi watare ru naka ni&#44; tokonatu no hanayaka ni saki ide taru wo&#44; wora se tamahi te&#44; Myaubunokimi no moto ni&#44; kaki tamahu koto&#44; ohokaru besi.</p>
   <p class="shibuya">　ご自邸でお臥せりになって、「胸のどうにもならない悩みが収まってから、大殿へ出向こう」とお思いになる。お庭先の前栽が、どことなく青々と見渡される中に、常夏の花がぱあっと色美しく咲き出しているのを、折らせなさって、命婦の君のもとに、お書きになること、多くあるようだ。</p>
   <p class="yosano">　源氏は二条の院の東の<RUBY><RB>対</RB><RP>（</RP><RT>たい</RT><RP>）</RP></RUBY>に帰って、苦しい胸を休めてから後刻になって左大臣家へ行こうと思っていた。前の庭の植え込みの中に何木となく、何草となく青くなっている中に、目だつ色を作って咲いた<RUBY><RB>撫子</RB><RP>（</RP><RT>なでしこ</RT><RP>）</RP></RUBY>を折って、それに添える手紙を長く<RUBY><RB>王命婦</RB><RP>（</RP><RT>おうみょうぶ</RT><RP>）</RP></RUBY>へ書いた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    He returned to Nijo~, thinking that when the agitation had subsided he would proceed to Sanjo~ and pay his wife a visit. In near the verandas the garden was a rich green, dotted with wild carnations. He broke a few off and sent them to Omyo~bu, and it would seem that he also sent a long and detailed letter, including this message for her lady:</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1858,7 +1862,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Yosohe tutu miru ni kokoro ha nagusama de<BR>&nbsp;&nbsp;&nbsp;&nbsp;tuyukesa masaru nadesiko no hana</p>
   <p class="shibuya">　「思いよそえて見ているが、気持ちは慰まず<BR>　　涙を催させる撫子の花の花であるよ</p>
   <p class="yosano">　　よそへつつ見るに心も慰まで<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">           "It resembles you, I think, this wild carnation,<br>          Weighted with my tears as with the dew.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1874,7 +1878,7 @@
   <p class="romanized">&nbsp;&nbsp;Hana ni saka nam&#44; to omohi tamahe si mo&#44; kahinaki yo ni haberi kere ba.&#34;</p>
   <p class="shibuya">　花と咲いてほしい、と存じておりましたが、効ない二人の仲でしたので」</p>
   <p class="yosano">　　露けさまさる撫子の花<BR>　花を子のように思って愛することはついに不可能であることを知りました。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "'I know that when it blossoms at my hedge'*--but could any two be as much and as little to each other as we have been?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1890,7 +1894,7 @@
   <p class="romanized">&nbsp;&nbsp;to ari. Sarinubeki hima ni ya ari kem&#44; goranze sase te&#44;</p>
   <p class="shibuya">　とある。ちょうど人のいない時であったのであろうか、御覧に入れて、</p>
   <p class="yosano">　とも書かれてあった。だれも来ぬ<RUBY><RB>隙</RB><RP>（</RP><RT>すき</RT><RP>）</RP></RUBY>があったか命婦はそれを宮のお目にかけて、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    perhaps because the occasion seemed right, Omyo~bu showed the letter to her lady.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1906,7 +1910,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Tada tiri bakari&#44; kono hanabira ni.&#34;</p>
   <p class="shibuya">　「ほんの塵ほどでも、この花びらに」</p>
   <p class="yosano">　「ほんの<RUBY><RB>塵</RB><RP>（</RP><RT>ちり</RT><RP>）</RP></RUBY>ほどのこのお返事を書いてくださいませんか。この<RUBY><RB>花片</RB><RP>（</RP><RT>はなびら</RT><RP>）</RP></RUBY>にお書きになるほど、少しばかり」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Do please answer him,"  she said, "if with something of no more weight than the dust on these petals."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1922,7 +1926,7 @@
   <p class="romanized">&nbsp;&nbsp;to kikoyuru wo&#44; waga mikokoro ni mo&#44; mono ito ahare ni obosi sira ruru hodo ni te&#44;</p>
   <p class="shibuya">　と申し上げるが、ご本人にも、もの悲しく思わずにはいらっしゃれない時なので、</p>
   <p class="yosano">　と申し上げた。宮もしみじみお悲しい時であった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Herself prey to violent emotions, Fujitsubo did send back an answer, a brief and fragmentary one, in a very faint hand:</p>
   
 </div>
 
@@ -1931,7 +1935,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Sode nururu tuyu no yukari to omohu ni mo<BR>&nbsp;&nbsp;&nbsp;&nbsp;naho utomare nu yamatonadesiko</p>
   <p class="shibuya">　「袖を濡らしている方の縁と思うにつけても<BR>　やはり疎ましくなってしまう大和撫子です」</p>
   <p class="yosano">　　<RUBY><RB>袖</RB><RP>（</RP><RT>そで</RT><RP>）</RP></RUBY><RUBY><RB>濡</RB><RP>（</RP><RT>ぬ</RT><RP>）</RP></RUBY>るる露のゆかりと思ふにも<BR>　　ふにもなほうとまれぬやまと撫子<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">           "It serves you ill, the Japanese carnation,<br>          To make you weep. Yet I shall not forsake it."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1947,7 +1951,7 @@
   <p class="romanized">&nbsp;&nbsp;to bakari&#44; honoka ni kaki sasi taru yau naru wo&#44; yorokobi nagara tatemature ru&#44; &#34;Rei no kotonare ba&#44; sirusi ara zi kasi.&#34; to&#44; kuduhore te nagame husi tamahe ru ni&#44; mune uti-sawagi te&#44; imiziku uresiki ni mo namida oti nu.</p>
   <p class="shibuya">　とだけ、かすかに中途で書き止めたような歌を、喜びながら差し上げたが、「いつものことで、返事はあるまい」と、力なくぼんやりと臥せっていらっしゃったところに、胸をときめかして、たいそう嬉しいので、涙がこぼれた。</p>
   <p class="yosano">　とだけ、ほのかに、書きつぶしのもののように書かれてある紙を、喜びながら命婦は源氏へ送った。例のように返事のないことを予期して、なおも悲しみくずおれている時に宮の御返事が届けられたのである。胸騒ぎがしてこの非常にうれしい時にも源氏の涙は落ちた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    pleased with her success, Omyo~bu delivered the note. Genji was looking forlornly out at the garden, certain that as always there would be silence. His heart jumped at the sight of Omyo~bu and there were tears of joy in his eyes.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1972,7 +1976,7 @@
   <p class="romanized">&nbsp;&nbsp;Tukuduku to husi taru ni mo&#44; yarukatanaki kokoti sure ba&#44; rei no&#44; nagusame ni ha nisinotai ni zo watari tamahu.</p>
   <p class="shibuya">　つくづくと物思いに沈んでいても、晴らしようのない気持ちがするので、いつものように、気晴らしには西の対にお渡りになる。</p>
   <p class="yosano">　じっと物思いをしながら寝ていることは堪えがたい気がして、例の慰め場所西の対へ行って見た。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    This moping, he decided, did no good. He went to the west wing in search of company.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -1993,7 +1997,8 @@
   <p class="romanized">&nbsp;&nbsp;Sidokenaku uti-hukudami tamahe ru binguki&#44; azare taru utikisugata nite&#44; hue wo natukasiu huki susabi tutu&#44; nozoki tamahe re ba&#44; Womnagimi&#44; arituru hana no tuyu ni nure taru kokoti si te&#44; sohi husi tamahe ru sama&#44; utukusiu rautage nari. Aigyau koboruru yau ni te&#44; ohasi nagara toku mo watari tamaha nu&#44; nama-uramesikari kere ba&#44; rei nara zu&#44; somuki tamahe ru naru besi. Hasi no kata ni tui-wi te&#44;</p>
   <p class="shibuya">　取り繕わないで毛羽だっていらっしゃる鬢ぐき、うちとけた袿姿で、笛を慕わしく吹き鳴らしながら、お立ち寄りになると、女君、先程の花が露に濡れたような感じで、寄り臥していらっしゃる様子、かわいらしく可憐である。愛嬌がこぼれるようで、おいでになりながら早くお渡り下さらないのが、何となく恨めしかったので、いつもと違って、すねていらっしゃるのであろう。端の方に座って、</p>
   <p class="yosano">　少し乱れた髪をそのままにして部屋着の<RUBY><RB>袿姿</RB><RP>（</RP><RT>うちかけすがた</RT><RP>）</RP></RUBY>で笛を懐しい<RUBY><RB>音</RB><RP>（</RP><RT>ね</RT><RP>）</RP></RUBY>に吹きながら座敷をのぞくと、紫の女王はさっきの撫子が露にぬれたような<RUBY><RB>可憐</RB><RP>（</RP><RT>かれん</RT><RP>）</RP></RUBY>なふうで横になっていた。非常に美しい。こぼれるほどの<RUBY><RB>愛嬌</RB><RP>（</RP><RT>あいきょう</RT><RP>）</RP></RUBY>のある顔が、帰邸した<RUBY><RB>気配</RB><RP>（</RP><RT>けはい</RT><RP>）</RP></RUBY>がしてからすぐにも出て来なかった源氏を恨めしいと思うように向こうに向けられているのである。座敷の端のほうにすわって、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Rumpled and wild-haired, he played a soft strain on a flute as he came into Murasaki's room. She was leaning against an armrest, demure and pretty, like a wild carnation, he thought, with the dew fresh upon it. She was charming.
+    Annoyed that he had not come immediately, she turned away.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2029,7 +2034,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Koti ya!&#34;</p>
   <p class="shibuya">　「こちらへ」</p>
   <p class="yosano">　「こちらへいらっしゃい」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Come here,"  he said, kneeling at the veranda.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2045,7 +2050,7 @@
   <p class="romanized">&nbsp;&nbsp;to notamahe do&#44; odoroka zu&#44;</p>
   <p class="shibuya">　とおっしゃるが、素知らぬ顔で、</p>
   <p class="yosano">　と言っても素知らぬ顔をしている。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">She did not stir.</p>
   
 </div>
 
@@ -2054,7 +2059,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Iri nuru iso no&#34;</p>
   <p class="shibuya">　「お目にかかることが少なくて」</p>
   <p class="yosano">　「入りぬる<RUBY><RB>磯</RB><RP>（</RP><RT>いそ</RT><RP>）</RP></RUBY>の草なれや」（みらく少なく恋ふらくの多き）<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">"'Like the grasses at full tide,'"*</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2070,7 +2075,7 @@
   <p class="romanized">&nbsp;&nbsp;to kutizusami te&#44; kuti ohohi si tamahe ru sama&#44; imiziu sare te utukusi.</p>
   <p class="shibuya">　と口ずさんで、口を覆っていらっしゃる様子、たいそう色っぽくてかわいらしい。</p>
   <p class="yosano">　と口ずさんで、<RUBY><RB>袖</RB><RP>（</RP><RT>そで</RT><RP>）</RP></RUBY>を口もとにあてている様子にかわいい<RUBY><RB>怜悧</RB><RP>（</RP><RT>りこう</RT><RP>）</RP></RUBY>さが見えるのである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> she said softly, her sleeve over her mouth.</p>
   
 </div>
 
@@ -2079,7 +2084,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ana&#44; niku! Kakaru koto kuti nare tamahi ni keri na! Mirume ni aku ha&#44; masa naki koto zo yo.&#34;</p>
   <p class="shibuya">　「まあ、憎らしい。このようなことをおっしゃるようになりましたね。みるめに人を飽きるとは、良くないことですよ」</p>
   <p class="yosano">　「つまらない歌を歌っているのですね。始終見ていなければならないと思うのはよくないことですよ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "That was unkind. So you have already learned to complain? I would not wish you to tire of me, you see, as they say the fishermen tire of the sea grasses at Ise." +</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2100,7 +2105,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; hito mesi te&#44; ohom-koto toriyose te hika se tatematuri tamahu.</p>
   <p class="shibuya">　と言って、人を召して、お琴取り寄せてお弾かせ申し上げなさる。</p>
   <p class="yosano">　源氏は琴を女房に出させて紫の君に<RUBY><RB>弾</RB><RP>（</RP><RT>ひ</RT><RP>）</RP></RUBY>かせようとした。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">He had someone bring a thirteen-stringed koto.</p>
   
 </div>
 
@@ -2109,7 +2114,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Saunokoto ha&#44; naka no hosowo no tahe gataki koso tokorosekere.&#34;</p>
   <p class="shibuya">　「箏の琴は、中の細緒が切れやすいのが厄介だ」</p>
   <p class="yosano">　「十三<RUBY><RB>絃</RB><RP>（</RP><RT>げん</RT><RP>）</RP></RUBY>の琴は中央の<RUBY><RB>絃</RB><RP>（</RP><RT>いと</RT><RP>）</RP></RUBY>の調子を高くするのはどうもしっくりとしないものだから」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "You must be careful. The second string breaks easily and we would not want to have to change it."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2125,7 +2130,8 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; Hyaudeu ni osi-kudasi te sirabe tamahu. Kakiahase bakari hiki te&#44; sasi-yari tamahe re ba&#44; e wenzi hate zu&#44; ito utukusiu hiki tamahu.</p>
   <p class="shibuya">　と言って、平調に下げてお調べになる。調子合わせの小曲だけ弾いて、押しやりなさると、いつまでもすねてもいられず、とてもかわいらしくお弾きになる。</p>
   <p class="yosano">　と言って、<RUBY><RB>柱</RB><RP>（</RP><RT>じ</RT><RP>）</RP></RUBY>を平調に下げて<RUBY><RB>掻</RB><RP>（</RP><RT>か</RT><RP>）</RP></RUBY>き合わせだけをして姫君に与えると、もうすねてもいず美しく弾き出した。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">  And he lowered it to the hyo~o~ mode.*
+    After plucking a few notes to see that it was in tune, he pushed it toward her. No longer able to be angry, she played for him, briefly and very competently.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2146,7 +2152,7 @@
   <p class="romanized">&nbsp;&nbsp;Tihisaki ohom-hodo ni&#44; sasi-yari te&#44; yusi tamahu ohom-tetuki&#44; ito utukusikere ba&#44; rautasi to obosi te&#44; hue huki narasi tutu wosihe tamahu. Ito satoku te&#44; kataki teusi-domo wo&#44; tada hito watari ni narahi tori tamahu. Ohokata raurauziu wokasiki mikokorobahe wo&#44; &#34;Omohi si koto kanahu.&#34; to obosu. 'Hosoroguseri' to ihu mono ha&#44; na ha nikukere do&#44; omosirou huki susabi tamahe ru ni&#44; kakiahase&#44; mada wakakere do&#44; hausi tagaha zu zyauzumeki tari.</p>
   <p class="shibuya">　お小さいからだで、左手をさしのべて、弦を揺らしなさる手つき、とてもかわいらしいので、愛しいとお思いになって、笛吹き鳴らしながらお教えになる。とても賢くて難しい調子などを、たった一度で習得なさる。何事につけても才長けたご性格を、「期待していた通りである」とお思いになる。「保曽呂具世利」という曲目は、名前は嫌だが、素晴らしくお吹きになると、合奏させて、まだ未熟だが、拍子を間違えず上手のようである。</p>
   <p class="yosano">　小さい人が左手を伸ばして<RUBY><RB>絃</RB><RP>（</RP><RT>いと</RT><RP>）</RP></RUBY>をおさえる手つきを源氏はかわいく思って、自身は笛を吹きながら教えていた。頭がよくてむずかしい調子などもほんの一度くらいで習い取った。何ごとにも<RUBY><RB>貴女</RB><RP>（</RP><RT>きじょ</RT><RP>）</RP></RUBY>らしい素質の見えるのに源氏は満足していた。<RUBY><RB>保曾呂倶世利</RB><RP>（</RP><RT>ほそろぐせり</RT><RP>）</RP></RUBY>というのは変な名の曲であるが、それをおもしろく笛で源氏が吹くのに、合わせる琴の弾き手は小さい人であったが音の間が違わずに弾けて、<RUBY><RB>上手</RB><RP>（</RP><RT>じょうず</RT><RP>）</RP></RUBY>になる手筋と見えるのである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> He thought her delightful as she leaned forward to press a string with her left hand. He took out a flute and she had a music lesson. Very quick, she could repeat a difficult melody after but a single hearing. Yes, he thought, she was bright and amiable, everything he could have wished for. "Hosoroguseri"  made a pretty duet, despite its outlandish name.+ She was very young but she had a fine sense for music.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2192,7 +2198,7 @@
   <p class="romanized">&nbsp;&nbsp;Ohotonabura mawiri te&#44; we-domo nado goranzuru ni&#44; &#34;Ide tamahu besi&#34; to ari ture ba&#44; hitobito kowadukuri kikoye te&#44;</p>
   <p class="shibuya">　大殿油を燈して、絵などを御覧になっていると、「お出かけになる予定」とあったので、供人たちが咳払いし合図申して、</p>
   <p class="yosano">　<RUBY><RB>灯</RB><RP>（</RP><RT>ひ</RT><RP>）</RP></RUBY>を<RUBY><RB>点</RB><RP>（</RP><RT>とも</RT><RP>）</RP></RUBY>させてから絵などをいっしょに見ていたが、さっき源氏はここへ来る前に出かける用意を命じてあったから、供をする侍たちが促すように<RUBY><RB>御簾</RB><RP>（</RP><RT>みす</RT><RP>）</RP></RUBY>の外から、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Lamps were brought and they looked at pictures together. Since he had said that he would be going out, his men coughed nervously, to warn him of the time.</p>
   
 </div>
 
@@ -2201,7 +2207,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ame huri haberi nu besi.&#34;</p>
   <p class="shibuya">　「雨が降って来そうでございます」</p>
   <p class="yosano">　「雨が降りそうでございます」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> If he did not hurry it would be raining, one of them said.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2217,7 +2223,7 @@
   <p class="romanized">&nbsp;&nbsp;nado ihu ni&#44; Himegimi&#44; rei no&#44; kokorobosoku te ku'si tamahe ri. We mo mi sasi te&#44; utubusi te ohasure ba&#44; ito rautaku te&#44; migusi no ito medetaku kobore kakari taru wo&#44; kaki-nade te&#44;</p>
   <p class="shibuya">　などと言うので、姫君、いつものように心細くふさいでいらっしゃった。絵を見ることも止めて、うつ伏していらっしゃるので、とても可憐で、お髪がとても見事にこぼれかかっているのを、かき撫でて、</p>
   <p class="yosano">　などと言うのを聞くと、紫の君はいつものように心細くなってめいり込んでいった。絵も見さしてうつむいているのがかわいくて、こぼれかかっている美しい髪をなでてやりながら、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Murasaki was suddenly a forlorn little figure. She put aside the pictures and lay with her face hidden in a pillow.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2233,7 +2239,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Hoka naru hodo ha kohisiku ya aru?&#34;</p>
   <p class="shibuya">　「出かけている間は寂しいですか」</p>
   <p class="yosano">　「私がよそに行っている時、あなたは寂しいの」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Do you miss me when I am away?"  He stroked the hair that fell luxuriantly over her shoulders.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2249,7 +2255,7 @@
   <p class="romanized">&nbsp;&nbsp;to notamahe ba&#44; unaduki tamahu.</p>
   <p class="shibuya">　とおっしゃると、こっくりなさる。</p>
   <p class="yosano">　と言うと女王はうなずいた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    She nodded a quick, emphatic nod.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2265,7 +2271,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ware mo&#44; hitohi mo mi tatematura nu ha ito kurusiu koso are do&#44; wosanaku ohasuru hodo ha&#44; kokoroyasuku omohi kikoye te&#44; madu&#44; kunekunesiku uramuru hito no kokoro yabura zi to omohi te&#44; mutukasikere ba&#44; sibasi kaku mo ariku zo. Otonasiku minasi te ha&#44; hoka he mo sarani iku mazi. Hito no urami oha zi nado omohu mo&#44; yo ni nagau ari te&#44; omohu sama ni miye tatematura m to omohu zo.&#34;</p>
   <p class="shibuya">　「わたしも、一日もお目にかからないでいるのは、とてもつらいことですが、お小さくいらっしゃるうちは、気安くお思い申すので、まず、ひねくれて嫉妬する人の機嫌を損ねまいと思って、うっとうしいので、暫く間はこのように出かけるのですよ。大人におなりになったら、他の所へは決して行きませんよ。人の嫉妬を受けまいなどと思うのも、長生きをして、思いのままに一緒にお暮らし申したいと思うからですよ」</p>
   <p class="yosano">　「私だって一日あなたを見ないでいるともう苦しくなる。けれどあなたは小さいから私は安心していてね、私が行かないといろいろな意地悪を言っておこる人がありますからね。今のうちはそのほうへ行きます。あなたが大人になれば決してもうよそへは行かない。人からうらまれたくないと思うのも、長く生きていて、あなたを幸福にしたいと思うからです」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "And I miss you. I can hardly bear to be away from you for a single day. But we must not make too much of these things. You are still a child, and there is a jealous and difficult lady whom I would rather not offend. I must go on visiting her, but when you are grown up I will not leave you ever. It is because I am thinking of all the years we will be together that I want to be on good terms with her."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2291,7 +2297,7 @@
   <p class="romanized">&nbsp;&nbsp;nado&#44; komagoma to katarahi kikoye tamahe ba&#44; sasuga ni hadukasiu te&#44; tomokakumo irahe kikoye tamaha zu. Yagate ohom-hiza ni yorikakari te&#44; neiri tamahi nure ba&#44; ito kurusiu te&#44; </p>
   <p class="shibuya">　などと、こまごまとご機嫌をお取り申されると、そうは言うものの恥じらって、何ともお返事申し上げなされない。そのままお膝に寄りかかって、眠っておしまになったので、とてもいじらしく思って、</p>
   <p class="yosano">　などとこまごま話して聞かせると、さすがに恥じて返辞もしない。そのまま<RUBY><RB>膝</RB><RP>（</RP><RT>ひざ</RT><RP>）</RP></RUBY>に寄りかかって寝入ってしまったのを見ると、源氏はかわいそうになって、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    His solemn manner dispelled her gloom but made her rather uncomfortable. She did not answer. Her head pillowed on his knee, she was presently asleep.</p>
   
 </div>
 
@@ -2300,7 +2306,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Koyohi ha ide zu nari nu.&#34;</p>
   <p class="shibuya">　「今夜は出かけないことになった」</p>
   <p class="yosano">　「もう今夜は出かけないことにする」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">He told the women that he would not after all be going out.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2316,7 +2322,7 @@
   <p class="romanized">&nbsp;&nbsp;to notamahe ba&#44; mina tati te&#44; omono nado konata ni mawirase tari. Himegimi okosi tatematuri tamahi te&#44; </p>
   <p class="shibuya">　とおっしゃると、皆立ち上がって、御膳などをこちらに運ばせた。姫君を起こしてさし上げにさって、</p>
   <p class="yosano">　と侍たちに言うと、その人らはあちらへ立って行って。間もなく源氏の夕飯が西の対へ運ばれた。源氏は女王を起こして、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> His retinue having departed, he ordered dinner and roused the girl.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2332,7 +2338,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ide zu nari nu.&#34;</p>
   <p class="shibuya">　「出かけないことになった」</p>
   <p class="yosano">　「もう行かないことにしましたよ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I am not going,"  he said.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2348,7 +2354,7 @@
   <p class="romanized">&nbsp;&nbsp;to kikoye tamahe ba&#44; nagusami te oki tamahe ri. Morotomoni mono nado mawiru. Ito hakanage ni susabi te&#44; </p>
   <p class="shibuya">　とお話し申し上げなさると、機嫌を直してお起きになった。ご一緒にお食事を召し上がる。ほんのちょっとお箸を付けになって、</p>
   <p class="yosano">　と言うと慰んで起きた。そうしていっしょに食事をしたが、姫君はまだはかないようなふうでろくろく食べなかった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    She sat down beside him, happy again. She ate very little.</p>
   
 </div>
 
@@ -2357,7 +2363,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Saraba&#44; ne tamahi ne kasi.&#34;</p>
   <p class="shibuya">　「では、お寝みなさい」</p>
   <p class="yosano">　「ではお<RUBY><RB>寝</RB><RP>（</RP><RT>やす</RT><RP>）</RP></RUBY>みなさいな」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Suppose we go to bed, then, if you aren't going out."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2373,7 +2379,8 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; ayahuge ni omohi tamahe re ba&#44; kakaru wo misute te ha&#44; imiziki miti nari to mo&#44; omomuki gataku oboye tamahu.</p>
   <p class="shibuya">　と不安げに思っていらっしゃるので、このような人を放ってはどんな道であっても出かけることはできない、と思われなさる。</p>
   <p class="yosano">　出ないということは<RUBY><RB>嘘</RB><RP>（</RP><RT>うそ</RT><RP>）</RP></RUBY>でないかと<RUBY><RB>危</RB><RP>（</RP><RT>あぶ</RT><RP>）</RP></RUBY>ながってこんなことを言うのである。こんな<RUBY><RB>可憐</RB><RP>（</RP><RT>かれん</RT><RP>）</RP></RUBY>な人を置いて行くことは、どんなに恋しい人の所があってもできないことであると源氏は思った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">  She was still afraid he might leave her.
+    He already knew how difficult it would be when the time came for the final parting.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2389,7 +2396,7 @@
   <p class="romanized">&nbsp;&nbsp;Kayau ni&#44; todome rare tamahu woriwori nado mo ohokaru wo&#44; onodukara mori-kiku hito&#44; Ohoidono ni kikoye kere ba&#44;</p>
   <p class="shibuya">　このように、引き止められなさる時々も多くあるのを、自然と漏れ聞く人が、大殿にも申し上げたので、</p>
   <p class="yosano">　こんなふうに引き止められることも多いのを、侍などの中には左大臣家へ伝える者もあってあちらでは、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Everyone of course knew how many nights he was now spending at home. The intelligence reached his father-in-law's house at Sanjo-.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2410,7 +2417,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Tare nara m? Ito mezamasiki koto ni mo aru kana!&#34;</p>
   <p class="shibuya">　「誰なのでしょう。とても失礼なことではありませんか」</p>
   <p class="yosano">　「どんな身分の人でしょう。失礼な方ですわね。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "How very odd. Who might she be?"  said the women.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2426,7 +2433,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ima made sono hito to mo kikoye zu&#44; sayau ni matuhasi tahabure nado su ram ha&#44; ateyaka ni kokoronikuki hito ni ha ara zi.&#34;</p>
   <p class="shibuya">　「今まで誰それとも知れず、そのようにくっついたまま遊んだりするような人は、上品な教養のある人ではありますまい」</p>
   <p class="yosano">　二条の院へどこのお嬢さんがお<RUBY><RB>嫁</RB><RP>（</RP><RT>かたづ</RT><RP>）</RP></RUBY>きになったという話もないことだし、そんなふうにこちらへのお出かけを引き止めたり、またよくふざけたりしていらっしゃるというのでは、りっぱな御身分の人とは思えないじゃありませんか。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "We have not been able to find out. No one of very good breeding, you may be sure, to judge from the way she clings to him and presumes upon his affection.</p>
   
 </div>
 
@@ -2435,7 +2442,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Uti watari nado nite&#44; hakanaku mi tamahi kem hito wo&#44; mono-mekasi tamahi te&#44; hito ya togame m to kakusi tamahu na' nari. Kokoronage ni ihake te kikoyuru ha.&#34;</p>
   <p class="shibuya">　「宮中辺りで、ちょっと見初めたような女を、ご大層にお扱いになって、人目に立つかと隠していられるのでしょう。分別のない幼稚な人だと聞きますから」</p>
   <p class="yosano">　御所などで始まった関係の女房級の人を奥様らしく二条の院へお入れになって、それを批難さすまいとお思いになって、だれということを秘密にしていらっしゃるのですよ。幼稚な所作が多いのですって」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Probably someone he ran into at court and lost his senses over, and now he has hidden her away because he is ashamed to have people see her. But the oddest thing is that she's still a child."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2460,7 +2467,7 @@
   <p class="romanized">&nbsp;&nbsp;Uti ni mo&#44; kakaru hito ari to kikosimesi te&#44;</p>
   <p class="shibuya">　お上におかれても、「このような女の人がいる」と、お耳に入れあそばして、</p>
   <p class="yosano">　御所にまで二条の院の新婦の問題が聞こえていった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "I am sorry to learn that the Minister of the Left is unhappy with you,"  the emperor said to Genji.</p>
   
 </div>
 
@@ -2469,7 +2476,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Itohosiku&#44; Otodo no omohi nageka ru naru koto mo&#44; geni&#44; monogenakari si hodo wo&#44; ohonaohona kaku monosi taru kokoro wo&#44; sabakari no koto tadora nu hodo ni ha ara zi wo. Nadoka nasakenaku ha motenasu naru ram?&#34;</p>
   <p class="shibuya">　「気の毒に、大臣がお嘆きということも、なるほど、まだ幼かったころを、一生懸命にこんなにお世話してきた気持ちを、それくらいのことをご分別できない年頃でもあるまいに。どうして薄情な仕打ちをなさるのだろう」</p>
   <p class="yosano">　「気の毒じゃないか。左大臣が心配しているそうだ。小さいおまえを婿にしてくれて、十二分に尽くした今日までの好意がわからない年でもないのに、なぜその娘を冷淡に扱うのだ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "You cannot be so young and innocent as to be unaware of all he has done for you since you were a very small boy. He has been completely devoted to you. Must you repay him by insulting him?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2490,7 +2497,7 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; notamahasure do&#44; kasikomari taru sama nite&#44; ohom-irahe mo kikoye tamaha ne ba&#44; &#34;Kokoro yuka nu na'meri&#34; to&#44; itohosiku obosimesu.</p>
   <p class="shibuya">　と、仰せられるが、恐縮した様子で、お返事も申し上げられないので、「お気に入らないようだ」と、かわいそうにお思いあそばす。</p>
   <p class="yosano">　と陛下がおっしゃっても、源氏はただ恐縮したふうを見せているだけで、何とも御返答をしなかった。<RUBY><RB>帝</RB><RP>（</RP><RT>みかど</RT><RP>）</RP></RUBY>は妻が気に入らないのであろうとかわいそうに<RUBY><RB>思召</RB><RP>（</RP><RT>おぼしめ</RT><RP>）</RP></RUBY>した。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">It was an august reproach which Genji was unable to answer.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2511,7 +2518,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Saruha&#44; sukizukisiu uti-midare te&#44; kono miyuru nyoubau ni mare&#44; mata konata kanata no hitobito nado&#44; nabete nara zu nado mo miye kikoye za' meru wo&#44; ikanaru mono no kuma ni kakure ariki te&#44; kaku hito ni mo urami raru ram?&#34; to notamahasu.</p>
   <p class="shibuya">　「その一方では、好色がましく振る舞って、ここに見える女房であれ、またここかしこの女房たちなどと、浅からぬ仲に見えたり噂も聞かないようだが、どのような人目につかない所にあちこち隠れ歩いて、このように人に怨まれることをしているのだろう」と仰せられる。</p>
   <p class="yosano">　「格別おまえは放縦な男ではなし、女官や女御たちの女房を情人にしている<RUBY><RB>噂</RB><RP>（</RP><RT>うわさ</RT><RP>）</RP></RUBY>などもないのに、どうしてそんな隠し事をして<RUBY><RB>舅</RB><RP>（</RP><RT>しゅうと</RT><RP>）</RP></RUBY>や妻に恨まれる結果を作るのだろう」と仰せられた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The emperor was suddenly sorry for him. It was clear that he was not happy with his wife. "I have heard no rumors, it is true, that you are promiscuous, that you have scattered your affections too liberally here at court and elsewhere. He must have stumbled upon some secret."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2535,7 +2542,7 @@
   <p class="romanized">&nbsp;&nbsp;Mikado no ohom-tosi&#44; nebi sase tamahi nure do&#44; kauyau no kata&#44; e sugu sase tamaha zu&#44; Unebe&#44; Nyokuraudo nado wo mo&#44; katati&#44; kokoro aru wo ba&#44; kotoni mote-hayasi obosimesi tare ba&#44; yosi aru miyadukahebito ohokaru koro nari. Hakanaki koto wo mo ihi hure tamahu ni ha&#44; mote-hanaruru koto mo arigataki ni&#44; me naruru ni ya aram&#44; &#34;Geni zo&#44; ayasiu sui tamaha za' meru.&#34; to&#44; kokoromi ni tahaburegoto wo kikoye kakari nado suru wori are do&#44; nasake nakara nu hodo ni uti-irahe te&#44; makoto ni ha midare tamaha nu wo&#44; &#34;Mameyaka ni sauzausi&#34; to omohi kikoyuru hito mo ari.</p>
   <p class="shibuya">　帝のお年、かなりお召しあそばされたが、このような方面は、無関心ではいらっしゃれず、采女、女蔵人などの容貌や気立ての良い者を、格別にもてなしお目をかけあそばしていたので、教養のある宮仕え人の多いこの頃である。ちょっとしたことでも、お話しかけになれば、知らない顔をする者はめったにいないので、見慣れてしまったのであろうか、「なるほど、不思議にも好色な振る舞いのないようだ」と、試しに冗談を申し上げたりなどする折もあるが、恥をかかせない程度に軽くあしらって、本気になってお取り乱しにならないのを、「真面目ぶってつまらない」と、お思い申し上げる女房もいる。</p>
   <p class="yosano">　帝はもうよい御年配であったが美女がお好きであった。<RUBY><RB>采女</RB><RP>（</RP><RT>うねめ</RT><RP>）</RP></RUBY>や<RUBY><RB>女蔵人</RB><RP>（</RP><RT>にょくろうど</RT><RP>）</RP></RUBY>なども容色のある者が宮廷に歓迎される時代であった。したがって美人も宮廷には多かったが、そんな人たちは源氏さえその気になれば情人関係を成り立たせることが容易であったであろうが、源氏は見<RUBY><RB>馴</RB><RP>（</RP><RT>な</RT><RP>）</RP></RUBY>れているせいか女官たちへはその意味の好意を見せることは皆無であったから、怪しがってわざわざその人たちが<RUBY><RB>戯談</RB><RP>（</RP><RT>じょうだん</RT><RP>）</RP></RUBY>を言いかけることがあっても、源氏はただ冷淡でない程度にあしらっていて、それ以上の交際をしようとしないのを物足らず思う者さえあった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The emperor still enjoyed the company of pretty women. He preferred the pretty ones even among chambermaids and seamstresses, and all the ranks of his court were filled with the best-favored women to be found. Genji would joke with one and another of them, and few were of a mind to keep him at a distance. Someone among them would remark coyly that perhaps he did not like women; but, no doubt because she offered no novelty, he would answer so as not to give offense and refuse to be tempted. To some this moderation did not seem a virtue.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2586,7 +2593,7 @@
   <p class="romanized">&nbsp;&nbsp;Tosi itau oyi taru Naisinosuke&#44; hito mo yamgotonaku&#44; kokorobase ari&#44; ate ni&#44; oboye takaku ha ari nagara&#44; imiziu adamei taru kokorozama nite&#44; sonata ni ha omokara nu aru wo&#44; &#34;Kau&#44; sada suguru made&#44; nado sasimo midaru ram.&#34; to&#44; ibukasiku oboye tamahi kere ba&#44; tahaburegoto ihihure te kokoromi tamahu ni&#44; nigenaku mo omoha zari keru. Asamasi&#44; to obosi nagara&#44; sasuga ni kakaru mo wokasiu te&#44; mono nado notamahi te kere do&#44; hito no mori-kika m mo&#44; hurumekasiki hodo nare ba&#44; turenaku motenasi tamahe ru wo&#44; Womna ha&#44; ito turasi to omohe ri.</p>
   <p class="shibuya">　年をたいそう取っている典侍、人柄も重々しく、才気があり、高貴で、人から尊敬されてはいるものの、たいそう好色な性格で、その方面では腰の軽いのを、「こう、年を取ってまで、どうしてそんなにふしだらなのか」と、興味深くお思いになったので、冗談を言いかけてお試しになると、不釣り合いなとも思わないのであった。あきれた、とはお思いになりながら、やはりこのような女も興味があるので、お話しかけなどなさったが、人が漏れ聞いても、年とった年齢なので、そっけなく振る舞っていらっしゃるのを、女は、とてもつらいと思っていた。</p>
   <p class="yosano">　よほど年のいった<RUBY><RB>典侍</RB><RP>（</RP><RT>ないしのすけ</RT><RP>）</RP></RUBY>で、いい家の出でもあり、才女でもあって、世間からは相当にえらく思われていながら、多情な性質であってその点では人を<RUBY><RB>顰蹙</RB><RP>（</RP><RT>ひんしゅく</RT><RP>）</RP></RUBY>させている女があった。源氏はなぜこう年がいっても<RUBY><RB>浮気</RB><RP>（</RP><RT>うわき</RT><RP>）</RP></RUBY>がやめられないのであろうと不思議な気がして、恋の戯談を言いかけてみると、不似合いにも思わず相手になってきた。あさましく思いながらも、さすがに風変わりな衝動を受けてつい源氏は関係を作ってしまった。噂されてもきまりの悪い不つりあいな老いた情人であったから、源氏は人に知らせまいとして、ことさら表面は冷淡にしているのを、女は常に恨んでいた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    There was a lady of rather advanced years called Naishi. She was wellborn, talented, cultivated, and widely respected; but in matters of the heart she was not very discriminating. Genji had struck up relations, interested that her wanton ways should be so perdurable, and was taken somewhat aback at the warm welcome he received. He continued to be interested all the same and had arranged a rendezvous. Not wanting the world to see him as the boy lover of an aged lady, he had turned away further invitations. She was of course resentful.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2631,7 +2638,7 @@
   <p class="romanized">&nbsp;&nbsp;Uhe no mikedurigusi ni saburahi keru wo&#44; hate ni kere ba&#44; Uhe ha miutiki no hito mesi te ide sase tamahi nuru hodo ni&#44; mata hito mo naku te&#44; kono Naisi tune yori mo kiyoge ni&#44; yaudai&#44; kasiratuki namameki te&#44; sauzoku&#44; arisama&#44; ito hanayaka ni konomasige ni miyuru wo&#44; &#34;Samo huri gatau mo!&#34; to&#44; kokorodukinaku mi tamahu monokara&#44; &#34;Ikaga omohu ram?&#34; to&#44; sasuga ni sugusi gataku te&#44; mo no suso wo hiki odorokasi tamahe re ba&#44; kahabori no enarazu wegaki taru wo&#44; sasi-kakusi te mi kaheri taru mami&#44; itau mi nobe tare do&#44; makahara itaku kuromi oti iri te&#44; imiziu hature sosoke tari.</p>
   <p class="shibuya">　お上の御髪梳りに伺候したが、終わったので、お上は御袿係の者をお召しになってお出になりあそばした後に、他に人もなくて、この典侍がいつもよりこざっぱりとして、姿形、髪の具合が艶っぽくて、衣装や、着こなしも、とても派手に洒落て見えるのを、「何とも若づくりな」と、苦々しく御覧になる一方で、「どんな気でいるのか」と、やはり見過ごしがたくて、裳の裾を引っ張って注意をお引きになると、夏扇に派手な絵の描いてあるのを、顔を隠して振り返ったまなざし、ひどく流し目を使っているが、目の皮がげっそり黒く落ち込んで、肉が削げ落ちてたるんでいる。</p>
   <p class="yosano">　典侍は帝のお<RUBY><RB>髪上</RB><RP>（</RP><RT>ぐしあ</RT><RP>）</RP></RUBY>げの役を勤めて、それが終わったので、帝はお<RUBY><RB>召</RB><RP>（</RP><RT>めし</RT><RP>）</RP></RUBY>かえを奉仕する人をお呼びになって出てお行きになった部屋には、ほかの者がいないで、典侍が常よりも美しい感じの受け取れるふうで、頭の形などに<RUBY><RB>艶</RB><RP>（</RP><RT>えん</RT><RP>）</RP></RUBY>な所も見え、服装も<RUBY><RB>派手</RB><RP>（</RP><RT>はで</RT><RP>）</RP></RUBY>にきれいな物を着ているのを見て、いつまでも若作りをするものだと源氏は思いながらも、どう思っているだろうと知りたい心も動いて、後ろから<RUBY><RB>裳</RB><RP>（</RP><RT>も</RT><RP>）</RP></RUBY>の<RUBY><RB>裾</RB><RP>（</RP><RT>すそ</RT><RP>）</RP></RUBY>を引いてみた。はなやかな絵をかいた紙の扇で顔を隠すようにしながら見返った典侍の目は、<RUBY><RB>瞼</RB><RP>（</RP><RT>まぶた</RT><RP>）</RP></RUBY>を張り切らせようと故意に引き伸ばしているが、黒くなって、深い筋のはいったものであった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    One morning when she had finished dressing the emperor's hair and the emperor had withdrawn to change clothes, she found herself alone with Genji. She was bedecked and painted to allure, every detail urging him forward. Genji was dubious of this superannuated coquetry, but curious to see what she would do next. He tugged at her apron. She turned around, a gaudy fan hiding her face, a sidelong glance--alas, the eyelids were dark and muddy--emerging from above it. Her hair, which of course the fan could not hide, was rough and stringy.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2682,7 +2689,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Nitukahasikara nu ahugi no sama kana!&#34; to mi tamahi te&#44; waga mo' tamahe ru ni&#44; sasi-kahe te mi tamahe ba&#44; akaki kami no&#44; uturu bakari iro hukaki ni&#44; kodakaki mori no kata wo nuri kakusi tari. Katatukata ni&#44; te ha ito sada sugi tare do&#44; yosi nakara zu&#44; &#34;Mori no sita kusa oyi nure ba&#34; nado kaki susabi taru wo&#44; &#34;Koto simo are&#44; utate no kokorobahe ya!&#34; to wema re nagara&#44;</p>
   <p class="shibuya">　「似合わない派手な扇だな」と御覧になって、ご自分のお持ちのと取り替えて御覧になると、赤い紙で顔に照り返すような色合いで、木高い森の絵を金泥で塗りつぶしてある。その端の方に、筆跡はとても古めかしいが、風情がなくもなく、「森の下草が老いてしまったので」などと書き流してあるのを、「他に書くことも他にあろうに、嫌らしい趣向だ」と微笑まれて、</p>
   <p class="yosano">　妙に似合わない扇だと思って、自身のに替えて<RUBY><RB>源典侍</RB><RP>（</RP><RT>げんてんじ</RT><RP>）</RP></RUBY>のを見ると、それは<RUBY><RB>真赤</RB><RP>（</RP><RT>まっか</RT><RP>）</RP></RUBY>な地に、青で厚く森の色が塗られたものである。横のほうに若々しくない字であるが<RUBY><RB>上手</RB><RP>（</RP><RT>じょうず</RT><RP>）</RP></RUBY>に<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> A very poorly chosen fan for an old lady, he thought, giving her his and taking it from her. So bright a red that his own face, he was sure, must be red from the reflection, it was decorated with a gold painting of a tall grove. In a corner, in a hand that was old-fashioned but not displeasingly so, was a line of poetry: "Withered is the grass of Oaraki." * Of all the poems she could have chosen!</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2713,7 +2720,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Mori koso natu no&#44; to miyu meru.&#34;</p>
   <p class="shibuya">　「森こそ夏の、といったようですね」</p>
   <p class="yosano">　「森の下草老いぬれば<RUBY><RB>駒</RB><RP>（</RP><RT>こま</RT><RP>）</RP></RUBY>もすさめず刈る人もなし」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "What you mean, I am sure, is that your grove is summer lodging for the cuckoo." +</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2729,7 +2736,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; nanikure to notamahu mo&#44; nigenaku&#44; hito ya mituke m to kurusiki wo&#44; Womna ha samo omohi tara zu&#44;</p>
   <p class="shibuya">　と言って、いろいろとおっしゃるのも、不釣り合いで、人が見つけるかと気になるが、女はそうは思っていない。</p>
   <p class="yosano">　という歌が書かれてある。<RUBY><RB>厭味</RB><RP>（</RP><RT>いやみ</RT><RP>）</RP></RUBY>な恋歌などは書かずともよいのにと源氏は苦笑しながらも、「そうじゃありませんよ、『大荒木の森こそ夏のかげはしるけれ』で盛んな夏ですよ」こんなことを言う恋の遊戯にも不似合いな相手だと思うと、源氏は人が見ねばよいがとばかり願われた。女はそんなことを思っていない。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    They talked for a time. Genji was nervous lest they be seen, but Naishi was unperturbed.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2745,7 +2752,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Kimi si ko ba tanare no koma ni kari kaha m<BR>&nbsp;&nbsp;&nbsp;&nbsp;sakari sugi taru sitaba nari to mo</p>
   <p class="shibuya">　「あなたがいらしたならば良く馴れた馬に秣を刈ってやりましょう<BR>　　盛りの過ぎた下草であっても」</p>
   <p class="yosano">　　君し<RUBY><RB>来</RB><RP>（</RP><RT>こ</RT><RP>）</RP></RUBY>ば<RUBY><RB>手馴</RB><RP>（</RP><RT>てな</RT><RP>）</RP></RUBY>れの<RUBY><RB>駒</RB><RP>（</RP><RT>こま</RT><RP>）</RP></RUBY>に刈り飼はん<BR>　　盛り過ぎたる下葉なりとも<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">         "Sere and withered though these grasses be,<br>        They are ready for your pony, should you come."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2761,7 +2768,7 @@
   <p class="romanized">&nbsp;&nbsp;to ihu sama&#44; koyonaku iromeki tari.</p>
   <p class="shibuya">　と詠み出す様子、この上なく色気たっぷりである。</p>
   <p class="yosano">　とても色気たっぷりな表情をして言う。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">She was really too aggressive.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2777,7 +2784,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Sasa wake ba hito ya togame m itu to naku<BR>&nbsp;&nbsp;&nbsp;&nbsp;koma natuku meru mori no kogakure</p>
   <p class="shibuya">　「笹を分けて入って行ったら人が注意しましょう<BR>　　いつでも馬を懐けている森の木陰では</p>
   <p class="yosano">　　「<RUBY><RB>笹</RB><RP>（</RP><RT>ささ</RT><RP>）</RP></RUBY>分けば人や<RUBY><RB>咎</RB><RP>（</RP><RT>とが</RT><RP>）</RP></RUBY>めんいつとなく<BR>　　駒<RUBY><RB>馴</RB><RP>（</RP><RT>な</RT><RP>）</RP></RUBY>らすめる森の木隠れ<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">         "Were mine to part the low bamboo at your grove,<br>        It would fear to be driven away by other ponies.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2793,7 +2800,7 @@
   <p class="romanized">&nbsp;&nbsp;Wadurahasisa ni.&#34;</p>
   <p class="shibuya">　厄介なことだからね」</p>
   <p class="yosano">　あなたの所はさしさわりが多いからうっかり行けない」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "And that would not do at all."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2809,7 +2816,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; tati tamahu wo&#44; hikahe te&#44;</p>
   <p class="shibuya">　と言って、お立ちになるのを、袖を取って、</p>
   <p class="yosano">　こう言って、立って行こうとする源氏を、典侍は手で留めて、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    He started to leave, but she caught at his sleeve.</p>
   
 </div>
 
@@ -2818,7 +2825,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Mada kakaru mono wo koso omohi habera ne. Imasara naru&#44; mi no hadi ni nam.&#34;</p>
   <p class="shibuya">　「まだこんなつらい思いをしたことはございません。今になって、身の恥に」</p>
   <p class="yosano">　「私はこんなにまで<RUBY><RB>煩悶</RB><RP>（</RP><RT>はんもん</RT><RP>）</RP></RUBY>をしたことはありませんよ。すぐ捨てられてしまうような恋をして一生の恥をここでかくのです」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "No one has ever been so rude to me, no one. At my age I might expect a little courtesy."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2834,7 +2841,7 @@
   <p class="romanized">&nbsp;&nbsp;tote naku sama&#44; ito imizi.</p>
   <p class="shibuya">　と言って泣き出す様子、とても大げさである。</p>
   <p class="yosano">　非常に悲しそうに泣く。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    These angry tears, he might have said, did not become an old lady.</p>
   
 </div>
 
@@ -2843,7 +2850,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ima&#44; kikoye m. Omohi nagara zo ya!&#34;</p>
   <p class="shibuya">　「そのうち、お便りを差し上げましょう。心にかけていますよ」</p>
   <p class="yosano">　「近いうちに必ず行きます。いつもそう思いながら実行ができないだけですよ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I will write. You have been on my mind a great deal."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2859,7 +2866,9 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; hiki-hanati te ide tamahu wo&#44; semete oyobi te&#44; &#34;Hasibasira&#34; to urami kakuru wo&#44; Uhe ha miutiki hate te&#44; misauzi yori nozoka se tamahi keri. &#34;Nitukahasikara nu ahahi kana!&#34; to&#44; ito wokasiu obosa re te&#44;</p>
   <p class="shibuya">　と言って、振り切ってお出になるのを、懸命に取りすがって、「橋柱」と恨み言を言うのを、お上はお召し替えが済んで、御障子の隙間から御覧あそばしたのであった。「似つかわしくない仲だな」と、とてもおかしく思し召されて、</p>
   <p class="yosano">　<RUBY><RB>袖</RB><RP>（</RP><RT>そで</RT><RP>）</RP></RUBY>を放させて出ようとするのを、典侍はまたもう一度追って来て「橋柱」（思ひながらに中や絶えなん）と言いかける<RUBY><RB>所作</RB><RP>（</RP><RT>しょさ</RT><RP>）</RP></RUBY>までも、お<RUBY><RB>召</RB><RP>（</RP><RT>めし</RT><RP>）</RP></RUBY>かえが済んだ帝が<RUBY><RB>襖子</RB><RP>（</RP><RT>からかみ</RT><RP>）</RP></RUBY>からのぞいておしまいになった。不つり合いな恋人たちであるのを、おかしく<RUBY><RB>思召</RB><RP>（</RP><RT>おぼしめ</RT><RP>）</RP></RUBY>してお笑いになりながら、帝は、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">  He tried to shake her off but she followed after.
+    "'As the pillar of the bridge--'"# she said reproachfully.
+    Having finished dressing, the emperor looked in from the next room. He was amused. They were a most improbable couple.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2880,7 +2889,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Sukigokoro nasi to&#44; tuneni mote-nayamu meru wo&#44; saha ihe do&#44; sugusa zari keru ha!&#34;</p>
   <p class="shibuya">　「好色心がないなどと、いつも困っているようだが、そうは言うものの、見過ごさなかったのだな」</p>
   <p class="yosano">　「まじめ過ぎる恋愛ぎらいだと言っておまえたちの困っている男もやはりそうでなかったね」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "People complain that you show too little interest in romantic things,"  he laughed, "but I see that you have your ways."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2896,7 +2905,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; waraha se tamahe ba&#44; Naisi ha&#44; nama-mabayukere do&#44; nikukara nu hito yuwe ha&#44; nureginu wo dani ki mahosigaru taguhi mo a' nare ba ni ya&#44; itau mo aragahi kikoye sase zu.</p>
   <p class="shibuya">　と言って、お笑いあそばすので、典侍はばつが悪い気がするが、恋しい人のためなら、濡衣をさえ着たがる類もいるそうだからか、大して弁解も申し上げない。</p>
   <p class="yosano">　と<RUBY><RB>典侍</RB><RP>（</RP><RT>ないしのすけ</RT><RP>）</RP></RUBY>へお言いになった。典侍はきまり悪さも少し感じたが、恋しい人のためには<RUBY><RB>濡衣</RB><RP>（</RP><RT>ぬれぎぬ</RT><RP>）</RP></RUBY>でさえも着たがる者があるのであるから、弁解はしようとしなかった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Naishi, though much discommoded, did not protest with great vehemence. There are those who do not dislike wrong rumors if they are about the right men.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2922,7 +2931,7 @@
   <p class="romanized">&nbsp;&nbsp;Hitobito mo&#44; &#34;Omohi no hoka naru koto kana!&#34; to&#44; atukahu meru wo&#44; Tounotyuuzyau&#44; kikituke te&#44; &#34;Itara nu kuma naki kokoro nite&#44; mada omohiyora zari keru yo!&#34; to omohu ni&#44; tuki se nu konomigokoro mo mi mahosiu nari ni kere ba&#44; katarahi tuki ni keri.</p>
   <p class="shibuya">　女房たちも、「意外なことだわ」と、取り沙汰するらしいのを、頭中将、聞きつけて、「知らないことのないこのわたしが、まだ気がつかなかったことよ」と思うと、いくつになっても止まない好色心を見たく思って、言い寄ったのであった。</p>
   <p class="yosano">　それ以後御所の人たちが意外な恋としてこの関係を<RUBY><RB>噂</RB><RP>（</RP><RT>うわさ</RT><RP>）</RP></RUBY>した。<RUBY><RB>頭中将</RB><RP>（</RP><RT>とうのちゅうじょう</RT><RP>）</RP></RUBY>の耳にそれがはいって、源氏の隠し事はたいてい正確に察して知っている自分も、まだそれだけは気がつかなんだと思うとともに、自身の好奇心も起こってきて、まんまと好色な源典侍の情人の一人になった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     The ladies of the palace were beginning to talk of the affair, a most surprising one, they said. To~ no Chu~jo~ heard of it. He had thought his own affairs varied, but the possibility of a liaison with an old woman had not occurred to him. An inexhaustibly amorous old woman might be rather fun. He arranged his own rendezvous.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2953,7 +2962,7 @@
   <p class="romanized">&nbsp;&nbsp;Kono Kimi mo&#44; hito yori ha ito koto naru wo&#44; &#34;Kano turenaki hito no ohom-nagusame ni&#34; to omohi ture do&#44; mi mahosiki ha&#44; kagiri ari keru wo to ya! Utate no konomi ya!</p>
   <p class="shibuya">　この君も、人よりは素晴らしいので、「あのつれない方の気晴らしに」と思ったが、本当に逢いたい人は、お一人であったとか。大変な選り好みだことよ。</p>
   <p class="yosano">　この貴公子もざらにある若い男ではなかったから、源氏の飽き足らぬ愛を補う気で関係をしたが、典侍の心に今も恋しくてならない人はただ一人の源氏であった。困った多情女である。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> He too was very handsome, and Naishi thought him not at all poor consolation for the loss of Genji. Yet (one finds it hard to condone such greed) Genji was the one she really wanted.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -2988,7 +2997,8 @@
   <p class="romanized">&nbsp;&nbsp;Itau sinobure ba&#44; Genzinokimi ha e siri tamaha zu. Mituke kikoye te ha&#44; madu urami kikoyuru wo&#44; yohahi no hodo itohosikere ba&#44; nagusame m to obose do&#44; kanaha nu mono-usa ni&#44; ito hisasiku nari ni keru wo&#44; yuhudati si te&#44; nagori suzusiki yohi no magire ni&#44; Unmeiden no watari wo tatazumi ariki tamahe ba&#44; kono Naisi&#44; biha wo ito wokasiu hiki wi tari. Omahe nado nite mo&#44; wotokogata no ohom-asobi ni maziri nado si te&#44; koto ni masaru hito naki zyauzu nare ba&#44; mono-uramesiu oboye keru monokara&#44; ito ahare ni kikoyu.</p>
   <p class="shibuya">　たいそう秘密にしているので、源氏の君はご存知ない。お見かけ申しては、まず恨み言を申すので、お年の程もかわいそうなので、慰めてやろうとお思いになるが、その気になれない億劫さで、たいそう日数が経ってしまったが、夕立があって、その後の涼しい夕闇に紛れて、温明殿の辺りを歩き回っていられると、この典侍、琵琶をとても美しく弾いていた。御前などでも殿方の管弦のお遊びに加わりなどして、殊にこの人に勝る人もない名人なので、恨み言を言いたい気分でいたところから、とてもしみじみと聞こえて来る。</p>
   <p class="yosano">　きわめて秘密にしていたので頭中将との関係を源氏は知らなんだ。御殿で見かけると恨みを告げる典侍に、源氏は老いている点にだけ同情を持ちながらもいやな気持ちがおさえ切れずに長く逢いに行こうともしなかったが、夕立のしたあとの夏の夜の涼しさに誘われて<RUBY><RB>温明殿</RB><RP>（</RP><RT>うんめいでん</RT><RP>）</RP></RUBY>あたりを歩いていると、典侍はそこの一室で<RUBY><RB>琵琶</RB><RP>（</RP><RT>びわ</RT><RP>）</RP></RUBY>を<RUBY><RB>上手</RB><RP>（</RP><RT>じょうず</RT><RP>）</RP></RUBY>に<RUBY><RB>弾</RB><RP>（</RP><RT>ひ</RT><RP>）</RP></RUBY>いていた。清涼殿の音楽の御遊びの時、ほかは皆男の殿上役人の中へも加えられて琵琶の役をするほどの名手であったから、それが恋に悩みながら弾く<RUBY><RB>絃</RB><RP>（</RP><RT>いと</RT><RP>）</RP></RUBY>の<RUBY><RB>音</RB><RP>（</RP><RT>ね</RT><RP>）</RP></RUBY>には源氏の心を打つものがあった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Since To~ no Chu~jo~ was secretive, Genji did not know that he had been replaced.  Whenever Naishi caught sight of him she showered him with reproaches. He pitied her in her declining years and would have liked to do something for her, but was not inclined to trouble himself greatly.
+    One evening in the cool after a shower he was strolling past the Ummeiden Pavilion. Naishi was playing on her lute, most appealingly. She was a unique mistress of the instrument, invited sometimes to join men in concerts before the emperor. Unrequited love gave her playing tonight an especial poignancy.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3014,7 +3024,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Uri tukuri ni nari ya si na masi.&#34;</p>
   <p class="shibuya">　「瓜作りになりやしなまし」</p>
   <p class="yosano">　「<RUBY><RB>瓜</RB><RP>（</RP><RT>うり</RT><RP>）</RP></RUBY>作りになりやしなまし」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Shall I marry the melon farmer?" *</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3030,7 +3040,8 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; kowe ha ito wokasiu te utahu zo&#44; sukosi kokorodukinaki. &#34;Gakusiu ni ari kem mukasi no hito mo&#44; kaku ya wokasikari kem.&#34; to&#44; mimi tomari te kiki tamahu. Hiki yami te&#44; ito itau omohi midare taru kehahi nari. Kimi&#44; 'Adumaya' wo sinobiyaka ni utahi te yori tamahe ru ni&#44;</p>
   <p class="shibuya">　と、声はとても美しく歌うのが、ちょっと気に食わない。「鄂州にいたという昔の人も、このように興趣を引かれたのだろうか」と、耳を止めてお聞きになる。弾き止んで、とても深く思い悩んでいる様子である。君が、「東屋」を小声で歌ってお近づきになると、</p>
   <p class="yosano">　という歌を、美声ではなやかに歌っているのには少し反感が起こった。白楽天が聞いたという<RUBY><RB>鄂州</RB><RP>（</RP><RT>がくしゅう</RT><RP>）</RP></RUBY>の女の琵琶もこうした妙味があったのであろうと源氏は聞いていたのである。弾きやめて女は物思いに堪えないふうであった。源氏は<RUBY><RB>御簾</RB><RP>（</RP><RT>みす</RT><RP>）</RP></RUBY>ぎわに寄って<RUBY><RB>催馬楽</RB><RP>（</RP><RT>さいばら</RT><RP>）</RP></RUBY>の<RUBY><RB>東屋</RB><RP>（</RP><RT>あずまや</RT><RP>）</RP></RUBY>を歌っていると、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> she was singing, in very good voice.
+    Though not happy at the thought of having a melon farmer supplant him, he stopped to listen. Might the song of the maiden of E-chou, long ago, have had the same plaintive appeal?+ Naishi seemed to have fallen into a meditative silence. Humming "The Eastern Cottage," # he came up to her door.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3056,7 +3067,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Osi hirai te ki mase.&#34;</p>
   <p class="shibuya">　「押し開いていらっしゃいませ」</p>
   <p class="yosano">　「押し開いて来ませ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> She joined in as he sang: "Open my door and come in."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3072,7 +3083,7 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; uti-sohe taru mo&#44; rei ni tagahi taru kokoti zo suru.</p>
   <p class="shibuya">　と、後を続けて歌うのも、普通の女とは違った気がする。</p>
   <p class="yosano">　という所を同音で添えた。源氏は勝手の違う気がした。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Few women would have been so bold.</p>
   
 </div>
 
@@ -3081,7 +3092,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Tati nururu hito simo ara zi Adumaya ni<BR>&nbsp;&nbsp;&nbsp;&nbsp;utate mo kakaru amasosoki kana</p>
   <p class="shibuya">　「誰も訪れて来て濡れる人もいない東屋に<BR>　　嫌な雨垂れが落ちて来ます」</p>
   <p class="yosano">　　立ち<RUBY><RB>濡</RB><RP>（</RP><RT>ぬ</RT><RP>）</RP></RUBY>るる人しもあらじ東屋に<BR>　　うたてもかかる雨そそぎかな<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">         "No one waits in the rain at my eastern cottage.<br>        Wet are the sleeves of the one who waits within."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3097,7 +3108,7 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; uti-nageku wo&#44; ware hitori simo kiki ohu mazikere do&#44; &#34;Utomasi ya&#44; nanigoto wo kaku made ha.&#34; to&#44; oboyu.</p>
   <p class="shibuya">　と嘆くのを、自分一人が怨み言を負う筋ではないが、「嫌になるな。何をどうしてこんなに嘆くのだろう」と、思われなさる。</p>
   <p class="yosano">　と歌って女は<RUBY><RB>歎息</RB><RP>（</RP><RT>たんそく</RT><RP>）</RP></RUBY>をしている。自分だけを対象としているのではなかろうが、どうしてそんなに人が待たれるのであろうと源氏は思った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    It did not seem right, he thought, that he should be the victim of such reproaches. Had she not yet, after all these years, learned patience?</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3118,7 +3129,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Hitoduma ha ana wadurahasi adumaya no<BR>&nbsp;&nbsp;&nbsp;&nbsp;maya no amari mo nare zi to zo omohu</p>
   <p class="shibuya">　「人妻はもう面倒です<BR>　　あまり親しくなるまいと思います」</p>
   <p class="yosano">　　人妻はあなわづらはし東屋の<BR>　　まやのあまりも<RUBY><RB>馴</RB><RP>（</RP><RT>な</RT><RP>）</RP></RUBY>れじとぞ思ふ<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "On closer terms with the eaves of your eastern cottage<br>        I would not be, for someone is there before me."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3134,7 +3145,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; uti-sugi na mahosikere do&#44; &#34;Amari hasitanaku ya!&#34; to omohikahesi te&#44; hito ni sitagahe ba&#44; sukosi hayarika naru tahaburegoto nado ihikahasi te&#44; kore mo medurasiki kokoti zo si tamahu.</p>
   <p class="shibuya">　と言って、通り過ぎたいが、「あまり無愛想では」と思い直して、相手によるので、少し軽薄な冗談などを言い交わして、これも珍しい経験だとお思いになる。</p>
   <p class="yosano">　と言い捨てて、源氏は行ってしまいたかったのであるが、あまりに侮辱したことになると思って典侍の望んでいたように室内へはいった。源氏は女と朗らかに<RUBY><RB>戯談</RB><RP>（</RP><RT>じょうだん</RT><RP>）</RP></RUBY>などを言い合っているうちに、こうした境地も悪くない気がしてきた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    He would have preferred to move on, but, remembering his manners, decided to accept her invitation. For a time they exchanged pleasant banter. All very novel, thought Genji.</p>
   
 </div>
 
@@ -3143,7 +3154,7 @@
   <p class="romanized">&nbsp;&nbsp;Tounotyuuzyau ha&#44; kono Kimi no itau mamedati sugusi te&#44; tuneni modoki tamahu ga netaki wo&#44; turenaku te utiuti sinobi tamahu katagata ohoka' meru wo&#44; &#34;Ikade mi arahasa m&#34; to nomi omohi wataru ni&#44; kore wo mituke taru kokoti&#44; ito uresi. &#34;Kakaru wori ni&#44; sukosi odosi kikoye te&#44; mikokoro madohasi te&#44; kori nu ya to iha m.&#34; to omohi te&#44; tayume kikoyu.</p>
   <p class="shibuya">　頭中将は、この君がたいそう真面目ぶっていて、いつも非難なさるのが癪なので、何食わぬ顔でこっそりお通いの所があちこちに多くあるらしいのを、「何とか発見してやろう」とばかり思い続けていたところ、この現場を見つけた気分、まこと嬉しい。「このような機会に、少し脅かし申して、お心をびっくりさせて、これに懲りたか、と言ってやろう」と思って、油断をおさせ申す。</p>
   <p class="yosano">　頭中将は源氏がまじめらしくして、自分の恋愛問題を批難したり、注意を与えたりすることのあるのを<RUBY><RB>口惜</RB><RP>（</RP><RT>くちお</RT><RP>）</RP></RUBY>しく思って、素知らぬふうでいて源氏には隠れた恋人が幾人かあるはずであるから、どうかしてそのうちの一つの事実でもつかみたいと常に思っていたが、偶然今夜の会合を来合わせて見た。頭中将はうれしくて、こんな機会に少し<RUBY><RB>威嚇</RB><RP>（</RP><RT>おど</RT><RP>）</RP></RUBY>して、源氏を困惑させて懲りたと言わせたいと思った。それでしかるべく油断を与えておいた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">To~ no Chu~jo~ had long resented Genji's self-righteous way of chiding him for his own adventures. The proper face Genji showed the world seemed to hide rather a lot. To~ no Chu~jo~ had been on the watch for an opportunity to give his friend a little of what he deserved. Now it had come. The sanctimonious one would now be taught a lesson.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3169,7 +3180,7 @@
   <p class="romanized">&nbsp;&nbsp;Kaze hiyayaka ni uti-huki te&#44; yaya hukeyuku hodo ni&#44; sukosi madoromu ni ya to miyuru kesiki nare ba&#44; yawora iri kuru ni&#44; Kimi ha&#44; toke te simo ne tamaha nu kokoro nare ba&#44; huto kikituke te&#44; kono Tyuuzyau to ha omohiyora zu&#44; &#34;Naho wasure gataku su naru Surinokami ni koso ara me.&#34; to obosu ni&#44; otonaotonasiki hito ni&#44; kaku nigenaki hurumahi wo si te&#44; mituke rare m koto ha&#44; hadukasi kere ba&#44;</p>
   <p class="shibuya">　風が冷たく吹いて来て、次第に夜も更けかけてゆくころに、少し寝込んだろうかと思われる様子なので、静かに入って来ると、君は、安心してお眠りになれない気分なので、ふと聞きつけて、この中将とは思いも寄らず、「いまだ未練のあるという修理の大夫であろう」とお思いになると、年配の人に、このような似つかわしくない振る舞いをして、見つけられるのは何とも照れくさいので、</p>
   <p class="yosano">　冷ややかに風が吹き通って夜のふけかかった時分に源氏らが少し寝入ったかと思われる<RUBY><RB>気配</RB><RP>（</RP><RT>けはい</RT><RP>）</RP></RUBY>を見計らって、頭中将はそっと室内へはいって行った。<RUBY><RB>自嘲</RB><RP>（</RP><RT>じちょう</RT><RP>）</RP></RUBY>的な思いに眠りなどにははいりきれなかった源氏は物音にすぐ目をさまして人の近づいて来るのを知ったのである。典侍の古い情人で今も男のほうが離れたがらないという噂のある<RUBY><RB>修理大夫</RB><RP>（</RP><RT>しゅりだゆう</RT><RP>）</RP></RUBY>であろうと思うと、あの老人にとんでもないふしだらな関係を発見された場合の気まずさを思って、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    It was late, and a chilly wind had come up. Genji had dozed off, it seemed. To~ no Chu~jo~ slipped into the room. Too nervous to have more than dozed off, Genji heard him, but did not suspect who it would be. The superintendent of palace repairs, he guessed, was still visiting her. Not for the world would he have had the old man catch him in the company of the old woman.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3190,7 +3201,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ana&#44; wadurahasi. Ide na m yo! Kumo no hurumahi ha&#44; sirukari tura m mono wo. Kokorouku&#44; sukasi tamahi keru yo!&#34;</p>
   <p class="shibuya">　「ああ、厄介な。帰りますよ。夫が後から来ることは、分かっていましたから。ひどいな、おだましになるとは」</p>
   <p class="yosano">　「迷惑になりそうだ、私は帰ろう。<RUBY><RB>旦那</RB><RP>（</RP><RT>だんな</RT><RP>）</RP></RUBY>の来ることは初めからわかっていただろうに、私をごまかして泊まらせたのですね」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "This is a fine thing. I'm going. The spider surely told you to expect him,* and you didn't tell me."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3211,7 +3222,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; nahosi bakari wo tori te&#44; byaubu no usiro ni iri tamahi nu. Tyuuzyau&#44; wokasiki wo nenzi te&#44; hiki tatematuru byaubu no moto ni yori te&#44; gohogoho to tatami yose te&#44; odoroodorosiku sawagasu ni&#44; Naisi ha&#44; nebi tare do&#44; itaku yosibami nayobi taru hito no&#44; sakizaki mo kayau nite&#44; kokoro ugokasu woriwori ari kere ba&#44; narahi te&#44; imiziku kokoroawatatasiki ni mo&#44; &#34;Kono Kimi wo ikani si kikoye nuru ka?&#34; to wabisisa ni&#44; huruhu huruhu tuto hikahe tari. &#34;Tare to sira re de ide na baya.&#34; to obose do&#44; sidokenaki sugata nite&#44; kauburi nado uti-yugame te hasira m usirode omohu ni&#44; &#34;Ito woko naru besi.&#34; to&#44; obosi yasurahu.</p>
   <p class="shibuya">　と言って、直衣だけを取って、屏風の後ろにお入りになった。中将、おかしさを堪えて、お引き廻らしになってある屏風のもとに近寄って、ばたばたと畳み寄せて、大げさに振る舞ってあわてさせると、典侍は、年取っているが、ひどく上品ぶった艶っぽい女で、以前にもこのようなことがあって、肝を冷やしたことが度々あったので、馴れていて、ひどく気は動転していながらも、「この君をどうなされてしまうのか」と心配で、震えながらしっかりと取りすがっている。「誰とも分からないように逃げ出そう」とお思いになるが、だらしない恰好で、冠などをひん曲げて逃げて行くような後ろ姿を思うと、「まことに醜態であろう」と、おためらいなさる。</p>
   <p class="yosano">　と言って、源氏は<RUBY><RB>直衣</RB><RP>（</RP><RT>のうし</RT><RP>）</RP></RUBY>だけを手でさげて<RUBY><RB>屏風</RB><RP>（</RP><RT>びょうぶ</RT><RP>）</RP></RUBY>の後ろへはいった。中将はおかしいのをこらえて源氏が隠れた屏風を前から横へ畳み寄せて騒ぐ。年を取っているが美人型の<RUBY><RB>華奢</RB><RP>（</RP><RT>きゃしゃ</RT><RP>）</RP></RUBY>なからだつきの典侍が以前にも情人のかち合いに困った経験があって、あわてながらも源氏をあとの男がどうしたかと心配して、床の上にすわって<RUBY><RB>慄</RB><RP>（</RP><RT>ふる</RT><RP>）</RP></RUBY>えていた。自分であることを気づかれないようにして去ろうと源氏は思ったのであるが、だらしなくなった姿を直さないで、<RUBY><RB>冠</RB><RP>（</RP><RT>かむり</RT><RP>）</RP></RUBY>をゆがめたまま逃げる後ろ姿を思ってみると、恥な気がしてそのまま落ち着きを作ろうとした。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    He hastily gathered his clothes and hid behind a screen. Fighting back laughter, To~ no Chu~jo~ gave the screen an unnecessarily loud thump and folded it back. Naishi had indulged her amorous ways over long years and had had similarly disconcerting experiences often enough before. What did this person have in mind? What did he mean to do to her Genji? She fluttered about seeking to restrain the intruder. Still ignorant of the latter's identity, Genji thought of headlong flight; but then he thought of his own retreating figure, robes in disorder, cap all askew.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3252,7 +3263,7 @@
   <p class="romanized">&nbsp;&nbsp;Tyuuzyau&#44; &#34;Ikade ware to sira re kikoye zi.&#34; to omohi te&#44; mono mo iha zu&#44; tada imiziu ikare ru kesiki ni motenasi te&#44; tati wo hikinuke ba&#44; Womna&#44;</p>
   <p class="shibuya">　中将、「何とかして自分だとは知られ申すまい」と思って、何とも言わない。ただひどく怒った形相を作って、太刀を引き抜くと、女は、</p>
   <p class="yosano">　中将はぜひとも自分でなく思わせなければならないと知って物を言わない。ただ<RUBY><RB>怒</RB><RP>（</RP><RT>おこ</RT><RP>）</RP></RUBY>ったふうをして<RUBY><RB>太刀</RB><RP>（</RP><RT>たち</RT><RP>）</RP></RUBY>を引き抜くと、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Silently and wrathfully, To~ no Chu~jo~ was brandishing a long sword.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3268,7 +3279,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Aga kimi&#44; aga kimi!&#34;</p>
   <p class="shibuya">　「あなた様、あなた様」</p>
   <p class="yosano">　「あなた、あなた」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Please, sir, please."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3284,7 +3295,7 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; mukahi te te wo suru ni&#44; hotohoto warahi nu besi. Konomasiu wakayagi te motenasi taru uhabe koso&#44; sate mo ari kere&#44; gozihu siti&#44; hati no hito no&#44; utitoke te monoihi sawage ru kehahi&#44; enaranu hatati no wakaudo-tati no ohom-naka nite mono-odi si taru&#44; ito tukinasi. Kau aranu sama ni mote-higame te&#44; osorosige naru kesiki wo misure do&#44; nakanaka siruku mituke tamahi te&#44; &#34;Ware to siri te&#44; kotosarani suru nari keri.&#34; to&#44; woko ni nari nu. &#34;Sono hito na' meri.&#34; to mi tamahu ni&#44; ito wokasi kere ba&#44; tati nuki taru kahina wo torahe te&#44; ito itau tumi tamahe re ba&#44; netaki monokara&#44; e tahe de warahi tamahi nu.</p>
   <p class="shibuya">　と、向かって手を擦り合わせて拝むので、あやうく笑い出してしまいそうになる。好ましく若づくりして振る舞っている表面だけは、まあ見られたものであるが、五十七、八歳の女が、着物をきちんと付けず慌てふためいている様子、実に素晴らしい二十代の若者たちの間にはさまれて怖がっているのは、何ともみっともない。このように別人のように装って、恐ろしい様子を見せるが、かえってはっきりとお見破りになって、「わたしだと知ってわざとやっているのだな」と、馬鹿らしくなった。「あの男のようだ」とお分かりになると、とてもおかしかったので、太刀を抜いている腕をつかまえて、とてもきつくおつねりになったので、悔しいと思いながらも、堪え切れずに笑ってしまった。</p>
   <p class="yosano">　　典侍は頭中将を拝んでいるのである。中将は笑い出しそうでならなかった。平生<RUBY><RB>派手</RB><RP>（</RP><RT>はで</RT><RP>）</RP></RUBY>に作っている外見は相当な若さに見せる典侍も年は五十七、八で、この場合は<RUBY><RB>見得</RB><RP>（</RP><RT>みえ</RT><RP>）</RP></RUBY>も何も捨てて<RUBY><RB>二十</RB><RP>（</RP><RT>はたち</RT><RP>）</RP></RUBY>前後の<RUBY><RB>公達</RB><RP>（</RP><RT>きんだち</RT><RP>）</RP></RUBY>の中にいて気をもんでいる様子は醜態そのものであった。わざわざ恐ろしがらせよう自分でないように見せようとする不自然さがかえって源氏に真相を教える結果になった。自分と知ってわざとしていることであると思うと、どうでもなれという気になった。いよいよ頭中将であることがわかるとおかしくなって、抜いた太刀を持つ<RUBY><RB>肱</RB><RP>（</RP><RT>ひじ</RT><RP>）</RP></RUBY>をとらえてぐっとつねると、中将は<RUBY><RB>見顕</RB><RP>（</RP><RT>みあら</RT><RP>）</RP></RUBY>わされたことを残念に思いながらも笑ってしまった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Naishi knelt before him wringing her hands. He could hardly control the urge to laugh. Her youthful smartness had taken a great deal of contriving, but she was after all nearly sixty. She was ridiculous, hopping back and forth between two handsome young men. To~ no Chu~jo~ was playing his role too energetically. Genji guessed who he was. He guessed too that this fury had to do with the fact that he was himself known. It all seemed very stupid and very funny. He gave the arm wielding the sword a stout pinch and To~ no Chu~jo~ finally surrendered to laughter.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3325,7 +3336,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Makoto ha&#44; utusigokoro ka to yo! Tahabure nikusi ya! Ide&#44; kono nahosi ki m.&#34;</p>
   <p class="shibuya">　「ほんと、正気の沙汰かね。冗談も出来ないね。さあ、この直衣を着よう」</p>
   <p class="yosano">　「本気なの、ひどい男だね。ちょっとこの<RUBY><RB>直衣</RB><RP>（</RP><RT>のうし</RT><RP>）</RP></RUBY>を着るから」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "You are insane,"  said Genji. "And these jokes of yours are dangerous. Let me have my clothes, if you will."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3341,7 +3352,7 @@
   <p class="romanized">&nbsp;&nbsp;to notamahe do&#44; tuto torahe te&#44; sarani yurusi kikoye zu.</p>
   <p class="shibuya">　とおっしゃるが、しっかりとつかんで、全然お放し申さない。</p>
   <p class="yosano">　と源氏が言っても、中将は直衣を放してくれない。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">But To~ no Chu~jo~ refused to surrender them.</p>
   
 </div>
 
@@ -3350,7 +3361,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Saraba&#44; morotomoni koso.&#34;</p>
   <p class="shibuya">　「それでは、一緒に」</p>
   <p class="yosano">　「じゃ君にも脱がせるよ」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Well, then, let's be undressed together."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3366,7 +3377,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; Tyuuzyau no obi wo hiki toki te nugase tamahe ba&#44; nuga zi to sumahu wo&#44; tokaku hikisirohu hodo ni&#44; hokorobi ha horohoro to taye nu. Tyuuzyau&#44;</p>
   <p class="shibuya">　と言って、中将の帯を解いてお脱がせになると、脱ぐまいと抵抗するのを、何かと引っ張り合ううちに、開いている所からびりびりと破れてしまった。中将は、</p>
   <p class="yosano">　と言って、中将の帯を引いて解いてから、直衣を脱がせようとすると、脱ぐまいと抵抗した。引き合っているうちに縫い目がほころんでしまった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">  Genji undid his friend's belt and sought to pull off his clothes, and as they disputed the matter Genji burst a seam in an underrobe.</p>
   
 </div>
 
@@ -3375,7 +3386,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Tutumu meru na ya mori ide m hikikahasi<BR>&nbsp;&nbsp;&nbsp;&nbsp;kaku hokoroburu naka no koromo ni</p>
   <p class="shibuya">　「隠している浮名も洩れ出てしまいましょう<BR>　　引っ張り合って破れてしまった二人の仲の衣から</p>
   <p class="yosano">　　「包むめる名や<RUBY><RB>洩</RB><RP>（</RP><RT>も</RT><RP>）</RP></RUBY>り<RUBY><RB>出</RB><RP>（</RP><RT>い</RT><RP>）</RP></RUBY>でん引きかはし<BR>　　かくほころぶる中の衣に<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Your fickle name so wants to be known to the world<br>    That it bursts its way through this warmly disputed garment.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3391,7 +3402,7 @@
   <p class="romanized">&nbsp;&nbsp;Uhe ni tori ki ba&#44; sirukara m.&#34;</p>
   <p class="shibuya">　上に着たら、明白でしょうよ」</p>
   <p class="yosano">　明るみへ出ては困るでしょう」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "It is not your wish, I am sure, that all the world should notice." *</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3407,7 +3418,7 @@
   <p class="romanized">&nbsp;&nbsp;to ihu. Kimi&#44;</p>
   <p class="shibuya">　と言う。君は、</p>
   <p class="yosano">　と中将が言うと、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">Genji replied:</p>
   
 </div>
 
@@ -3416,7 +3427,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Kakure naki mono to siru siru natugoromo<BR>&nbsp;&nbsp;&nbsp;&nbsp;ki taru wo usuki kokoro to zo miru</p>
   <p class="shibuya">　「この女との仲まで知られてしまうのを承知の上でやって来て<BR>　　夏衣を着るとは、何と薄情で浅薄なお気持ちかと思いますよ」</p>
   <p class="yosano">　　隠れなきものと知る知る夏衣<BR>　　きたるをうすき心とぞ見る<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "You taunt me, sir, with being a spectacle<br>  When you know full well that your own summer robes are showy."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3432,7 +3443,7 @@
   <p class="romanized">&nbsp;&nbsp;to ihikahasi te&#44; urayami naki sidokena sugata ni hiki nasa re te&#44; mina ide tamahi nu.</p>
   <p class="shibuya">　と詠み返して、恨みっこなしのだらしない恰好に引き破られて、揃ってお出になった。</p>
   <p class="yosano">　と源氏も負けてはいないのである。双方ともだらしない姿になって行ってしまった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Somewhat rumpled, they went off together, the best of friends.</p>
   
 </div>
 
@@ -3445,7 +3456,8 @@
   <p class="romanized">&nbsp;&nbsp;Kimi ha&#44; &#34;Ito kutiwosiku mituke rare nuru koto.&#34; to omohi&#44; husi tamahe ri. Naisi ha&#44; asamasiku oboye kere ba&#44; oti tomare ru ohom-sasinuki&#44; obi nado&#44; tutomete tatemature ri.</p>
   <p class="shibuya">　君は、「実に残念にも見つけられてしまったことよ」と思って、臥せっていらっしゃった。典侍は、情けないことと思ったが、落としていった御指貫や、帯などを、翌朝お届け申した。</p>
   <p class="yosano">　源氏は友人に<RUBY><RB>威嚇</RB><RP>（</RP><RT>おど</RT><RP>）</RP></RUBY>されたことを残念に思いながら<RUBY><RB>宿直所</RB><RP>（</RP><RT>とのいどころ</RT><RP>）</RP></RUBY>で寝ていた。驚かされた典侍は翌朝残っていた<RUBY><RB>指貫</RB><RP>（</RP><RT>さしぬき</RT><RP>）</RP></RUBY>や帯などを持たせてよこした。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> But as Genji went to bed he felt that he had been the loser, caught in such a very compromising position.
+    An outraged Naishi came the next morning to return a belt and a pair of trousers. She handed Genji a note:</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3461,7 +3473,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Urami te mo ihukahi zo naki tati-kasane<BR>&nbsp;&nbsp;&nbsp;&nbsp;hiki te kaheri si nami no nagori ni</p>
   <p class="shibuya">　「恨んでも何の甲斐もありません<BR>　　次々とやって来ては帰っていったお二人の波の後では</p>
   <p class="yosano">　　「恨みても<RUBY><RB>云</RB><RP>（</RP><RT>い</RT><RP>）</RP></RUBY>ひがひぞなき立ち重ね<BR>　　引きて帰りし波のなごりに<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I need not comment now upon my feelings.<br>    The waves that came in together went out together, leaving a dry river bed."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3493,7 +3505,7 @@
   <p class="romanized">&nbsp;&nbsp;to ari. &#34;Omona no sama ya!&#34; to mi tamahu mo nikukere do&#44; warinasi to omohe ri si mo sasuga ni te&#44;</p>
   <p class="shibuya">　とある。「臆面もないありさまだ」と御覧になるのも憎らしいが、困りきっているのもやはりかわいそうなので、</p>
   <p class="yosano">　という手紙が添えてあった。面目なく思うのであろうと源氏はなおも不快に昨夜を思い出したが、気をもみ抜いていた女の様子にあわれんでやってよいところもあったので返事を書いた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    It was an inappropriate reproof after the predicament in which she had placed him, thought Genji, and yet he could imagine how upset she must be. This was his reply:</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3509,7 +3521,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Aradati si nami ni kokoro ha sawaga ne do <BR>&nbsp;&nbsp;&nbsp;&nbsp;yose kem iso wo ikaga urami nu</p>
   <p class="shibuya">　「荒々しく暴れた頭中将には驚かないが<BR>　　その彼を寄せつけたあなたをどうして恨まずにはいられようか」</p>
   <p class="yosano">　　<RUBY><RB>荒</RB><RP>（</RP><RT>あれ</RT><RP>）</RP></RUBY>だちし波に心は騒がねど<BR>　　よせけん<RUBY><RB>磯</RB><RP>（</RP><RT>いそ</RT><RP>）</RP></RUBY>をいかが恨みぬ<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "I shall not complain of the wave that came raging in,<br>    But of the welcoming strand I must complain."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3525,7 +3537,7 @@
   <p class="romanized">&nbsp;&nbsp;to nomi nam ari keru. Obi ha&#44; Tyuuzyau no nari keri. Waga ohom-nahosi yori ha iro hukasi&#44; to mi tamahu ni&#44; hatasode mo nakari keri.</p>
   <p class="shibuya">　とだけあった。帯は、中将のであった。ご自分の直衣よりは色が濃い、と御覧になると、端袖もないのであった。</p>
   <p class="yosano">　とだけである。帯は中将の物であった。自分のよりは少し色が濃いようであると、源氏が昨夜の直衣に合わせて見ている時に、直衣の<RUBY><RB>袖</RB><RP>（</RP><RT>そで</RT><RP>）</RP></RUBY>がなくなっているのに気がついた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">The belt was To~ no Chu~jo~'s of a color too dark to go with Genji's robe. He saw that he had lost a length of sleeve.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3541,7 +3553,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Ayasi no koto-domo ya! Oritati te midaruru hito ha&#44; mube wokogamasiki koto ha ohokara m.&#34; to&#44; itodo mikokoro wosame rare tamahu.</p>
   <p class="shibuya">　「見苦しいことだ。夢中になって浮気に耽る人は、このとおり馬鹿馬鹿しい目を見ることも多いのだろう」と、ますます自重せずにはいらっしゃれない。</p>
   <p class="yosano">　なんというはずかしいことだろう、女をあさる人になればこんなことが始終あるのであろうと源氏は反省した。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">A most unseemly performance. People who wandered the way of love found themselves in mad situations. With that thought he quelled his ardor.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3562,7 +3574,8 @@
   <p class="romanized">&nbsp;&nbsp;Tyuuzyau&#44; tonowidokoro yori&#44; &#34;Kore&#44; madu todi tuke sase tamahe.&#34; tote&#44; osi-tutumi te okose taru wo&#44; &#34;Ikade tori tura m?&#34; to&#44; kokoroyamasi. &#34;Kono obi wo e zara masika ba.&#34; to obosu. Sono iro no kami ni tutumi te&#44;</p>
   <p class="shibuya">　中将が、宿直所から、「これを、まずはお付けあそばせ」といって、包んで寄こしたのを、「どうやって、持って行ったのか」と憎らしく思う。「この帯を獲らなかったら、大変だった」とお思いになる。同じ色の紙に包んで、</p>
   <p class="yosano">　頭中将の宿直所のほうから、何よりもまずこれをお<RUBY><RB>綴</RB><RP>（</RP><RT>と</RT><RP>）</RP></RUBY>じつけになる必要があるでしょう。と書いて直衣の袖を包んでよこした。どうして取られたのであろうと源氏はくやしかった。中将の帯が自分の手にはいっていなかったらこの争いは負けになるのであったとうれしかった。帯と同じ色の紙に包んで、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    On duty in the palace, To~ no Chu~jo~ had the missing length of sleeve wrapped and returned, with the suggestion that it be restored to its proper place. Genji would have liked to know when he had succeeded in tearing it off. It was some comfort that he had the belt.
+    He returned it, wrapped in matching paper, with this poem:</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3588,7 +3601,8 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Naka taye ba kakoto ya ohu to ayahusa ni<BR>&nbsp;&nbsp;&nbsp;&nbsp;hanada no obi wo tori te dani mi zu</p>
   <p class="shibuya">　「仲が切れたらわたしのせいだと非難されようかと思ったが<BR>　　縹の帯などわたしには関係ありません」</p>
   <p class="yosano">　　中絶えばかごとや負ふと危ふさに<BR>　　<RUBY><RB>縹</RB><RP>（</RP><RT>はなだ</RT><RP>）</RP></RUBY>の帯はとりてだに見ず<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">        "Not to be charged with having taken your take,
+        I return this belt of indigo undamaged."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3604,7 +3618,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; yari tamahu. Tati-kaheri&#44;</p>
   <p class="shibuya">　といって、お遣りになる。折り返し、</p>
   <p class="yosano">　と書いて源氏は持たせてやった。女の所で解いた帯に他人の手が触れるとその恋は解消してしまうとも言われているのである。中将からまた折り返して、<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">An answer came immediately:</p>
   
 </div>
 
@@ -3613,7 +3627,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Kimi ni kaku hiki-tora re nuru obi nare ba<BR>&nbsp;&nbsp;&nbsp;&nbsp;kaku te taye nuru naka to kakota m</p>
   <p class="shibuya">　「あなたにこのように取られてしまった帯ですから<BR>　　こんな具合に仲も切れてしまったものとしましょうよ</p>
   <p class="yosano">　　君にかく引き取られぬる帯なれば<BR>　　かくて絶えぬる中とかこたん<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">        "I doubted not that you took my indigo belt,<br>        And charge you now with taking the lady too.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3629,7 +3643,7 @@
   <p class="romanized">&nbsp;&nbsp;E nogare sase tamaha zi.&#34;</p>
   <p class="shibuya">　逃れることはできませんよ」</p>
   <p class="yosano">　なんといっても責任がありますよ。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> You will pay for it, sir, one day."</p>
   
 </div>
 
@@ -3647,7 +3661,8 @@
   <p class="romanized">&nbsp;&nbsp;Hi take te&#44; onoono tenzyau ni mawiri tamahe ri. Ito siduka ni&#44; mono-tohoki sama si te ohasuru ni&#44; Tounokimi mo ito wokasikere do&#44; ohoyakegoto ohoku sousi kudasu hi nite&#44; ito uruhasiku sukuyoka naru wo miru mo&#44; katamini hohowema ru. Hitoma ni sasi-yori te&#44;</p>
   <p class="shibuya">　日が高くなってから、それぞれ殿上に参内なさった。とても落ち着いて、知らぬ顔をしていらっしゃると、頭の君もとてもおかしかったが、公事を多く奏上し宣下する日なので、実に端麗に真面目くさっているのを見るのも、お互いについほほ笑んでしまう。人のいない隙に近寄って、</p>
   <p class="yosano">　昼近くになって殿上の詰め所へ二人とも行った。取り澄ました顔をしている源氏を見ると中将もおかしくてならない。その日は自身も<RUBY><RB>蔵人頭</RB><RP>（</RP><RT>くろうどのかみ</RT><RP>）</RP></RUBY>として公用の多い日であったから至極まじめな顔を作っていた。しかしどうかした拍子に目が合うと互いにほほえまれるのである。だれもいぬ時に中将がそばへ寄って来て言った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Both were at court that afternoon. To~ no Chu~jo~ had to smile at Genji's cool aloofness as he sorted out petitions and orders, and his own businesslike efficiency was as amusing to Genji. They exchanged frequent smiles.
+    To~ no Chu~jo~ came up to Genji when no one else was near.</p>
   
 </div>
 
@@ -3656,7 +3671,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Mono-gakusi ha kori nu ram kasi.&#34;</p>
   <p class="shibuya">　「秘密事は懲りたでしょう」</p>
   <p class="yosano">　「隠し事には懲りたでしょう」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> "You have  had enough, I hope," he said,</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3672,7 +3687,7 @@
   <p class="romanized">&nbsp;&nbsp;tote&#44; ito netage naru sirime nari.</p>
   <p class="shibuya">　と言って、とても憎らしそうな流し目である。</p>
   <p class="yosano">　<RUBY><RB>尻目</RB><RP>（</RP><RT>しりめ</RT><RP>）</RP></RUBY>で見ている。優越感があるようである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> with a fierce sidelong glance, "of these clandestine adventures?"</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3688,7 +3703,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Nado te ka&#44; sasimo ara m. Tati nagara kaheri kem hito koso&#44; itohosi kere. Makoto ha&#44; usi ya&#44; yononaka yo!&#34;</p>
   <p class="shibuya">　「どうして、そんなことがありましょう。そのまま帰ってしまったあなたこそ、お気の毒だ。本当の話、嫌なものだよ、男女の仲とは」</p>
   <p class="yosano">　「なあに、それよりもせっかく来ながら無駄だった人が気の毒だ。まったくは君やっかいな女だね」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "Why, pray, should I? The chief hurt was to you who were not invited --and it matters a great deal, since you do so love each other."*</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3709,7 +3724,7 @@
   <p class="romanized">&nbsp;&nbsp;to ihi ahase te&#44; &#34;Tokonoyama naru&#34; to&#44; katami ni kuti gatamu.</p>
   <p class="shibuya">　と言い交わして、「鳥籠の山にある川の名」と、互いに口固めしあう。</p>
   <p class="yosano">　秘密にしようと言い合ったが、それからのち中将はどれだけあの晩の騒ぎを言い出して源氏を苦笑させたかしれない。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> And they made a bond of silence, a vow that they would behave like the Know-Nothing River.+</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3725,7 +3740,7 @@
   <p class="romanized">&nbsp;&nbsp;Sate&#44; sono noti&#44; tomosureba koto no tuide goto ni&#44; ihi mukahuru kusahahi naru wo&#44; itodo mono-mutukasiki hito yuwe to&#44; obosi siru besi. Womna ha&#44; naho ito en ni urami kakuru wo&#44; wabisi to omohi ariki tamahu.</p>
   <p class="shibuya">　さて、それから後、ともすれば何かの折毎に、話に持ち出す種とするので、ますますあの厄介な女のためにと、お思い知りになったであろう。女は、相変わらずまこと色気たっぷりに恨み言をいって寄こすが、興醒めだと逃げ回りなさる。</p>
   <p class="yosano">　それは恋しい女のために受ける罰でもないのである。女は続いて源氏の心を<RUBY><RB>惹</RB><RP>（</RP><RT>ひ</RT><RP>）</RP></RUBY>こうとしていろいろに技巧を用いるのを源氏はうるさがっていた。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    To~ no Chu~jo~ lost no opportunity to remind Genji of the incident. And it had all been because of that troublesome old woman, thought Genji. He would not again make such a mistake. It was a trial to him that she continued, all girlishly, to make known her resentment.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3751,7 +3766,7 @@
   <p class="romanized">&nbsp;&nbsp;Tyuuzyau ha&#44; imouto no kimi ni mo kikoye ide zu&#44; tada&#44; &#34;Sarubeki wori no odosi gusa ni se m.&#34; to zo omohi keru. Yamgotonaki ohom-harabara no Miko-tati dani&#44; Uhe no ohom-motenasi no koyonaki ni wadurahasigari te&#44; ito koto ni sari kikoye tamahe ru wo&#44; kono Tyuuzyau ha&#44; &#34;Sarani osi-keta re kikoezi.&#34; to&#44; hakanaki koto ni tuke te mo&#44; omohi idomi kikoye tamahu.</p>
   <p class="shibuya">　中将は、妹の君にも申し上げず、ただ、「何かの時の脅迫の材料にしよう」と思っていた。高貴な身分の妃からお生まれになった親王たちでさえ、お上の御待遇がこの上ないのを憚って、とても御遠慮申し上げていらっしゃるのに、この中将は、「絶対に圧倒され申すまい」と、ちょっとした事柄につけても対抗申し上げなさる。</p>
   <p class="yosano">　中将は妹にもその話はせずに、自分だけが源氏を困らせる用に使うほうが有利だと思っていた。よい外戚をお持ちになった親王方も<RUBY><RB>帝</RB><RP>（</RP><RT>みかど</RT><RP>）</RP></RUBY>の<RUBY><RB>殊寵</RB><RP>（</RP><RT>しゅちょう</RT><RP>）</RP></RUBY>される源氏には一目置いておいでになるのであるが、この頭中将だけは、負けていないでもよいという自信を持っていた。ことごとに競争心を見せるのである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> To~ no Chu~jo~ did not tell his sister, Genji's wife, of the affair, but he did want to keep it in reserve. Because he was his father's favorite, Genji was treated respectfully even by princes whose mothers were of the highest rank, and only To~ no Chu~jo~ refused to be awed by him. Indeed he was prepared to contest every small point.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3782,7 +3797,7 @@
   <p class="romanized">&nbsp;&nbsp;Kono Kimi hitori zo&#44; Himegimi no ohom-hitotubara nari keru. Mikado no miko to ihu bakari ni koso are&#44; ware mo&#44; onazi otodo to kikoyure do&#44; ohom-oboye koto naru ga&#44; Mikobara nite matanaku kasiduka re taru ha&#44; nani bakari otoru beki kiha to&#44; oboye tamaha nu naru besi. Hitogara mo&#44; aru beki kagiri totonohi te&#44; nanigoto mo aramahosiku&#44; tarahi te zo monosi tamahi keru. Kono ohom-nakadomo no idomi koso&#44; ayasikari sika. Saredo&#44; urusaku te nam.</p>
   <p class="shibuya">　この君一人が、姫君と同腹なのであった。帝のお子というだけだ、自分だって、同じ大臣と申すが、ご信望の格別な方が、内親王腹にもうけた子息として大事に育てられているのは、どれほども劣る身分とは、お思いにならないのであろう。人となりも、すべて整っており、どの面でも理想的で、満ち足りていらっしゃるのであった。このお二方の競争は、変わっているところがあった。けれども、煩わしいので省略する。</p>
   <p class="yosano">　左大臣の<RUBY><RB>息子</RB><RP>（</RP><RT>むすこ</RT><RP>）</RP></RUBY>の中でこの人だけが源氏の夫人と同腹の内親王の母君を持っていた。源氏の君はただ皇子であるという点が違っているだけで、自分も同じ大臣といっても最大の権力のある大臣を父として、皇女から生まれてきたのである、たいして違わない尊貴さが自分にあると思うものらしい。人物も<RUBY><RB>怜悧</RB><RP>（</RP><RT>れいり</RT><RP>）</RP></RUBY>で何の学問にも通じたりっぱな公子であった。つまらぬ事までも二人は競争して人の話題になることも多いのである。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> He and his sister, alone among the minister's children, had the emperor's sister for their mother. Genji belonged, it was true, to the royal family, but the son of the emperor's sister and of his favorite minister did not feel that he had to defer to anyone; and it was impossible to deny that he was a very splendid young gentleman. The rivalry between the two produced other amusing stories, I am sure, but it would be tedious to collect and recount them.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3821,7 +3836,7 @@
   <p class="romanized">&nbsp;&nbsp;Sitigwati ni zo Kisaki wi tamahu meri si. Genzinokimi&#44; saisyau ni nari tamahi nu. Mikado&#44; oriwi sase tamaha m no mikokorodukahi tikau nari te&#44; kono Wakamiya wo bau ni&#44; to omohi kikoye sase tamahu ni&#44; ohom-usiromi si tamahu beki hito ohase zu. Ohom-hahagata no&#44; mina Miko-tati nite&#44; Genzi no ohoyakegoto siri tamahu sudi nara ne ba&#44; Hahamiya wo dani ugoki naki sama ni si oki tatematuri te&#44; tuyori ni to obosu ni nam ari keru.</p>
   <p class="shibuya">　七月に、后がお立ちになるようであった。源氏の君、宰相におなりになった。帝、御譲位あそばすお心づもりが近くなって、この若君を春宮に、とお考えあそばされるが、御後見なさるべき方がいらっしゃらない。御母方が、みな親王方で、皇族が政治を執るべき筋合ではないので、せめて母宮だけでも不動の地位におつけ申して、お力にとお考えあそばすのであった。</p>
   <p class="yosano">　この七月に皇后の<RUBY><RB>冊立</RB><RP>（</RP><RT>さくりつ</RT><RP>）</RP></RUBY>があるはずであった。源氏は中将から参議に<RUBY><RB>上</RB><RP>（</RP><RT>のぼ</RT><RP>）</RP></RUBY>った。帝が近く譲位をあそばしたい<RUBY><RB>思召</RB><RP>（</RP><RT>おぼしめ</RT><RP>）</RP></RUBY>しがあって、<RUBY><RB>藤壺</RB><RP>（</RP><RT>ふじつぼ</RT><RP>）</RP></RUBY>の宮のお生みになった若宮を東宮にしたくお思いになったが将来御後援をするのに適当な人がない。母方の御<RUBY><RB>伯父</RB><RP>（</RP><RT>おじ</RT><RP>）</RP></RUBY>は皆親王で実際の政治に携わることのできないのも不文律になっていたから、母宮をだけでも后の位に<RUBY><RB>据</RB><RP>（</RP><RT>す</RT><RP>）</RP></RUBY>えて置くことが若宮の強味になるであろうと思召して藤壺の宮を<RUBY><RB>中宮</RB><RP>（</RP><RT>ちゅうぐう</RT><RP>）</RP></RUBY>に擬しておいでになった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    In the Seventh Month, Fujitsubo was made empress. Genji was given a seat on the council of state. Making plans for his abdication, the emperor wanted to name Fujitsubo's son crown prince. The child had no strong backing, however. His uncles were all princes of the blood, and it was not for them to take command of public affairs. The emperor therefore wanted Fujitsubo in an unassailable position from which to promote her son's career.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3852,7 +3867,7 @@
   <p class="romanized">&nbsp;&nbsp;Koukiden&#44; itodo mikokoro ugoki tamahu&#44; kotowari nari. Saredo&#44;</p>
   <p class="shibuya">　弘徽殿、ますますお心穏やかでない、道理である。けれども、</p>
   <p class="yosano">　弘徽殿の女御がこれに<RUBY><RB>平</RB><RP>（</RP><RT>たい</RT><RP>）</RP></RUBY>らかでないことに道理はあった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    Kokiden's anger, most naturally, reached new peaks of intensity.</p>
   
 </div>
 
@@ -3861,7 +3876,7 @@
   <p class="romanized">&nbsp;&nbsp;&#34;Touguu no miyo&#44; ito tikau nari nure ba&#44; utagahi naki mikurawi nari. Omohosi nodome yo.&#34;</p>
   <p class="shibuya">　「春宮の御世が、もう直ぐになったのだから、疑いない御地位である。ご安心されよ」</p>
   <p class="yosano">　「しかし皇太子の即位することはもう近い将来のことなのだから、その時は当然皇太后になりうるあなたなのだから、気をひろくお持ちなさい」<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    "You needn't be in such a stir,"  said the emperor. "Our son's day is coming, and no one will be in a position to challenge you."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3877,7 +3892,7 @@
   <p class="romanized">&nbsp;&nbsp;to zo kikoye sase tamahi keru. &#34;Geni&#44; Touguu no ohom-haha nite nizihuyonen ni nari tamahe ru Nyougo wo oki tatematuri te ha&#44; hiki-kosi tatematuri tamahi gataki koto nari kasi.&#34; to&#44; rei no&#44; yasukara zu yohito mo kikoye keri.</p>
   <p class="shibuya">　とお慰め申し上げあそばすのであった。「なるほど、春宮の御母堂として二十余年におなりの女御を差し置き申して、先にお越し申されることは難しいことだ」と、例によって、穏やかならず世間の人も噂するのであった。</p>
   <p class="yosano">　帝はこんなふうに女御を慰めておいでになった。皇太子の母君で、入内して二十幾年になる女御をさしおいて藤壺を后にあそばすことは当を得たことであるいはないかもしれない。例のように世間ではいろいろに言う者があった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    As always, people talked. It was not an easy thing, in naming an empress, to pass over a lady who had for more than twenty years been the mother of the crown prince.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3898,7 +3913,7 @@
   <p class="romanized">&nbsp;&nbsp;Mawiri tamahu yo no ohom-tomo ni&#44; Saisyaunokimi mo tukaumaturi tamahu. Onazi Miya to kikoyuru naka ni mo&#44; Kisakibara no Miko&#44; tama hikari kakayaki te&#44; taguhinaki ohom-oboye ni sahe monosi tamahe ba&#44; hito mo ito koto ni omohi kasiduki kikoye tari. Masite&#44; warinaki mikokoro ni ha&#44; mikosi no uti mo omohiyara re te&#44; itodo oyobi naki kokoti si tamahu ni&#44; suzurohasiki made nam.</p>
   <p class="shibuya">　参内なさる夜のお供に、宰相君もお仕え申し上げなさる。同じ宮と申し上げる中でも、后腹の内親王で、玉のように美しく光り輝いて、類ない御寵愛をさえ蒙っていらっしゃるので、世間の人々もとても特別に御奉仕申し上げた。言うまでもなく、切ないお心の中では、御輿の中も思いやられて、ますます手も届かない気持ちがなさると、じっとしてはいられないまでに思われた。</p>
   <p class="yosano">　儀式のあとで御所へおはいりになる新しい中宮のお供を源氏の君もした。后と一口に申し上げても、この方の御身分は后腹の内親王であった。<RUBY><RB>全</RB><RP>（</RP><RT>まった</RT><RP>）</RP></RUBY>い宝玉のように輝やくお后と見られたのである。それに帝の御<RUBY><RB>寵愛</RB><RP>（</RP><RT>ちょうあい</RT><RP>）</RP></RUBY>もたいしたものであったから、満廷の官人がこの后に奉仕することを喜んだ。道理のほかまでの好意を持った源氏は、<RUBY><RB>御輿</RB><RP>（</RP><RT>みこし</RT><RP>）</RP></RUBY>の中の恋しいお姿を想像して、いよいよ遠いはるかな、手の届きがたいお方になっておしまいになったと心に<RUBY><RB>歎</RB><RP>（</RP><RT>なげ</RT><RP>）</RP></RUBY>かれた。気が変になるほどであった。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden"> Genji was in attendance the night Fujitsubo made her formal appearance as empress. Among His Majesty's ladies she alone was the daughter of an empress, and she was herself a flawless jewel; but for one man, at least, it was not an occasion for gladness. With anguish he thought of the lady inside the ceremonial palanquin. She would now be quite beyond his reach.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3934,7 +3949,7 @@
   <p class="romanized">&nbsp;&nbsp;&nbsp;&nbsp;&#34;Tuki mo se nu kokoro no yami ni kururu kana<BR>&nbsp;&nbsp;&nbsp;&nbsp;kumowi ni hito wo miru ni tuke te mo</p>
   <p class="shibuya">　「尽きない恋の思いに何も見えない<BR>　　はるか高い地位につかれる方を仰ぎ見るにつけても」</p>
   <p class="yosano">　　つきもせぬ心の<RUBY><RB>闇</RB><RP>（</RP><RT>やみ</RT><RP>）</RP></RUBY>にくるるかな<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">                " I see her disappear behind the clouds<br>                  And am left to grope my way through deepest darkness."</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -3959,7 +3974,7 @@
   <p class="romanized">&nbsp;&nbsp;Miko ha&#44; oyosuke tamahu tukihi ni sitagahi te&#44; ito mi tatematuri waki gatage naru wo&#44; Miya&#44; ito kurusi&#44; to obose do&#44; omohiyoru hito naki na'meri kasi. Geni&#44; ika sama ni tukurikahe te ka ha&#44; otora nu ohom-arisama ha&#44; yo ni ide monosi tamaha masi. Tukihi no hikari no sora ni kayohi taru yau ni&#44; zo yohito mo omohe ru.</p>
   <p class="shibuya">　皇子は、ご成長なさっていく月日につれて、とてもお見分け申しがたいほどでいらっしゃるのを、宮は、まこと辛い、とお思いになるが、気付く人はいないらしい。なるほど、どのように作り変えたならば、負けないくらいの方がこの世にお生まれになろうか。月と日が似通って光り輝いているように、世人も思っていた。</p>
   <p class="yosano">　若宮のお顔は御生育あそばすにつれてますます源氏に似ておいきになった。だれもそうした秘密に気のつく者はないようである。何をどう作り変えても源氏と同じ<RUBY><RB>美貌</RB><RP>（</RP><RT>びぼう</RT><RP>）</RP></RUBY>を見うることはないわけであるが、この二人の皇子は月と日が同じ形で空にかかっているように似ておいでになると世人も思った。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">    The days and months passed, and the little prince was becoming the mirror image of Genji. Though Fujitsubo was in constant tenor, it appeared that no one had guessed the truth. How, people asked, could someone who was not Genji yet be as handsome as Genji? They were, Genji and the little prince, like the sun and moon side by side in the heavens.</p>
   
   <div class="annotations">
 	<p class="annotation">

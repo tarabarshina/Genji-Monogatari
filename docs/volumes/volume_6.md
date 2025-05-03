@@ -4556,7 +4556,7 @@
   <p class="romanized">&nbsp;&nbsp;Nideunowin ni ohasi tare ba&#44; Murasakinokimi&#44; ito mo utukusiki kataohi nite&#44; &#34;Kurenawi ha kau natukasiki mo ari keri.&#34; to miyuru ni&#44; mumon no sakura no hosonaga&#44; nayoraka ni ki nasi te&#44; nanigokoro mo naku te monosi tamahu sama&#44; imiziu rautasi. Kotai no Obagimi no ohom-nagori nite&#44; hagurome mo madasikari keru wo&#44; hiki-tukuroha se tamahe re ba&#44; mayu no kezayaka ni nari taru mo&#44; utukusiu kiyora nari. &#34;Kokorokara&#44; nadoka&#44; kau ukiyo wo mi atukahu ram? Kaku kokorogurusiki mono wo mo mi te wi tara de.&#34; to&#44; obosi tutu&#44; rei no&#44; morotomoni hihinaasobi si tamahu.</p>
   <p class="shibuya">　二条の院にお帰りになると、紫の君、とてもかわいらしい幼な娘で、「紅色でもこうも慕わしいものもあるものだ」と見える着物の上に、無紋の桜襲の細長、しなやかに着こなして、あどけない様子でいらっしゃる姿、たいそうかわいらしい。古風な祖母君のお躾のままで、お歯黒もまだであったのを、お化粧をさせなさったので、眉がくっきりとなっているのも、かわいらしく美しい。「自ら求めて、どうして、こうもうっとうしい事にかかずらっているのだろう。こんなにかわいい人とも一緒にいないで」と、お思いになりながら、例によって、一緒にお人形遊びをなさる。</p>
   <p class="yosano">　二条の院へ帰って源氏の見た、半分だけ大人のような姿の若紫がかわいかった。<RUBY><RB>紅</RB><RP>（</RP><RT>あか</RT><RP>）</RP></RUBY>い色の感じはこの人からも受け取れるが、こんなになつかしい紅もあるのだったと見えた。無地の桜色の細長を柔らかに着なした人の無邪気な身の取りなしが美しくかわいいのである。昔風の祖母の好みでまだ染めてなかった歯を黒くさせたことによって、美しい<RUBY><RB>眉</RB><RP>（</RP><RT>まゆ</RT><RP>）</RP></RUBY>も引き立って見えた。自分のすることであるがなぜつまらぬいろいろな女を情人に持つのだろう、こんなに<RUBY><RB>可憐</RB><RP>（</RP><RT>かれん</RT><RP>）</RP></RUBY>な人とばかりいないでと源氏は思いながらいつものように<RUBY><RB>雛</RB><RP>（</RP><RT>ひな</RT><RP>）</RP></RUBY>遊びの仲間になった。<BR></p>
-  <p class="seiden">'    Back at Nijo~, his Murasaki, now on the eve of womanhood, was very pretty indeed. So red could after all be a pleasing color, he thought. She was delightful, at artless play in a soft cloak of white lined with red. Because of her grandmother's conservative preferences, her teeth had not yet been blackened or her eyebrows plucked. Genji had put one of the women to blackening her eyebrows, which drew fresh, graceful arcs. Why, he continued asking himself, should he go seeking trouble outside the house when he had a treasure at home? He helped arrange her dollhouses.</p>
+  <p class="seiden">    Back at Nijo~, his Murasaki, now on the eve of womanhood, was very pretty indeed. So red could after all be a pleasing color, he thought. She was delightful, at artless play in a soft cloak of white lined with red. Because of her grandmother's conservative preferences, her teeth had not yet been blackened or her eyebrows plucked. Genji had put one of the women to blackening her eyebrows, which drew fresh, graceful arcs. Why, he continued asking himself, should he go seeking trouble outside the house when he had a treasure at home? He helped arrange her dollhouses.</p>
   
   <div class="annotations">
 	<p class="annotation">
@@ -4768,7 +4768,7 @@
   <p class="romanized">&nbsp;&nbsp;Ide ya!&#34;</p>
   <p class="shibuya">　いやはや」</p>
   <p class="yosano"><!----><BR></p>
-  <p class="seiden">     "A pity that it should be so."</p>
+  <p class="seiden"></p>
   
 </div>
 
@@ -4777,7 +4777,7 @@
   <p class="romanized">&nbsp;&nbsp;to&#44; ainaku uti-umeka re tamahu.</p>
   <p class="shibuya">　と、不本意に溜息をお吐かれになる。</p>
   <p class="yosano">　そんなことをだれが予期しようぞと源氏は<RUBY><RB>歎息</RB><RP>（</RP><RT>たんそく</RT><RP>）</RP></RUBY>した。<BR></p>
-  <p class="seiden"></p>
+  <p class="seiden">     "A pity that it should be so."</p>
   
   <div class="annotations">
 	<p class="annotation">
