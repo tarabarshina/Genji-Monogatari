@@ -1,9 +1,6 @@
 site_name: "源氏物語の世界 令和再編集版"
-repo_url: https://github.com/tarabarshina/Genji-Monogatari/
 theme:
   name: 'material'
-  icon:
-    repo: 'fontawesome/brands/github'
   font:
     text: 'Noto Sans JP'
   palette:
@@ -22,11 +19,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tarabarshina/Genji-Monogatari/
 extra_css:
   - css/main.css
 extra_javascript:
