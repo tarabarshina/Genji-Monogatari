@@ -20,6 +20,13 @@ I am happy if more people can also enjoy the Tale of Genji by comparing it with 
 - Akiko Yosano Translation
 - Edward G. Seidensticker Translation (work in progress)
 
+### Full Text Search
+
+[The Tale of Genji Full Text Search](search.php)
+
+The search function in MkDocs did not work because the search index was too large, so I set up a simple search page.
+It displays the number of times the search word appears in the whole text or for each original/translated text.
+
 ## License
 
 Please refer to the following website for the license.
@@ -49,7 +56,6 @@ The main content references are as follows
 
 - Addition of Seidensticker translation
 - Addition of images, annotations, etc. that are not already there
-- Under consideration, as the search index is too large for the current version to search well in MkDocs full-text search.
 
 ## Admin/Contact
 
