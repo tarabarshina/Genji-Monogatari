@@ -37,7 +37,8 @@ input[type="checkbox"] {
 	accent-color: var(--md-primary-fg-color);
 }
 
-label {
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+	font-weight: 600; !important
 }
 
 p.original  {
