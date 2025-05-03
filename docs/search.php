@@ -9,9 +9,9 @@ $isEnglish = (strpos($requestUri, '/en/') !== false);
 // 言語ごとのメッセージ定義
 $messages = [
     'ja' => [
-        'page_title' => '源氏物語 検索',
+        'page_title' => '源氏物語 全文テキスト検索',
         'search_results_title' => '「%s」の検索結果 - 源氏物語',
-        'header_title' => '源氏物語 検索',
+        'header_title' => '源氏物語 全文テキスト検索',
         'placeholder' => '検索語を入力',
         'search_button' => '検索',
         'no_results' => '「%s」の検索結果が見つかりませんでした。',
@@ -24,9 +24,9 @@ $messages = [
         'invalid_request' => '無効なリクエストです。'
     ],
     'en' => [
-        'page_title' => 'The Tale of Genji - Search',
+        'page_title' => 'The Tale of Genji - Full Text Search',
         'search_results_title' => 'Search results for "%s" - The Tale of Genji',
-        'header_title' => 'The Tale of Genji - Search',
+        'header_title' => 'The Tale of Genji - Full Text Search Search',
         'placeholder' => 'Enter search term',
         'search_button' => 'Search',
         'no_results' => 'No results found for "%s".',
@@ -444,6 +444,7 @@ echo '<!DOCTYPE html>
     </style>
 </head>
 <body>
+<a href="https://www.genji-monogatari.com">源氏物語の世界 令和再編集版 HOME - The Tale of Genji Reiwa Edition</a>
     <div class="header">
         <h1>' . $lang['header_title'] . '</h1>
         <a href="' . htmlspecialchars($switchLangUrl, ENT_QUOTES, 'UTF-8') . '" class="lang-switch">' . $switchLangText . '</a>

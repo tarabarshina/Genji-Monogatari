@@ -22,18 +22,18 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  features:
-    - search.highlight
-extra:
-  social:
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:hello@genji-monogatari.com
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
   - css/main.css
 extra_javascript:
   - js/toggle.js
 nav:
   - 'トップページ': 'index.md'
+  - '全文検索': 'search.php'
   - '第一帖 桐壺': 'volumes/volume_1.md'
   - '第二帖 帚木': 'volumes/volume_2.md'
   - '第三帖 空蝉': 'volumes/volume_3.md'
@@ -99,9 +99,10 @@ plugins:
         - locale: en
           name: English
           build: true
-          site_name: "Genji Monogatari no Sekai"
+          site_name: "Genji Monogatari no Sekai Reiwa Edition"
           nav_translations:
-            'トップページ': 'TOP PAGE'
+            'トップページ': 'Top Page'
+            '全文検索': 'Full Text Search'
             '第一帖 桐壺': 'Vol.1 The Paulownia Court'
             '第二帖 帚木': 'Vol.2 The Broom Tree'
             '第三帖 空蝉': 'Vol.3 The Shell of the Locust'
