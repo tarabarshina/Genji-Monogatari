@@ -30,6 +30,7 @@ extra_javascript:
 nav:
   - 'トップページ': 'index.md'
   - '全文検索': 'search.php'
+  - "": "#"
   - '第一帖 桐壺': 'volumes/volume_1.md'
   - '第二帖 帚木': 'volumes/volume_2.md'
   - '第三帖 空蝉': 'volumes/volume_3.md'
