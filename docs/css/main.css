@@ -4,7 +4,7 @@
 	padding: 10px;
 	margin-bottom: 15px;
 	border-radius: 5px;
-	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+	box-shadow: 0 2px 5px var(--md-default-fg-color--lighter);
 	z-index: 100;
 	font-size: 0.85rem;
 	background-color: var(--md-default-bg-color);
@@ -14,7 +14,7 @@
 	font-weight: bold;
 	margin-bottom: 8px;
 	text-align: center;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid var(--md-default-fg-color--lighter);
 	padding-bottom: 4px;
 }
 
