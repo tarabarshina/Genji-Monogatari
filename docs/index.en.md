@@ -47,7 +47,7 @@ The main content references are as follows
 
 - About Seidensticker's translation:
 	- The original text has line breaks in the middle of the text, which have been removed. Also, if there was a hyphen in the middle of a word to break the line, it was removed. (e.g. 'sud- denly' --> 'suddenly') 
-	- COCOA Markup in the text have been removed.
+	- COCOA Markup for chapter and paragraph numbers in the text have been removed.
 	- In other parts of the text, the indentation and word order of the original text are also retained, but in some cases, lines are separated between the ground text and the dialogue in order to give priority to mapping with line numbers.
 	- Other modifications are noted in the corresponding annotation numbers, respectively.
 		- In case of apparent typos (e.g. ‘pi110w’ --> ‘pillow’)
