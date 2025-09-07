@@ -1,6 +1,6 @@
 $titles = Import-Csv .\texts\subtitles.csv
 
-$VolNums = @(36)
+$VolNums = @(41)
 ForEach ($volNum in $VolNums) {
 	
 	$currentVolFiles = Get-ChildItem ".\texts\*_$($volNum).csv" -Recurse
